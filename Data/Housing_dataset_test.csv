@@ -1,0 +1,6001 @@
+ID,loc,title,bedroom,bathroom,parking_space
+845,Kano,Penthouse,4,1,2
+1924,Adamawa,Apartment,2,2,4
+10718,Adamawa,Bungalow,2,7,2
+12076,Lagos,Mansion,9,5,2
+12254,Gombe,Semi-detached duplex,5,6,1
+9950,Edo,Detached duplex,6,4,5
+1548,Niger,Flat,9,3,4
+526,Anambra,Flat,1,1,4
+6776,Niger,Flat,1,5,1
+1851,Adamawa,Bungalow,4,1,4
+9188,Benue,Detached duplex,3,6,4
+3382,Ogun,Bungalow,9,3,2
+242,Kogi,Bungalow,9,2,4
+6439,Taraba,Flat,6,3,1
+1561,Kano,Semi-detached duplex,8,2,1
+5339,Yobe,Bungalow,9,6,4
+7387,Ogun,Townhouse,4,3,4
+11576,Kano,Townhouse,3,3,6
+5984,Benue,Mansion,9,4,3
+4486,Niger,Detached duplex,4,1,3
+2205,Yobe,Semi-detached duplex,1,2,3
+3468,Zamfara,Townhouse,3,1,2
+4226,Borno,Flat,9,1,5
+2088,Anambra,Semi-detached duplex,6,2,2
+2118,Enugu,Bungalow,8,7,2
+8036,Gombe,Apartment,5,3,4
+23,Ekiti,Bungalow,2,3,3
+1898,Delta,Semi-detached duplex,3,2,4
+6976,Osun,Mansion,1,1,2
+1465,Oyo,Penthouse,6,3,2
+2040,Zamfara,Townhouse,4,1,3
+482,Bauchi,Flat,3,2,3
+5122,Kano,Semi-detached duplex,4,3,5
+3447,Enugu,Flat,1,1,4
+12877,Oyo,Penthouse,3,2,3
+3780,Kwara,Semi-detached duplex,2,3,6
+1285,Katsina,Detached duplex,3,2,4
+9200,Kwara,Apartment,7,6,1
+921,Cross River,Mansion,2,2,4
+3060,Ondo,Flat,8,6,2
+1082,Niger,Cottage,2,2,3
+71,Lagos,Flat,1,4,3
+4464,Benue,Penthouse,1,7,2
+4576,Akwa Ibom,Semi-detached duplex,8,7,4
+897,Kwara,Detached duplex,9,1,2
+1756,Kogi,Flat,1,1,5
+8745,Delta,Penthouse,1,4,3
+806,Niger,Terrace duplex,4,1,3
+803,Benue,Terrace duplex,4,1,1
+7613,Nasarawa,Semi-detached duplex,2,4,5
+243,Ebonyi,Semi-detached duplex,4,1,2
+8135,Kano,Bungalow,2,2,6
+1527,Plateau,Penthouse,4,1,3
+2825,Kwara,Bungalow,2,7,4
+666,Kano,Apartment,2,1,3
+12028,Adamawa,Semi-detached duplex,3,5,2
+2308,Ondo,Detached duplex,3,4,1
+11223,Taraba,Flat,3,6,6
+1479,Kwara,Apartment,1,1,3
+2057,Katsina,Penthouse,5,1,2
+2368,Kogi,Detached duplex,1,1,1
+7638,Ondo,Bungalow,7,7,5
+432,Akwa Ibom,Detached duplex,3,1,2
+9800,Bauchi,Flat,3,5,5
+2140,Kogi,Penthouse,8,4,5
+837,Borno,Townhouse,5,6,6
+3227,Kaduna,Detached duplex,3,7,6
+12412,Yobe,Mansion,1,4,6
+10267,Plateau,Terrace duplex,2,5,3
+3850,Bauchi,Mansion,5,6,5
+382,Adamawa,Mansion,7,5,5
+1280,Kwara,Townhouse,6,6,3
+2226,Adamawa,Mansion,9,2,3
+4166,Ekiti,Penthouse,6,7,2
+5208,Oyo,Flat,9,4,5
+4513,Osun,Flat,4,4,2
+10814,Cross River,Flat,9,3,4
+3120,Niger,Detached duplex,7,6,6
+7915,Nasarawa,Bungalow,5,3,6
+3513,Nasarawa,Detached duplex,4,5,6
+9041,Zamfara,Terrace duplex,4,2,1
+561,Plateau,Apartment,4,2,3
+11041,Anambra,Detached duplex,6,2,6
+2920,Ondo,Apartment,9,6,3
+2042,Sokoto,Semi-detached duplex,2,1,2
+10220,Delta,Detached duplex,1,1,2
+11511,Anambra,Semi-detached duplex,3,1,5
+8424,Oyo,Penthouse,5,3,1
+5801,Kebbi,Mansion,4,4,4
+10746,Adamawa,Bungalow,3,3,1
+11018,Kaduna,Semi-detached duplex,2,1,2
+816,Kebbi,Bungalow,1,2,2
+10413,Enugu,Flat,3,3,4
+4471,Kebbi,Penthouse,7,7,5
+1928,Kaduna,Semi-detached duplex,6,2,2
+323,Delta,Townhouse,1,2,2
+11548,Ondo,Terrace duplex,9,1,3
+12564,Nasarawa,Mansion,1,3,5
+5817,Enugu,Penthouse,6,6,3
+1030,Sokoto,Bungalow,5,1,2
+3888,Katsina,Townhouse,5,2,1
+2427,Kwara,Penthouse,3,2,2
+5378,Ebonyi,Penthouse,3,2,3
+3701,Oyo,Detached duplex,1,2,5
+4536,Niger,Terrace duplex,3,3,6
+3799,Lagos,Flat,1,1,3
+9431,Ebonyi,Semi-detached duplex,8,4,2
+10878,Zamfara,Detached duplex,1,4,5
+2028,Kaduna,Apartment,1,2,4
+5598,Kano,Detached duplex,5,2,2
+5828,Bayelsa,Mansion,8,3,2
+2842,Akwa Ibom,Apartment,5,1,4
+279,Bauchi,Bungalow,8,2,6
+4812,Borno,Flat,8,5,1
+11406,Anambra,Flat,4,5,3
+1086,Benue,Townhouse,2,4,2
+2696,Adamawa,Flat,3,1,3
+9220,Kaduna,Bungalow,1,6,6
+1496,Kebbi,Townhouse,4,1,4
+3737,Kano,Flat,2,2,4
+12211,Kebbi,Mansion,7,1,4
+1556,Anambra,Penthouse,1,1,3
+1066,Enugu,Bungalow,2,1,4
+1836,Borno,Semi-detached duplex,1,7,5
+10913,Zamfara,Apartment,4,1,5
+1868,Taraba,Townhouse,3,1,2
+12610,Kano,Detached duplex,9,6,5
+12146,Kogi,Bungalow,5,3,5
+2087,Benue,Flat,5,1,2
+2916,Kano,Mansion,1,2,2
+10188,Ondo,Detached duplex,6,3,5
+3253,Ogun,Terrace duplex,1,1,3
+9082,Ogun,Detached duplex,4,2,2
+12493,Jigawa,Detached duplex,1,5,6
+5898,Enugu,Townhouse,9,6,2
+8409,Ebonyi,Apartment,9,6,1
+5885,Ekiti,Apartment,7,3,3
+1101,Abia,Semi-detached duplex,1,2,4
+10071,Abia,Penthouse,4,2,6
+11403,Akwa Ibom,Penthouse,9,2,6
+728,Anambra,Cottage,2,1,1
+11647,Kogi,Mansion,6,3,6
+1931,Lagos,Bungalow,1,2,6
+232,Taraba,Mansion,5,1,1
+3988,Gombe,Terrace duplex,4,3,5
+9416,Cross River,Semi-detached duplex,2,3,5
+1866,Oyo,Flat,5,1,1
+5685,Jigawa,Terrace duplex,9,6,3
+2779,Oyo,Terrace duplex,4,2,5
+3294,Borno,Detached duplex,9,6,1
+1471,Plateau,Penthouse,4,2,3
+2960,Benue,Apartment,4,1,3
+10447,Anambra,Terrace duplex,3,4,3
+1220,Taraba,Mansion,1,5,1
+69,Kano,Townhouse,3,1,2
+2002,Osun,Mansion,6,7,1
+2784,Adamawa,Townhouse,6,1,6
+1911,Ekiti,Penthouse,3,1,4
+3023,Rivers,Cottage,1,1,1
+3394,Sokoto,Penthouse,2,4,4
+5920,Enugu,Flat,1,6,3
+688,Lagos,Apartment,3,1,4
+1511,Yobe,Detached duplex,4,4,6
+3572,Kaduna,Penthouse,9,2,5
+12401,Katsina,Terrace duplex,1,5,5
+10756,Abia,Flat,9,6,1
+4007,Zamfara,Detached duplex,5,1,2
+3230,Imo,Cottage,2,1,1
+12240,Ekiti,Terrace duplex,9,6,6
+10539,Benue,Bungalow,6,1,4
+3226,Bayelsa,Detached duplex,4,7,5
+2280,Gombe,Terrace duplex,1,4,3
+3650,Kwara,Penthouse,5,2,4
+8540,Niger,Detached duplex,1,6,1
+5847,Bauchi,Terrace duplex,3,6,5
+6694,Cross River,Mansion,2,6,4
+1336,Imo,Terrace duplex,2,2,1
+2538,Bayelsa,Bungalow,3,2,4
+7185,Rivers,Townhouse,6,3,6
+8314,Kano,Flat,8,7,2
+1204,Kebbi,Bungalow,2,2,4
+2020,Jigawa,Apartment,5,1,2
+2468,Ogun,Flat,2,1,3
+9909,Taraba,Townhouse,5,2,4
+7935,Kebbi,Semi-detached duplex,1,7,5
+1361,Kogi,Penthouse,2,2,2
+6138,Plateau,Apartment,5,3,4
+1914,Nasarawa,Mansion,5,3,5
+11090,Kebbi,Penthouse,3,4,2
+9320,Anambra,Terrace duplex,1,6,6
+172,Bauchi,Penthouse,3,1,2
+823,Gombe,Mansion,4,1,5
+1189,Kogi,Semi-detached duplex,3,1,1
+3768,Zamfara,Bungalow,1,2,4
+2993,Adamawa,Penthouse,3,1,3
+12873,Taraba,Flat,3,6,5
+1146,Ebonyi,Flat,2,2,1
+19,Oyo,Cottage,4,1,4
+2113,Yobe,Mansion,4,1,1
+5132,Niger,Terrace duplex,8,3,2
+11109,Sokoto,Bungalow,8,7,6
+1562,Yobe,Bungalow,2,6,1
+337,Ekiti,Flat,4,2,4
+1981,Ondo,Mansion,7,2,1
+546,Jigawa,Flat,5,2,4
+7428,Yobe,Townhouse,6,4,3
+230,Benue,Flat,1,2,4
+412,Abia,Townhouse,9,7,1
+2205,Kogi,Bungalow,1,2,4
+9114,Ekiti,Townhouse,7,1,5
+1803,Niger,Semi-detached duplex,7,2,6
+1571,Ekiti,Mansion,5,1,2
+12362,Rivers,Townhouse,8,6,4
+8109,Ogun,Semi-detached duplex,2,1,6
+3868,Ogun,Townhouse,8,1,4
+3013,Ondo,Townhouse,5,2,2
+1011,Imo,Cottage,1,1,3
+12983,Yobe,Mansion,5,6,1
+116,Cross River,Flat,4,2,2
+3245,Abia,Terrace duplex,4,6,1
+2253,Akwa Ibom,Mansion,5,1,1
+10879,Nasarawa,Townhouse,9,4,2
+2246,Ondo,Bungalow,3,2,1
+11494,Enugu,Detached duplex,7,5,1
+2259,Ekiti,Mansion,5,1,1
+2199,Kwara,Terrace duplex,5,2,2
+1692,Yobe,Townhouse,4,1,4
+5772,Anambra,Flat,4,1,4
+10182,Abia,Bungalow,8,1,6
+5051,Zamfara,Penthouse,6,5,3
+5033,Lagos,Detached duplex,8,5,6
+11113,Taraba,Terrace duplex,7,1,5
+51,Kebbi,Semi-detached duplex,6,7,5
+5129,Gombe,Semi-detached duplex,1,6,6
+1550,Ogun,Flat,3,2,1
+616,Delta,Bungalow,7,5,2
+10151,Plateau,Semi-detached duplex,8,7,5
+6994,Rivers,Townhouse,8,1,2
+5738,Yobe,Terrace duplex,8,7,6
+5729,Oyo,Mansion,8,6,2
+1122,Abia,Terrace duplex,1,1,1
+3406,Gombe,Semi-detached duplex,3,2,3
+2196,Kaduna,Semi-detached duplex,1,1,2
+3768,Benue,Mansion,1,3,6
+4432,Cross River,Detached duplex,2,6,4
+2236,Sokoto,Bungalow,4,1,1
+1743,Kaduna,Flat,7,6,3
+2046,Benue,Mansion,1,2,2
+781,Kebbi,Cottage,4,2,1
+1126,Kebbi,Flat,3,1,1
+10472,Enugu,Flat,9,2,6
+3524,Zamfara,Townhouse,5,3,2
+6922,Ogun,Apartment,4,2,2
+6018,Abia,Flat,9,1,2
+2973,Oyo,Terrace duplex,5,2,3
+8323,Osun,Penthouse,9,2,1
+576,Katsina,Apartment,5,1,3
+3118,Osun,Detached duplex,1,1,1
+5737,Kogi,Townhouse,9,2,5
+4642,Enugu,Penthouse,9,7,1
+8425,Ebonyi,Detached duplex,2,6,2
+2245,Lagos,Penthouse,5,2,1
+12248,Borno,Bungalow,1,7,5
+2533,Kogi,Semi-detached duplex,1,2,4
+3134,Adamawa,Cottage,4,2,3
+5871,Sokoto,Townhouse,7,3,6
+9331,Ogun,Detached duplex,4,3,6
+959,Yobe,Penthouse,4,2,3
+2753,Bayelsa,Flat,5,1,4
+2887,Adamawa,Townhouse,4,6,5
+11710,Edo,Townhouse,4,5,4
+5279,Nasarawa,Penthouse,9,1,4
+3249,Kano,Detached duplex,1,1,2
+9711,Borno,Flat,9,7,6
+5061,Abia,Semi-detached duplex,7,2,6
+2493,Rivers,Townhouse,1,2,4
+627,Osun,Mansion,2,1,4
+2618,Kano,Flat,1,2,4
+4698,Cross River,Bungalow,1,1,5
+1575,Akwa Ibom,Bungalow,4,1,5
+425,Kebbi,Cottage,4,2,4
+944,Zamfara,Semi-detached duplex,5,2,1
+3508,Edo,Terrace duplex,2,3,5
+3674,Kaduna,Penthouse,1,4,4
+3351,Sokoto,Cottage,1,1,1
+1348,Yobe,Cottage,1,2,1
+1421,Gombe,Bungalow,2,1,3
+9134,Kaduna,Townhouse,1,1,1
+6348,Oyo,Bungalow,7,4,2
+1277,Kaduna,Bungalow,8,7,3
+1152,Gombe,Detached duplex,1,2,1
+7783,Oyo,Detached duplex,4,6,5
+29,Benue,Mansion,4,1,1
+11244,Bauchi,Semi-detached duplex,1,3,2
+5924,Delta,Mansion,8,3,1
+3001,Ondo,Penthouse,8,6,5
+4587,Adamawa,Semi-detached duplex,5,2,3
+8303,Delta,Penthouse,3,6,3
+2439,Kebbi,Flat,6,2,2
+3060,Kwara,Mansion,5,2,3
+8575,Oyo,Mansion,9,6,5
+11031,Imo,Flat,1,4,3
+2056,Edo,Bungalow,8,3,3
+8657,Kebbi,Apartment,4,7,1
+7669,Rivers,Semi-detached duplex,4,3,3
+371,Ebonyi,Mansion,2,2,3
+3985,Niger,Bungalow,4,7,4
+279,Rivers,Cottage,1,2,2
+2964,Ondo,Apartment,5,2,3
+5411,Katsina,Semi-detached duplex,1,2,5
+4555,Osun,Townhouse,6,5,6
+3310,Ebonyi,Mansion,4,1,2
+2340,Niger,Semi-detached duplex,2,1,1
+2139,Sokoto,Detached duplex,1,2,4
+578,Kaduna,Townhouse,4,2,2
+2263,Ondo,Cottage,1,1,1
+11168,Sokoto,Penthouse,9,6,5
+8198,Zamfara,Bungalow,5,7,6
+6174,Adamawa,Apartment,8,5,4
+7566,Plateau,Townhouse,1,3,3
+5106,Ondo,Penthouse,5,4,3
+1977,Bauchi,Flat,6,6,2
+5663,Kogi,Terrace duplex,8,6,5
+1398,Ogun,Terrace duplex,4,1,4
+2207,Imo,Apartment,3,1,3
+1987,Kogi,Apartment,2,5,2
+70,Akwa Ibom,Flat,4,2,2
+12282,Bayelsa,Detached duplex,7,7,3
+5913,Akwa Ibom,Mansion,7,6,4
+6506,Borno,Flat,5,1,4
+3957,Osun,Penthouse,3,1,4
+881,Borno,Semi-detached duplex,2,2,1
+1599,Abia,Flat,2,1,1
+1989,Kaduna,Mansion,8,2,6
+1719,Adamawa,Semi-detached duplex,3,2,4
+3669,Gombe,Semi-detached duplex,2,2,4
+7029,Bauchi,Mansion,1,3,1
+3537,Bayelsa,Bungalow,7,2,2
+8590,Gombe,Flat,9,2,4
+2974,Bayelsa,Apartment,5,2,1
+431,Lagos,Detached duplex,3,2,1
+12647,Enugu,Detached duplex,6,1,5
+2062,Rivers,Detached duplex,5,2,1
+8040,Yobe,Flat,6,6,2
+7744,Bauchi,Mansion,1,3,4
+6155,Sokoto,Detached duplex,7,7,4
+98,Anambra,Flat,5,1,1
+3514,Ekiti,Terrace duplex,2,6,1
+776,Imo,Detached duplex,2,1,2
+3678,Yobe,Bungalow,1,2,2
+2529,Sokoto,Townhouse,1,6,1
+1806,Benue,Townhouse,5,3,4
+6359,Kano,Bungalow,3,1,2
+200,Borno,Flat,2,1,1
+1477,Zamfara,Bungalow,9,4,6
+1679,Bayelsa,Terrace duplex,4,6,3
+2323,Edo,Penthouse,1,6,4
+917,Nasarawa,Cottage,3,2,2
+430,Ebonyi,Apartment,3,1,2
+3723,Kano,Cottage,3,2,2
+6665,Jigawa,Semi-detached duplex,3,6,1
+2719,Niger,Townhouse,1,1,3
+10429,Jigawa,Flat,2,6,1
+428,Delta,Townhouse,2,1,2
+3995,Delta,Cottage,2,1,1
+393,Niger,Terrace duplex,1,1,1
+2336,Kano,Flat,7,4,1
+2107,Nasarawa,Apartment,2,2,3
+1242,Taraba,Bungalow,1,1,2
+7616,Delta,Penthouse,1,5,4
+11586,Oyo,Detached duplex,6,4,4
+762,Niger,Flat,1,5,1
+1677,Ogun,Apartment,3,2,1
+9356,Sokoto,Apartment,5,3,5
+4810,Enugu,Flat,9,1,3
+1643,Zamfara,Penthouse,6,2,1
+1977,Rivers,Terrace duplex,4,1,1
+1102,Zamfara,Townhouse,3,1,2
+2231,Lagos,Cottage,4,2,4
+6369,Kebbi,Apartment,8,2,4
+8299,Sokoto,Mansion,8,6,5
+9088,Osun,Terrace duplex,7,4,3
+12140,Yobe,Bungalow,4,2,6
+89,Lagos,Mansion,7,4,5
+12948,Kano,Penthouse,6,6,3
+2387,Lagos,Bungalow,5,1,4
+9454,Delta,Detached duplex,5,6,5
+10957,Ogun,Townhouse,5,4,6
+6075,Borno,Detached duplex,4,4,3
+2665,Jigawa,Semi-detached duplex,5,1,2
+6511,Nasarawa,Terrace duplex,9,7,2
+3180,Jigawa,Terrace duplex,5,1,3
+4079,Ogun,Semi-detached duplex,8,4,1
+7372,Edo,Penthouse,8,7,5
+10509,Yobe,Bungalow,4,4,4
+3302,Kebbi,Mansion,3,2,2
+10714,Ekiti,Semi-detached duplex,3,6,3
+1794,Adamawa,Bungalow,5,1,4
+6467,Benue,Semi-detached duplex,5,1,5
+10015,Yobe,Bungalow,8,1,4
+12005,Ekiti,Terrace duplex,6,3,4
+11832,Kwara,Flat,2,6,3
+7524,Katsina,Penthouse,4,1,2
+680,Ogun,Detached duplex,4,5,6
+376,Yobe,Mansion,9,2,5
+8563,Imo,Terrace duplex,6,4,1
+2826,Gombe,Terrace duplex,1,1,4
+11426,Cross River,Semi-detached duplex,9,2,6
+6426,Kebbi,Penthouse,6,3,1
+649,Ogun,Mansion,5,2,4
+2190,Oyo,Townhouse,4,3,3
+11071,Imo,Semi-detached duplex,8,1,4
+738,Abia,Cottage,2,2,4
+3915,Taraba,Detached duplex,9,7,6
+2056,Enugu,Bungalow,4,2,2
+11297,Abia,Terrace duplex,7,1,4
+2113,Katsina,Terrace duplex,5,5,6
+1235,Katsina,Semi-detached duplex,1,2,2
+12351,Ebonyi,Flat,8,2,5
+995,Taraba,Cottage,2,1,1
+857,Oyo,Flat,4,2,2
+1559,Benue,Terrace duplex,5,1,4
+7580,Taraba,Terrace duplex,8,1,5
+716,Adamawa,Apartment,1,1,4
+3161,Akwa Ibom,Bungalow,5,2,3
+6287,Ebonyi,Mansion,3,4,6
+3061,Kwara,Semi-detached duplex,4,3,1
+2715,Akwa Ibom,Cottage,4,2,1
+8652,Kaduna,Detached duplex,8,4,5
+8978,Abia,Bungalow,6,4,4
+11641,Lagos,Townhouse,9,1,1
+4811,Imo,Terrace duplex,6,7,1
+132,Ekiti,Mansion,3,1,3
+3930,Katsina,Penthouse,2,7,4
+12963,Plateau,Penthouse,9,7,6
+3625,Plateau,Bungalow,1,3,6
+2256,Kaduna,Apartment,5,1,3
+11883,Kwara,Terrace duplex,4,5,3
+1393,Ogun,Mansion,5,1,3
+778,Rivers,Townhouse,4,2,4
+333,Niger,Bungalow,2,1,2
+2259,Osun,Cottage,3,1,4
+4898,Bayelsa,Terrace duplex,7,4,6
+975,Niger,Flat,1,1,3
+2130,Anambra,Penthouse,5,1,3
+12336,Kano,Flat,7,4,1
+12354,Delta,Detached duplex,7,5,3
+1707,Kogi,Terrace duplex,2,2,4
+432,Bayelsa,Bungalow,3,3,3
+1815,Enugu,Bungalow,4,1,5
+12357,Ogun,Flat,4,3,4
+11140,Anambra,Penthouse,6,6,6
+9197,Anambra,Townhouse,1,3,5
+10500,Lagos,Detached duplex,2,2,5
+12701,Rivers,Semi-detached duplex,3,4,6
+12111,Osun,Mansion,2,3,6
+11150,Jigawa,Bungalow,6,6,1
+1933,Ekiti,Flat,9,5,3
+4617,Rivers,Mansion,5,4,4
+12312,Ondo,Townhouse,8,2,3
+7129,Ondo,Townhouse,5,3,4
+5744,Cross River,Terrace duplex,8,6,3
+3903,Kano,Mansion,5,2,3
+3017,Enugu,Townhouse,9,1,3
+8723,Ogun,Penthouse,8,5,2
+3629,Delta,Flat,3,2,1
+2638,Benue,Cottage,2,2,3
+1632,Yobe,Bungalow,5,5,2
+3922,Borno,Detached duplex,3,1,4
+2216,Abia,Semi-detached duplex,2,1,3
+5267,Gombe,Mansion,9,7,2
+11091,Gombe,Townhouse,2,5,2
+4964,Cross River,Penthouse,4,1,5
+678,Kwara,Flat,1,7,6
+4678,Imo,Terrace duplex,1,5,4
+9836,Ekiti,Bungalow,4,3,6
+8905,Kano,Mansion,4,2,3
+3150,Osun,Bungalow,1,3,2
+1805,Oyo,Penthouse,4,1,3
+11262,Delta,Terrace duplex,2,5,2
+8024,Kaduna,Townhouse,9,6,2
+12988,Ogun,Apartment,3,5,2
+1611,Ondo,Townhouse,1,2,2
+3466,Kaduna,Apartment,4,2,1
+2127,Gombe,Flat,4,2,2
+497,Bayelsa,Flat,8,1,2
+1647,Benue,Semi-detached duplex,1,1,3
+2848,Plateau,Cottage,2,2,2
+293,Ondo,Detached duplex,2,2,2
+7256,Oyo,Detached duplex,4,7,2
+9063,Ondo,Detached duplex,2,3,1
+6441,Edo,Townhouse,6,3,5
+47,Oyo,Semi-detached duplex,7,6,3
+5323,Adamawa,Apartment,3,5,4
+6487,Cross River,Semi-detached duplex,2,3,6
+1948,Cross River,Terrace duplex,4,2,3
+1659,Bayelsa,Bungalow,5,2,2
+1213,Gombe,Detached duplex,2,2,2
+11663,Abia,Mansion,4,6,3
+3954,Kano,Penthouse,6,5,2
+724,Ogun,Apartment,6,4,1
+1930,Borno,Penthouse,2,1,1
+7833,Niger,Semi-detached duplex,1,3,2
+814,Kwara,Terrace duplex,5,2,6
+12190,Cross River,Townhouse,1,7,4
+4080,Adamawa,Apartment,6,4,6
+11344,Kano,Flat,9,1,2
+272,Imo,Cottage,4,1,1
+10180,Kogi,Bungalow,1,6,1
+6099,Nasarawa,Penthouse,7,4,6
+5797,Enugu,Apartment,6,1,1
+7476,Akwa Ibom,Flat,5,1,6
+833,Adamawa,Mansion,2,2,4
+5545,Ekiti,Flat,6,7,2
+630,Kano,Bungalow,6,7,3
+1502,Imo,Semi-detached duplex,3,1,2
+12148,Akwa Ibom,Terrace duplex,3,1,2
+1605,Adamawa,Townhouse,4,2,3
+2365,Edo,Apartment,3,1,1
+12494,Ebonyi,Townhouse,5,6,2
+6244,Oyo,Terrace duplex,6,5,6
+3130,Benue,Detached duplex,2,1,1
+1870,Kaduna,Townhouse,2,6,6
+10144,Kano,Terrace duplex,3,2,3
+3752,Gombe,Bungalow,2,2,4
+5798,Kano,Mansion,5,3,5
+1765,Yobe,Detached duplex,3,1,4
+11929,Ebonyi,Mansion,9,5,6
+3241,Ebonyi,Mansion,3,4,2
+8324,Ebonyi,Penthouse,8,6,2
+2688,Adamawa,Apartment,2,2,5
+2912,Bauchi,Mansion,1,1,1
+6742,Kaduna,Mansion,8,6,2
+2694,Anambra,Semi-detached duplex,6,1,2
+5237,Kano,Flat,1,2,3
+9138,Kebbi,Mansion,4,3,5
+1773,Sokoto,Townhouse,4,1,3
+3607,Taraba,Flat,5,4,1
+3968,Katsina,Detached duplex,3,5,1
+1140,Ogun,Terrace duplex,5,1,3
+9624,Borno,Flat,2,1,5
+8311,Ogun,Penthouse,1,2,4
+202,Lagos,Apartment,9,6,5
+2982,Kaduna,Bungalow,1,2,4
+180,Kogi,Townhouse,5,7,4
+3157,Nasarawa,Bungalow,3,2,4
+2959,Kogi,Mansion,1,1,1
+1436,Gombe,Semi-detached duplex,5,1,1
+10813,Imo,Penthouse,9,4,5
+7478,Katsina,Detached duplex,5,5,1
+10467,Anambra,Bungalow,9,1,6
+5901,Akwa Ibom,Townhouse,8,1,3
+5981,Akwa Ibom,Terrace duplex,1,1,6
+8065,Katsina,Penthouse,9,7,1
+190,Plateau,Flat,2,1,1
+6240,Kebbi,Townhouse,7,4,6
+1935,Bayelsa,Flat,8,1,6
+2952,Plateau,Flat,1,2,4
+8170,Edo,Detached duplex,3,7,1
+710,Kano,Townhouse,2,1,6
+667,Kwara,Flat,2,2,2
+543,Lagos,Flat,8,5,5
+3688,Kebbi,Terrace duplex,3,1,3
+3302,Taraba,Penthouse,3,3,2
+664,Anambra,Cottage,2,1,2
+7706,Kano,Semi-detached duplex,6,6,4
+2076,Borno,Mansion,4,1,1
+2500,Kebbi,Mansion,7,7,6
+2020,Kano,Semi-detached duplex,4,2,2
+1913,Kano,Townhouse,2,1,3
+3160,Oyo,Mansion,5,1,3
+11817,Ekiti,Terrace duplex,3,3,4
+5955,Cross River,Detached duplex,1,5,6
+4195,Katsina,Flat,3,4,3
+939,Abia,Flat,9,7,4
+7386,Benue,Detached duplex,4,1,4
+12448,Zamfara,Flat,6,1,6
+163,Niger,Bungalow,5,2,1
+831,Akwa Ibom,Terrace duplex,1,4,4
+1634,Taraba,Townhouse,5,2,4
+495,Plateau,Detached duplex,1,4,2
+3411,Akwa Ibom,Detached duplex,1,2,1
+8095,Zamfara,Townhouse,4,2,5
+2251,Adamawa,Bungalow,3,7,2
+1891,Osun,Flat,2,2,4
+7473,Borno,Semi-detached duplex,7,7,2
+8557,Oyo,Flat,1,6,6
+5766,Kano,Detached duplex,4,2,3
+9849,Enugu,Bungalow,6,2,1
+12269,Abia,Semi-detached duplex,8,2,2
+5402,Taraba,Penthouse,7,5,5
+3601,Rivers,Semi-detached duplex,2,1,5
+9895,Adamawa,Apartment,4,2,2
+3909,Benue,Terrace duplex,2,2,2
+10595,Niger,Townhouse,5,6,1
+460,Ogun,Mansion,2,2,4
+2883,Adamawa,Cottage,1,2,1
+2405,Niger,Flat,2,1,1
+2969,Kano,Penthouse,1,1,4
+268,Anambra,Bungalow,3,2,4
+558,Sokoto,Mansion,5,2,3
+10556,Osun,Semi-detached duplex,2,6,5
+5476,Delta,Townhouse,2,5,6
+8017,Kwara,Detached duplex,4,2,3
+4865,Oyo,Apartment,6,6,3
+11378,Ekiti,Terrace duplex,4,4,5
+1364,Bayelsa,Flat,5,1,2
+3185,Cross River,Semi-detached duplex,3,2,2
+12622,Niger,Semi-detached duplex,3,3,1
+1135,Adamawa,Townhouse,4,1,3
+505,Edo,Mansion,3,2,3
+6459,Katsina,Terrace duplex,4,4,6
+10303,Jigawa,Mansion,2,3,3
+11899,Jigawa,Apartment,5,4,3
+3116,Imo,Cottage,1,2,2
+10073,Lagos,Apartment,2,1,4
+3393,Zamfara,Detached duplex,2,3,1
+860,Gombe,Detached duplex,5,4,5
+2410,Niger,Townhouse,5,1,3
+5662,Borno,Penthouse,5,6,5
+2210,Bauchi,Detached duplex,3,2,2
+500,Kaduna,Detached duplex,7,1,3
+1487,Oyo,Flat,3,1,1
+1971,Plateau,Detached duplex,2,2,1
+9792,Lagos,Semi-detached duplex,6,2,2
+1768,Ekiti,Flat,4,2,1
+1871,Imo,Bungalow,1,2,2
+12803,Ondo,Semi-detached duplex,4,4,6
+3923,Taraba,Flat,5,1,3
+431,Sokoto,Apartment,4,2,1
+3151,Benue,Townhouse,3,1,2
+4653,Zamfara,Penthouse,7,4,3
+9918,Lagos,Terrace duplex,7,7,6
+134,Lagos,Townhouse,3,1,2
+6377,Gombe,Detached duplex,9,6,3
+3233,Lagos,Townhouse,4,1,3
+1580,Kebbi,Flat,3,2,1
+3384,Ogun,Bungalow,5,4,2
+7289,Delta,Mansion,6,4,2
+9381,Jigawa,Bungalow,5,1,6
+12592,Rivers,Semi-detached duplex,4,5,2
+587,Kogi,Penthouse,3,2,3
+7607,Kano,Townhouse,8,7,6
+6963,Lagos,Bungalow,1,1,2
+8521,Cross River,Flat,8,6,5
+10499,Rivers,Semi-detached duplex,5,5,5
+12036,Imo,Terrace duplex,6,5,2
+7020,Kwara,Bungalow,9,5,1
+8743,Bauchi,Penthouse,9,2,4
+12157,Yobe,Penthouse,3,6,2
+11239,Ondo,Flat,3,2,6
+3663,Adamawa,Penthouse,7,3,3
+9637,Anambra,Terrace duplex,9,4,1
+8276,Kebbi,Flat,4,6,2
+3010,Rivers,Mansion,8,1,6
+2409,Ekiti,Townhouse,3,2,4
+6257,Kaduna,Bungalow,4,4,1
+2017,Jigawa,Flat,5,2,1
+12678,Enugu,Mansion,3,4,3
+6112,Osun,Mansion,4,7,1
+2189,Abia,Flat,1,7,5
+1080,Cross River,Bungalow,4,2,1
+2690,Kebbi,Penthouse,2,1,1
+6163,Delta,Flat,4,3,4
+5107,Borno,Detached duplex,3,6,3
+322,Katsina,Semi-detached duplex,1,1,4
+6522,Enugu,Townhouse,9,6,3
+2068,Edo,Flat,9,2,4
+3792,Plateau,Apartment,2,1,3
+2882,Kogi,Apartment,9,1,4
+5589,Borno,Flat,4,4,2
+5400,Nasarawa,Detached duplex,2,1,1
+2114,Jigawa,Flat,7,6,6
+111,Yobe,Townhouse,8,3,6
+4343,Edo,Mansion,5,5,6
+1712,Delta,Townhouse,7,1,4
+548,Kebbi,Bungalow,1,1,1
+3872,Ebonyi,Flat,2,2,2
+7453,Kebbi,Semi-detached duplex,4,3,6
+3551,Ondo,Flat,8,7,1
+2332,Akwa Ibom,Terrace duplex,1,1,5
+1934,Bauchi,Mansion,3,1,1
+9736,Edo,Detached duplex,2,3,3
+1182,Lagos,Flat,2,1,3
+508,Benue,Cottage,5,2,4
+11486,Gombe,Penthouse,6,7,6
+8871,Adamawa,Mansion,3,2,1
+2011,Cross River,Terrace duplex,3,2,1
+4175,Kebbi,Apartment,4,2,1
+1323,Delta,Flat,1,2,1
+10789,Bayelsa,Townhouse,4,5,2
+6130,Ondo,Townhouse,6,2,4
+435,Rivers,Detached duplex,5,1,2
+10805,Bauchi,Flat,5,3,1
+3055,Borno,Detached duplex,5,2,1
+6164,Bauchi,Flat,7,4,2
+5656,Anambra,Terrace duplex,5,5,5
+7336,Abia,Detached duplex,8,4,2
+4469,Ondo,Apartment,5,6,5
+2136,Gombe,Terrace duplex,4,2,4
+5535,Abia,Mansion,5,6,4
+1231,Kaduna,Mansion,4,2,4
+11272,Kogi,Detached duplex,9,7,2
+1021,Borno,Terrace duplex,1,4,6
+2761,Ebonyi,Flat,5,2,3
+4704,Abia,Detached duplex,5,1,6
+2705,Ondo,Semi-detached duplex,1,7,1
+435,Kogi,Terrace duplex,9,5,4
+7989,Rivers,Mansion,2,2,3
+2544,Ebonyi,Semi-detached duplex,5,1,3
+3767,Adamawa,Semi-detached duplex,4,1,2
+7294,Nasarawa,Flat,5,3,2
+11474,Gombe,Terrace duplex,4,2,3
+2330,Kogi,Terrace duplex,4,6,6
+6619,Enugu,Detached duplex,1,1,3
+6490,Ogun,Semi-detached duplex,7,4,4
+63,Abia,Mansion,3,2,2
+967,Benue,Mansion,3,7,2
+9740,Bauchi,Bungalow,9,3,6
+1763,Kano,Apartment,7,5,3
+9782,Abia,Mansion,1,7,5
+2731,Akwa Ibom,Bungalow,1,2,5
+343,Osun,Semi-detached duplex,4,1,2
+561,Bauchi,Flat,3,1,4
+6501,Akwa Ibom,Apartment,4,1,2
+10554,Yobe,Semi-detached duplex,1,2,6
+2074,Abia,Bungalow,2,7,2
+12584,Bayelsa,Terrace duplex,6,4,6
+1873,Benue,Penthouse,4,2,3
+1213,Niger,Terrace duplex,1,2,1
+5906,Adamawa,Detached duplex,9,2,2
+3139,Ekiti,Apartment,2,1,2
+4940,Osun,Bungalow,9,6,1
+2446,Kogi,Semi-detached duplex,5,5,4
+835,Taraba,Townhouse,1,1,2
+10184,Osun,Apartment,3,5,3
+11460,Taraba,Flat,7,5,1
+2817,Bayelsa,Penthouse,8,5,2
+10662,Jigawa,Penthouse,6,6,2
+9273,Niger,Semi-detached duplex,4,7,3
+219,Kogi,Detached duplex,4,2,3
+12943,Osun,Penthouse,3,3,3
+1058,Kwara,Detached duplex,5,2,4
+788,Kwara,Apartment,5,1,4
+1160,Imo,Flat,2,1,4
+2653,Akwa Ibom,Mansion,2,1,2
+10599,Lagos,Penthouse,6,7,6
+5800,Oyo,Mansion,4,2,5
+131,Lagos,Cottage,2,1,3
+3095,Bayelsa,Detached duplex,5,7,2
+1823,Enugu,Detached duplex,5,1,4
+5447,Bauchi,Mansion,8,2,5
+12900,Jigawa,Terrace duplex,1,2,2
+1316,Akwa Ibom,Cottage,4,1,3
+319,Delta,Detached duplex,2,2,3
+10480,Nasarawa,Detached duplex,5,1,2
+574,Jigawa,Cottage,4,2,1
+2822,Anambra,Townhouse,5,5,2
+9437,Osun,Penthouse,1,3,2
+4272,Edo,Mansion,5,3,2
+1782,Rivers,Semi-detached duplex,5,1,4
+11922,Kogi,Bungalow,4,7,6
+11326,Edo,Apartment,2,1,3
+1804,Enugu,Detached duplex,4,2,3
+2003,Plateau,Mansion,5,2,4
+7570,Ogun,Mansion,3,6,3
+9632,Enugu,Mansion,1,2,2
+74,Ogun,Flat,6,7,2
+7627,Kaduna,Flat,4,3,4
+11876,Cross River,Bungalow,1,7,5
+1285,Sokoto,Detached duplex,5,2,4
+2212,Ondo,Semi-detached duplex,4,2,2
+2104,Kano,Semi-detached duplex,7,4,2
+2659,Ebonyi,Townhouse,8,5,6
+1178,Ondo,Flat,4,2,3
+3876,Jigawa,Apartment,5,1,1
+677,Nasarawa,Apartment,1,7,3
+6856,Kaduna,Townhouse,3,3,5
+4256,Kano,Penthouse,7,4,1
+12061,Edo,Bungalow,2,2,3
+1948,Gombe,Apartment,6,5,6
+12461,Lagos,Penthouse,4,5,6
+2673,Cross River,Penthouse,2,2,3
+11313,Ekiti,Flat,3,4,6
+2597,Jigawa,Mansion,1,3,4
+457,Zamfara,Apartment,3,2,3
+1430,Jigawa,Semi-detached duplex,3,2,1
+8795,Niger,Mansion,8,7,1
+10465,Katsina,Apartment,1,5,4
+9807,Adamawa,Penthouse,6,7,6
+1936,Gombe,Bungalow,5,4,1
+10108,Bauchi,Terrace duplex,1,4,4
+2310,Kano,Penthouse,1,6,5
+10840,Kano,Detached duplex,6,5,1
+6251,Borno,Flat,3,3,5
+1811,Delta,Mansion,6,5,5
+12972,Lagos,Townhouse,4,2,3
+12258,Nasarawa,Mansion,4,5,2
+1830,Kwara,Apartment,3,1,2
+8947,Sokoto,Townhouse,6,1,4
+4771,Jigawa,Apartment,4,1,4
+838,Katsina,Apartment,5,1,1
+2193,Katsina,Bungalow,2,1,3
+11547,Ekiti,Flat,4,7,1
+1058,Borno,Mansion,1,3,1
+4039,Ogun,Semi-detached duplex,8,6,4
+1462,Anambra,Flat,4,2,2
+8680,Delta,Bungalow,1,1,6
+6921,Kogi,Penthouse,8,6,1
+1385,Borno,Terrace duplex,2,1,2
+410,Zamfara,Apartment,4,2,2
+8002,Gombe,Terrace duplex,7,2,2
+10165,Osun,Townhouse,2,6,4
+351,Nasarawa,Bungalow,5,1,3
+1135,Jigawa,Apartment,1,5,3
+3838,Imo,Penthouse,7,6,6
+1287,Ebonyi,Mansion,9,3,3
+3704,Benue,Terrace duplex,3,2,4
+11620,Oyo,Terrace duplex,4,6,6
+5601,Kebbi,Semi-detached duplex,7,6,6
+429,Abia,Mansion,5,1,1
+390,Abia,Terrace duplex,3,1,1
+100,Plateau,Semi-detached duplex,2,1,3
+10524,Abia,Penthouse,4,4,3
+12626,Kano,Terrace duplex,2,3,2
+3230,Kaduna,Semi-detached duplex,6,5,6
+9761,Katsina,Flat,7,5,1
+7283,Taraba,Semi-detached duplex,5,6,3
+1024,Plateau,Penthouse,3,2,3
+204,Borno,Townhouse,5,2,4
+11060,Adamawa,Bungalow,5,4,3
+10291,Benue,Detached duplex,1,1,1
+3743,Kano,Terrace duplex,8,4,2
+2592,Ogun,Flat,1,2,4
+9023,Jigawa,Penthouse,8,3,3
+11890,Imo,Bungalow,7,6,4
+6321,Abia,Semi-detached duplex,7,1,1
+1635,Akwa Ibom,Townhouse,3,2,4
+1501,Plateau,Townhouse,2,1,4
+11908,Oyo,Penthouse,4,7,6
+1103,Adamawa,Mansion,1,1,1
+1706,Ondo,Townhouse,2,2,5
+12992,Oyo,Townhouse,5,2,1
+1679,Katsina,Flat,2,1,4
+2914,Kogi,Mansion,6,4,3
+5886,Lagos,Apartment,9,6,2
+3309,Taraba,Mansion,3,1,4
+9983,Adamawa,Bungalow,8,5,5
+10866,Anambra,Semi-detached duplex,8,5,1
+12463,Kwara,Terrace duplex,8,2,5
+9921,Ondo,Apartment,2,7,5
+9528,Taraba,Townhouse,6,4,5
+8552,Niger,Terrace duplex,1,6,1
+11997,Lagos,Penthouse,9,1,5
+8663,Benue,Flat,4,3,4
+4638,Ogun,Bungalow,2,5,4
+247,Bauchi,Apartment,3,2,3
+2111,Bauchi,Apartment,5,1,3
+2790,Ogun,Terrace duplex,6,1,4
+1935,Adamawa,Townhouse,4,1,1
+7861,Borno,Semi-detached duplex,3,1,6
+8018,Delta,Townhouse,6,1,3
+9560,Imo,Detached duplex,2,6,6
+12985,Nasarawa,Semi-detached duplex,2,6,4
+2944,Anambra,Townhouse,1,1,2
+379,Kogi,Penthouse,5,1,1
+10391,Oyo,Bungalow,8,1,2
+2871,Kebbi,Townhouse,1,2,1
+1077,Edo,Mansion,4,1,4
+3339,Abia,Detached duplex,7,6,4
+476,Ebonyi,Penthouse,5,1,3
+1235,Benue,Apartment,1,2,2
+2543,Borno,Apartment,3,1,3
+50,Ogun,Flat,7,1,1
+10897,Edo,Flat,9,6,4
+4624,Imo,Flat,8,7,1
+1752,Abia,Flat,7,3,6
+1490,Ogun,Terrace duplex,5,2,4
+3539,Yobe,Semi-detached duplex,1,1,1
+11184,Kwara,Apartment,4,1,5
+3867,Ebonyi,Mansion,3,2,3
+609,Niger,Apartment,2,2,2
+8666,Plateau,Semi-detached duplex,2,4,1
+5641,Zamfara,Terrace duplex,9,3,3
+1376,Sokoto,Apartment,9,5,2
+11866,Akwa Ibom,Flat,5,6,2
+3832,Kebbi,Townhouse,4,2,5
+3371,Katsina,Townhouse,7,1,2
+327,Nasarawa,Terrace duplex,3,2,2
+93,Katsina,Bungalow,5,5,2
+2066,Kebbi,Mansion,2,1,4
+1258,Ogun,Semi-detached duplex,3,1,1
+6068,Zamfara,Apartment,4,6,1
+1106,Bayelsa,Bungalow,2,3,2
+1010,Rivers,Flat,9,7,3
+175,Anambra,Mansion,3,2,1
+9972,Bauchi,Apartment,5,1,3
+9963,Nasarawa,Bungalow,9,1,4
+12114,Delta,Terrace duplex,6,1,3
+2204,Ogun,Terrace duplex,3,1,4
+792,Anambra,Bungalow,9,2,4
+288,Ondo,Flat,2,2,3
+1423,Ondo,Mansion,4,1,1
+5514,Enugu,Apartment,3,7,5
+11875,Lagos,Apartment,6,5,5
+3955,Enugu,Penthouse,5,4,6
+6193,Ekiti,Terrace duplex,9,2,6
+7041,Bauchi,Townhouse,3,1,6
+3317,Ebonyi,Detached duplex,1,1,2
+784,Abia,Penthouse,9,5,1
+8629,Ebonyi,Detached duplex,5,3,3
+8620,Plateau,Mansion,8,3,1
+8103,Anambra,Penthouse,7,2,5
+2801,Enugu,Apartment,4,2,3
+8798,Jigawa,Semi-detached duplex,4,1,6
+2569,Oyo,Townhouse,1,2,3
+3005,Anambra,Semi-detached duplex,3,4,1
+398,Nasarawa,Cottage,3,2,1
+5046,Benue,Mansion,8,1,5
+4847,Sokoto,Detached duplex,2,4,3
+4917,Gombe,Apartment,8,6,6
+615,Akwa Ibom,Terrace duplex,2,6,3
+3047,Bauchi,Terrace duplex,2,3,3
+10407,Kogi,Semi-detached duplex,8,4,6
+6145,Benue,Apartment,4,3,2
+1161,Enugu,Townhouse,1,2,3
+162,Gombe,Penthouse,4,2,3
+9438,Akwa Ibom,Terrace duplex,7,6,3
+12852,Bauchi,Townhouse,9,4,3
+6389,Jigawa,Semi-detached duplex,4,6,5
+8115,Kogi,Townhouse,6,1,2
+7578,Ebonyi,Apartment,7,2,2
+1044,Jigawa,Apartment,4,1,1
+1111,Cross River,Townhouse,5,1,1
+1394,Kaduna,Townhouse,1,1,3
+1311,Borno,Mansion,7,2,3
+5018,Kwara,Semi-detached duplex,3,7,1
+4789,Osun,Mansion,6,3,4
+577,Enugu,Mansion,1,2,3
+5043,Osun,Penthouse,1,5,3
+1072,Ekiti,Mansion,1,2,1
+6541,Bayelsa,Terrace duplex,5,2,2
+7698,Kano,Detached duplex,6,7,3
+642,Kaduna,Apartment,2,1,4
+6667,Abia,Mansion,2,1,1
+6388,Ekiti,Flat,1,4,3
+3809,Kaduna,Semi-detached duplex,5,1,2
+8445,Kwara,Penthouse,7,2,6
+1045,Adamawa,Terrace duplex,8,1,1
+9038,Niger,Detached duplex,3,2,3
+1431,Zamfara,Terrace duplex,3,1,1
+2448,Cross River,Detached duplex,1,2,4
+3348,Ogun,Flat,9,1,3
+3412,Imo,Flat,2,2,4
+4478,Kano,Flat,1,6,1
+10821,Jigawa,Detached duplex,5,2,1
+6759,Oyo,Bungalow,9,5,6
+5318,Niger,Terrace duplex,7,5,6
+3322,Oyo,Semi-detached duplex,2,2,2
+1047,Ondo,Terrace duplex,7,3,6
+2272,Zamfara,Detached duplex,6,7,3
+8808,Kano,Apartment,1,1,6
+6987,Kaduna,Terrace duplex,8,5,4
+3031,Adamawa,Flat,4,1,5
+1372,Katsina,Terrace duplex,7,4,3
+11810,Kano,Terrace duplex,6,1,6
+870,Anambra,Detached duplex,1,7,1
+5742,Katsina,Mansion,9,2,3
+1386,Rivers,Semi-detached duplex,3,2,2
+2266,Kwara,Apartment,1,1,2
+4279,Bayelsa,Townhouse,4,2,2
+1454,Zamfara,Flat,2,6,2
+903,Borno,Detached duplex,6,7,1
+6594,Ekiti,Penthouse,5,5,6
+750,Ekiti,Townhouse,1,2,1
+142,Osun,Semi-detached duplex,7,5,2
+12371,Akwa Ibom,Penthouse,7,5,5
+1617,Anambra,Cottage,4,1,4
+4640,Akwa Ibom,Apartment,4,2,2
+4569,Katsina,Semi-detached duplex,3,2,2
+316,Yobe,Townhouse,4,2,1
+10926,Anambra,Flat,9,6,6
+2374,Plateau,Apartment,2,1,5
+12550,Niger,Bungalow,2,6,4
+709,Delta,Bungalow,9,1,5
+158,Oyo,Flat,4,5,6
+1429,Niger,Terrace duplex,4,3,4
+3854,Kwara,Penthouse,5,1,3
+2863,Katsina,Semi-detached duplex,1,1,4
+10621,Ebonyi,Bungalow,5,4,1
+4289,Benue,Apartment,8,7,3
+6055,Ogun,Apartment,3,7,4
+9832,Plateau,Mansion,1,2,5
+2693,Abia,Penthouse,7,2,1
+7011,Enugu,Flat,1,4,4
+2688,Adamawa,Townhouse,4,1,4
+10259,Akwa Ibom,Penthouse,7,2,5
+10235,Jigawa,Flat,2,2,6
+9786,Bauchi,Detached duplex,9,4,5
+3014,Jigawa,Townhouse,9,7,2
+9434,Benue,Flat,5,4,4
+9764,Anambra,Townhouse,5,5,3
+2423,Bayelsa,Semi-detached duplex,2,2,3
+651,Enugu,Townhouse,1,1,4
+3610,Katsina,Apartment,4,5,1
+1899,Rivers,Townhouse,3,1,1
+1063,Nasarawa,Semi-detached duplex,3,2,2
+4294,Nasarawa,Semi-detached duplex,5,2,1
+1422,Delta,Terrace duplex,4,1,1
+10612,Plateau,Apartment,3,4,1
+4837,Plateau,Semi-detached duplex,2,5,5
+4501,Borno,Flat,9,5,4
+10549,Oyo,Detached duplex,4,1,5
+1114,Adamawa,Terrace duplex,3,2,1
+88,Katsina,Semi-detached duplex,5,1,1
+7817,Anambra,Mansion,8,7,6
+1980,Akwa Ibom,Townhouse,5,2,1
+1151,Gombe,Penthouse,8,2,5
+2404,Enugu,Townhouse,2,2,1
+4641,Enugu,Semi-detached duplex,9,4,2
+2942,Oyo,Mansion,9,7,3
+607,Niger,Flat,5,7,6
+4293,Nasarawa,Flat,7,7,5
+5274,Abia,Terrace duplex,1,2,5
+2701,Edo,Detached duplex,5,7,5
+445,Borno,Bungalow,5,4,2
+7846,Osun,Penthouse,5,2,5
+1138,Benue,Detached duplex,5,1,1
+7784,Cross River,Flat,2,3,2
+11617,Delta,Flat,8,7,2
+1483,Sokoto,Bungalow,1,6,3
+11159,Taraba,Apartment,5,6,3
+8513,Niger,Apartment,4,7,5
+8892,Yobe,Apartment,4,3,4
+2759,Ogun,Terrace duplex,3,7,6
+4645,Cross River,Bungalow,5,3,3
+2505,Gombe,Detached duplex,4,2,2
+2017,Jigawa,Penthouse,2,2,3
+9450,Plateau,Penthouse,8,6,6
+2271,Benue,Semi-detached duplex,5,2,2
+2548,Enugu,Detached duplex,1,2,4
+541,Edo,Semi-detached duplex,5,2,3
+2449,Niger,Terrace duplex,5,1,3
+8912,Jigawa,Apartment,5,4,2
+3996,Plateau,Townhouse,4,1,1
+3866,Kaduna,Apartment,4,2,2
+2885,Kano,Penthouse,4,3,1
+2111,Kebbi,Detached duplex,1,1,3
+95,Adamawa,Mansion,1,2,3
+3071,Ogun,Flat,5,3,1
+10344,Ebonyi,Semi-detached duplex,2,7,5
+160,Zamfara,Cottage,3,1,4
+1039,Jigawa,Apartment,4,2,1
+1306,Anambra,Detached duplex,5,1,1
+2725,Delta,Semi-detached duplex,2,2,2
+868,Jigawa,Bungalow,4,1,2
+11937,Yobe,Townhouse,2,5,6
+2177,Sokoto,Apartment,2,1,3
+4366,Kebbi,Semi-detached duplex,2,5,5
+2742,Ogun,Penthouse,9,2,2
+12845,Nasarawa,Mansion,4,3,6
+624,Bayelsa,Mansion,5,2,3
+1659,Edo,Mansion,3,4,4
+6569,Plateau,Flat,1,3,4
+179,Edo,Terrace duplex,5,2,1
+12103,Akwa Ibom,Apartment,9,3,6
+450,Kaduna,Flat,5,2,2
+5796,Borno,Detached duplex,5,7,3
+2573,Akwa Ibom,Bungalow,8,1,4
+4685,Osun,Detached duplex,1,5,5
+1325,Ekiti,Terrace duplex,1,2,3
+2623,Edo,Detached duplex,3,1,4
+3088,Kebbi,Semi-detached duplex,3,2,2
+8992,Anambra,Detached duplex,8,7,5
+9195,Niger,Detached duplex,2,5,3
+2862,Cross River,Apartment,1,2,4
+4097,Imo,Bungalow,2,5,6
+12294,Niger,Townhouse,1,7,2
+1600,Akwa Ibom,Flat,4,1,4
+8716,Imo,Detached duplex,7,1,2
+11537,Abia,Apartment,2,1,3
+7663,Kogi,Flat,2,4,2
+1206,Kogi,Terrace duplex,2,1,4
+2184,Edo,Detached duplex,5,3,4
+3525,Akwa Ibom,Penthouse,4,2,4
+9221,Anambra,Semi-detached duplex,9,4,4
+2166,Bauchi,Cottage,2,2,1
+3445,Rivers,Detached duplex,4,6,4
+2278,Edo,Townhouse,4,2,3
+4525,Kaduna,Apartment,4,1,6
+1354,Sokoto,Semi-detached duplex,8,3,3
+10348,Ebonyi,Penthouse,9,4,1
+2023,Akwa Ibom,Detached duplex,4,3,2
+1672,Jigawa,Terrace duplex,4,1,1
+531,Niger,Detached duplex,1,1,4
+2048,Nasarawa,Semi-detached duplex,9,1,6
+429,Imo,Terrace duplex,2,1,4
+9757,Osun,Penthouse,9,5,2
+8636,Kaduna,Semi-detached duplex,3,5,2
+7959,Gombe,Mansion,5,7,2
+2886,Ebonyi,Mansion,1,2,2
+679,Yobe,Penthouse,1,2,1
+1270,Edo,Detached duplex,4,1,1
+1618,Niger,Mansion,3,3,1
+1033,Akwa Ibom,Flat,3,1,4
+4672,Plateau,Detached duplex,2,3,1
+5523,Anambra,Semi-detached duplex,1,6,5
+2398,Jigawa,Bungalow,9,3,2
+1028,Cross River,Bungalow,6,7,4
+459,Bauchi,Mansion,4,2,3
+11788,Osun,Bungalow,5,5,3
+3931,Ondo,Apartment,5,4,6
+410,Plateau,Terrace duplex,5,1,2
+721,Delta,Semi-detached duplex,7,6,4
+1490,Osun,Mansion,6,2,3
+2979,Imo,Bungalow,2,2,2
+1967,Kaduna,Townhouse,4,1,2
+3898,Ogun,Terrace duplex,3,2,4
+929,Yobe,Mansion,5,2,3
+398,Edo,Apartment,9,5,3
+3304,Kwara,Flat,2,2,4
+2264,Oyo,Penthouse,3,2,4
+5436,Katsina,Flat,9,5,1
+5225,Abia,Mansion,3,1,1
+8587,Kaduna,Semi-detached duplex,9,2,6
+4849,Akwa Ibom,Penthouse,7,7,5
+499,Taraba,Apartment,3,2,3
+1460,Cross River,Terrace duplex,4,2,1
+2464,Yobe,Terrace duplex,1,2,3
+2683,Borno,Apartment,8,2,3
+9029,Kogi,Mansion,6,3,5
+3188,Yobe,Townhouse,4,4,1
+1737,Jigawa,Cottage,3,2,4
+549,Lagos,Terrace duplex,2,1,2
+1390,Benue,Bungalow,1,1,3
+10437,Akwa Ibom,Bungalow,7,4,2
+2787,Taraba,Terrace duplex,1,2,1
+4062,Imo,Detached duplex,8,6,5
+777,Benue,Semi-detached duplex,3,2,4
+5135,Katsina,Townhouse,5,1,3
+3521,Sokoto,Cottage,4,2,1
+2750,Sokoto,Apartment,3,2,4
+12286,Ekiti,Flat,9,5,1
+3857,Ekiti,Townhouse,4,1,5
+578,Ebonyi,Terrace duplex,8,3,2
+1944,Edo,Semi-detached duplex,4,4,1
+3511,Bayelsa,Terrace duplex,2,2,1
+3262,Plateau,Apartment,3,7,4
+1148,Borno,Flat,3,1,3
+11137,Gombe,Townhouse,7,6,3
+2426,Gombe,Mansion,9,4,6
+12440,Enugu,Apartment,3,7,4
+2704,Lagos,Detached duplex,9,7,1
+1222,Yobe,Townhouse,3,6,4
+2707,Ekiti,Apartment,3,1,1
+10643,Ondo,Bungalow,7,6,5
+2534,Osun,Bungalow,1,5,5
+1777,Anambra,Detached duplex,2,2,2
+2331,Kebbi,Terrace duplex,5,1,2
+12938,Cross River,Terrace duplex,8,1,3
+1139,Zamfara,Semi-detached duplex,4,1,3
+1636,Anambra,Cottage,2,1,1
+3224,Bauchi,Penthouse,6,7,3
+5747,Kebbi,Apartment,9,7,6
+604,Ogun,Bungalow,9,6,5
+1346,Benue,Mansion,1,2,2
+9891,Ekiti,Townhouse,6,7,3
+2653,Borno,Penthouse,5,1,3
+10722,Niger,Mansion,1,6,3
+2214,Benue,Townhouse,1,4,2
+8519,Niger,Bungalow,8,1,5
+3869,Cross River,Mansion,2,1,2
+780,Jigawa,Terrace duplex,1,2,2
+5483,Ogun,Apartment,8,4,4
+2495,Niger,Detached duplex,4,6,2
+251,Nasarawa,Terrace duplex,2,2,3
+8327,Benue,Semi-detached duplex,9,7,1
+9610,Bauchi,Flat,8,3,3
+2949,Bauchi,Apartment,8,6,1
+3713,Ekiti,Bungalow,7,7,6
+2281,Katsina,Flat,8,4,1
+1704,Edo,Penthouse,2,2,3
+2849,Cross River,Flat,4,1,4
+11160,Kogi,Terrace duplex,3,3,1
+5196,Enugu,Terrace duplex,7,4,6
+901,Kaduna,Penthouse,1,2,3
+2204,Niger,Apartment,2,1,4
+2348,Ebonyi,Apartment,2,6,3
+11923,Sokoto,Bungalow,6,6,4
+3286,Borno,Penthouse,4,2,2
+12299,Osun,Flat,2,6,4
+1181,Kaduna,Mansion,3,1,4
+8251,Osun,Bungalow,4,5,3
+2897,Osun,Bungalow,4,2,4
+12548,Akwa Ibom,Bungalow,3,7,1
+2794,Borno,Cottage,1,1,2
+2835,Jigawa,Apartment,3,1,2
+1115,Benue,Penthouse,5,1,2
+9351,Jigawa,Semi-detached duplex,3,7,1
+12288,Ondo,Semi-detached duplex,9,2,3
+6764,Ondo,Detached duplex,1,5,1
+2009,Lagos,Mansion,1,1,4
+1484,Zamfara,Apartment,1,5,3
+12829,Zamfara,Penthouse,2,6,2
+610,Abia,Apartment,2,2,3
+2018,Kaduna,Cottage,2,2,2
+8818,Kwara,Detached duplex,7,2,4
+2270,Ondo,Terrace duplex,1,1,4
+7844,Edo,Terrace duplex,6,6,1
+1755,Borno,Terrace duplex,3,2,3
+3485,Zamfara,Flat,4,2,1
+2501,Sokoto,Terrace duplex,5,1,4
+2953,Niger,Bungalow,3,1,2
+1395,Kebbi,Apartment,2,1,3
+2171,Imo,Bungalow,2,1,2
+687,Ekiti,Townhouse,1,3,1
+1644,Benue,Mansion,3,1,1
+1697,Kano,Terrace duplex,4,2,3
+3814,Borno,Flat,5,5,2
+2740,Katsina,Bungalow,4,1,4
+2793,Plateau,Flat,5,7,6
+9962,Zamfara,Detached duplex,1,7,3
+641,Oyo,Penthouse,5,5,6
+12391,Anambra,Townhouse,7,1,2
+2590,Taraba,Semi-detached duplex,7,3,4
+994,Enugu,Mansion,5,2,1
+2645,Adamawa,Apartment,5,1,2
+11386,Anambra,Bungalow,9,2,4
+1681,Benue,Bungalow,2,2,3
+2564,Bayelsa,Cottage,1,1,4
+7876,Kebbi,Terrace duplex,5,3,4
+1345,Gombe,Cottage,3,1,3
+1417,Niger,Penthouse,1,2,3
+615,Akwa Ibom,Terrace duplex,2,2,1
+2700,Zamfara,Penthouse,8,6,5
+6521,Jigawa,Terrace duplex,4,6,1
+2526,Enugu,Mansion,1,1,2
+3038,Rivers,Apartment,3,2,4
+5790,Osun,Semi-detached duplex,1,1,4
+1919,Plateau,Terrace duplex,3,5,1
+5052,Jigawa,Flat,8,4,1
+8895,Cross River,Apartment,6,5,5
+12142,Bayelsa,Semi-detached duplex,9,2,6
+799,Ogun,Cottage,4,1,1
+12389,Lagos,Semi-detached duplex,7,7,1
+1393,Yobe,Detached duplex,8,6,2
+1373,Oyo,Mansion,5,1,3
+12110,Ondo,Apartment,9,5,5
+6469,Ondo,Bungalow,6,5,3
+1913,Katsina,Townhouse,4,1,4
+9400,Adamawa,Terrace duplex,4,1,6
+570,Taraba,Bungalow,3,2,4
+1728,Kebbi,Terrace duplex,2,2,3
+7188,Bayelsa,Mansion,4,3,5
+133,Kogi,Terrace duplex,8,7,6
+10485,Bayelsa,Mansion,7,2,5
+3011,Rivers,Townhouse,2,1,4
+277,Delta,Penthouse,2,5,1
+2296,Lagos,Terrace duplex,3,2,4
+10784,Anambra,Apartment,7,6,5
+1749,Osun,Apartment,4,2,2
+1353,Oyo,Bungalow,5,1,5
+11853,Edo,Semi-detached duplex,5,5,4
+2426,Ebonyi,Flat,1,1,2
+4998,Imo,Townhouse,4,6,6
+10103,Lagos,Mansion,9,3,2
+2930,Abia,Penthouse,2,1,1
+92,Akwa Ibom,Mansion,3,1,2
+258,Kano,Flat,1,1,1
+2074,Delta,Flat,3,2,2
+417,Adamawa,Townhouse,5,2,1
+2592,Lagos,Townhouse,5,2,2
+6207,Kano,Flat,5,2,2
+1173,Ebonyi,Townhouse,2,7,3
+3596,Taraba,Penthouse,9,5,4
+10366,Ekiti,Apartment,2,4,6
+1972,Cross River,Detached duplex,8,7,5
+129,Yobe,Terrace duplex,4,1,4
+2375,Abia,Mansion,1,2,3
+2425,Ekiti,Detached duplex,2,2,4
+3938,Zamfara,Detached duplex,4,5,3
+30,Sokoto,Penthouse,1,2,2
+1210,Rivers,Terrace duplex,3,4,5
+6950,Bayelsa,Terrace duplex,2,2,1
+4565,Kogi,Townhouse,2,1,1
+9377,Ondo,Flat,3,2,2
+1813,Nasarawa,Apartment,4,1,4
+1529,Delta,Apartment,2,1,3
+1350,Delta,Townhouse,3,5,6
+9627,Rivers,Terrace duplex,9,3,4
+4201,Anambra,Townhouse,8,5,3
+5115,Ogun,Flat,2,7,4
+10237,Gombe,Semi-detached duplex,1,5,3
+6367,Bayelsa,Apartment,8,7,1
+2532,Ondo,Bungalow,5,1,3
+1267,Rivers,Semi-detached duplex,4,2,1
+1553,Zamfara,Townhouse,2,1,2
+8861,Bauchi,Terrace duplex,2,2,6
+11037,Delta,Terrace duplex,8,1,2
+2019,Zamfara,Cottage,4,2,3
+983,Ondo,Cottage,3,2,3
+6254,Lagos,Terrace duplex,7,1,4
+6036,Taraba,Bungalow,9,5,5
+7896,Akwa Ibom,Mansion,2,1,3
+11579,Osun,Mansion,7,4,4
+9071,Jigawa,Apartment,9,4,6
+1415,Enugu,Mansion,1,7,2
+8738,Oyo,Detached duplex,3,5,2
+2421,Abia,Bungalow,2,1,4
+3887,Oyo,Flat,6,6,2
+2603,Ebonyi,Penthouse,4,2,3
+10495,Nasarawa,Terrace duplex,3,1,5
+7241,Enugu,Mansion,3,6,5
+1486,Zamfara,Bungalow,1,2,3
+840,Gombe,Flat,9,4,2
+12633,Ekiti,Detached duplex,4,1,5
+3935,Imo,Penthouse,1,1,1
+1506,Bayelsa,Bungalow,3,1,4
+51,Kano,Cottage,1,2,3
+91,Benue,Bungalow,3,1,4
+6525,Osun,Townhouse,8,3,6
+2022,Enugu,Bungalow,3,1,3
+11218,Gombe,Semi-detached duplex,5,2,6
+10449,Akwa Ibom,Townhouse,7,4,4
+2851,Ekiti,Detached duplex,5,1,1
+1613,Imo,Semi-detached duplex,5,1,2
+9444,Kogi,Semi-detached duplex,8,4,1
+10252,Sokoto,Terrace duplex,2,5,2
+2062,Kebbi,Flat,9,4,6
+6079,Sokoto,Apartment,9,7,6
+7797,Enugu,Detached duplex,3,3,1
+739,Bauchi,Bungalow,3,2,3
+12617,Ogun,Flat,7,3,6
+1809,Ogun,Penthouse,3,1,1
+9854,Rivers,Mansion,6,2,5
+9749,Kogi,Mansion,2,2,3
+12025,Ogun,Detached duplex,9,4,5
+1865,Sokoto,Flat,1,1,6
+1647,Rivers,Penthouse,3,5,6
+6023,Ogun,Semi-detached duplex,5,1,4
+10484,Yobe,Detached duplex,5,4,2
+839,Anambra,Mansion,5,1,3
+1250,Enugu,Penthouse,4,4,2
+12366,Kogi,Mansion,3,4,1
+680,Kogi,Apartment,1,1,2
+3932,Rivers,Apartment,9,2,4
+2764,Enugu,Mansion,8,7,3
+11247,Kogi,Semi-detached duplex,5,4,4
+1469,Rivers,Terrace duplex,3,2,2
+2899,Imo,Apartment,3,2,2
+6022,Abia,Townhouse,5,3,2
+88,Ondo,Mansion,1,6,2
+2565,Bauchi,Terrace duplex,3,2,4
+3091,Zamfara,Apartment,9,4,1
+11493,Kogi,Penthouse,4,5,3
+2102,Anambra,Detached duplex,5,1,1
+1296,Kebbi,Mansion,4,1,3
+2091,Taraba,Mansion,9,3,4
+3628,Niger,Apartment,3,2,1
+2869,Bayelsa,Townhouse,3,6,2
+953,Ekiti,Townhouse,9,7,1
+934,Ondo,Detached duplex,5,1,1
+2249,Enugu,Apartment,1,1,2
+8793,Gombe,Detached duplex,2,3,2
+3503,Abia,Semi-detached duplex,5,7,6
+5399,Kano,Semi-detached duplex,3,4,2
+10727,Osun,Semi-detached duplex,7,1,5
+3345,Anambra,Cottage,1,2,2
+3402,Ekiti,Flat,2,1,1
+7074,Oyo,Penthouse,3,6,3
+11381,Nasarawa,Apartment,3,1,4
+48,Anambra,Apartment,3,2,1
+12174,Anambra,Townhouse,9,7,3
+4823,Kebbi,Mansion,1,3,2
+8407,Sokoto,Detached duplex,7,5,2
+1898,Lagos,Terrace duplex,8,2,6
+3382,Nasarawa,Semi-detached duplex,2,1,1
+10289,Cross River,Townhouse,7,6,3
+2692,Ogun,Flat,4,1,3
+2014,Gombe,Mansion,1,1,3
+8442,Zamfara,Apartment,6,2,6
+592,Kano,Townhouse,4,4,5
+8920,Borno,Penthouse,5,7,1
+4724,Oyo,Flat,7,2,6
+2187,Kogi,Apartment,9,3,6
+4833,Delta,Flat,8,7,6
+612,Benue,Cottage,3,2,2
+2465,Katsina,Mansion,5,2,3
+12325,Adamawa,Townhouse,3,4,5
+11278,Zamfara,Detached duplex,2,5,6
+8705,Oyo,Apartment,7,5,5
+1026,Benue,Bungalow,1,1,1
+7917,Kaduna,Townhouse,9,6,1
+974,Bayelsa,Mansion,5,6,1
+2184,Edo,Bungalow,2,1,1
+3273,Yobe,Flat,3,1,3
+3670,Kwara,Flat,4,2,1
+3516,Adamawa,Terrace duplex,4,2,2
+11682,Kwara,Semi-detached duplex,4,3,3
+12243,Kogi,Flat,7,5,4
+7650,Edo,Mansion,1,7,4
+6091,Anambra,Penthouse,3,4,6
+12793,Bayelsa,Semi-detached duplex,5,6,4
+550,Ogun,Terrace duplex,7,1,3
+7754,Bayelsa,Townhouse,7,5,6
+763,Kaduna,Semi-detached duplex,4,1,1
+1862,Gombe,Mansion,1,5,3
+2306,Plateau,Detached duplex,4,4,4
+11541,Bauchi,Mansion,7,1,2
+10529,Ondo,Bungalow,5,2,5
+9305,Katsina,Townhouse,6,6,2
+7135,Ebonyi,Flat,4,4,3
+2188,Nasarawa,Flat,8,6,3
+7038,Borno,Mansion,4,6,5
+1657,Rivers,Cottage,3,2,1
+4952,Ogun,Flat,2,1,6
+3889,Ondo,Terrace duplex,5,1,2
+2106,Akwa Ibom,Flat,4,1,4
+6859,Niger,Detached duplex,7,7,2
+2293,Edo,Bungalow,6,2,5
+1298,Borno,Detached duplex,5,1,4
+8050,Gombe,Apartment,1,2,5
+10507,Delta,Mansion,6,4,1
+5172,Ebonyi,Semi-detached duplex,9,1,5
+2241,Edo,Bungalow,2,2,3
+7951,Cross River,Terrace duplex,4,7,6
+3554,Nasarawa,Semi-detached duplex,3,5,2
+970,Jigawa,Townhouse,7,5,2
+3860,Sokoto,Terrace duplex,5,4,5
+8588,Kogi,Terrace duplex,1,3,1
+1870,Kwara,Terrace duplex,1,2,4
+7348,Osun,Flat,5,3,3
+196,Ondo,Mansion,5,2,4
+97,Niger,Terrace duplex,7,2,4
+6568,Bayelsa,Detached duplex,2,4,3
+642,Benue,Terrace duplex,5,2,2
+647,Anambra,Cottage,1,1,2
+2637,Imo,Flat,2,2,2
+2150,Zamfara,Cottage,5,2,3
+928,Anambra,Semi-detached duplex,5,1,4
+3658,Oyo,Apartment,5,2,3
+12807,Sokoto,Apartment,4,2,1
+1776,Delta,Penthouse,1,2,2
+2571,Ondo,Detached duplex,6,1,1
+1857,Kebbi,Mansion,6,7,3
+5497,Ogun,Townhouse,4,4,2
+2231,Katsina,Detached duplex,6,3,4
+661,Rivers,Cottage,1,1,1
+2243,Ogun,Terrace duplex,2,1,3
+7044,Kebbi,Townhouse,4,1,6
+8878,Bauchi,Terrace duplex,6,4,1
+342,Lagos,Townhouse,1,2,4
+4563,Imo,Bungalow,2,3,2
+3868,Oyo,Townhouse,5,1,4
+722,Anambra,Terrace duplex,3,2,1
+7869,Borno,Flat,3,7,4
+12770,Akwa Ibom,Bungalow,1,2,1
+7153,Osun,Apartment,9,7,6
+2575,Kebbi,Flat,8,6,5
+1107,Ekiti,Semi-detached duplex,3,5,1
+29,Rivers,Penthouse,8,6,1
+2399,Sokoto,Detached duplex,4,1,2
+6602,Niger,Apartment,4,6,5
+73,Anambra,Semi-detached duplex,2,2,4
+4562,Bauchi,Penthouse,6,6,1
+8356,Lagos,Apartment,3,2,3
+490,Rivers,Flat,4,2,1
+960,Abia,Apartment,3,6,1
+3896,Kogi,Penthouse,5,5,2
+9620,Abia,Bungalow,9,7,5
+7125,Plateau,Detached duplex,4,5,3
+10693,Ekiti,Flat,9,7,2
+4118,Kano,Flat,8,5,1
+3906,Kaduna,Apartment,6,3,3
+501,Anambra,Semi-detached duplex,9,5,2
+6236,Zamfara,Flat,6,1,4
+3483,Osun,Townhouse,1,2,4
+5479,Lagos,Detached duplex,6,5,5
+895,Bauchi,Semi-detached duplex,5,1,4
+2030,Enugu,Apartment,5,6,3
+172,Jigawa,Penthouse,1,2,1
+2958,Delta,Mansion,2,1,3
+7839,Abia,Townhouse,8,2,1
+8851,Borno,Terrace duplex,3,1,2
+127,Kano,Detached duplex,2,2,3
+2560,Akwa Ibom,Flat,3,7,2
+4851,Ekiti,Townhouse,4,2,3
+6203,Kogi,Apartment,5,6,5
+532,Ogun,Penthouse,5,2,4
+1183,Kano,Apartment,2,1,2
+1448,Ondo,Terrace duplex,1,2,1
+37,Delta,Semi-detached duplex,2,1,1
+2830,Kaduna,Flat,6,5,5
+10753,Kwara,Bungalow,5,6,1
+9524,Rivers,Apartment,3,2,1
+6280,Katsina,Terrace duplex,7,6,6
+402,Ekiti,Detached duplex,8,4,4
+6876,Lagos,Penthouse,6,4,1
+1609,Ebonyi,Flat,5,2,2
+2450,Cross River,Bungalow,5,2,1
+3291,Ekiti,Mansion,4,4,4
+2352,Cross River,Semi-detached duplex,3,1,2
+3781,Ekiti,Penthouse,4,4,1
+4227,Abia,Bungalow,1,1,5
+4213,Enugu,Penthouse,1,1,1
+8840,Bayelsa,Mansion,3,6,1
+10260,Rivers,Mansion,6,6,4
+12518,Rivers,Apartment,2,6,3
+1065,Bauchi,Terrace duplex,2,2,4
+2150,Ekiti,Mansion,9,3,1
+3717,Ebonyi,Flat,1,2,3
+442,Katsina,Townhouse,9,6,2
+10770,Delta,Apartment,4,5,5
+3066,Jigawa,Mansion,1,2,4
+8577,Niger,Semi-detached duplex,9,2,4
+663,Enugu,Bungalow,9,1,6
+9176,Nasarawa,Penthouse,4,6,2
+937,Jigawa,Penthouse,1,1,1
+3904,Kano,Bungalow,3,2,1
+1621,Taraba,Flat,7,5,2
+12739,Adamawa,Apartment,4,7,3
+3235,Niger,Apartment,4,1,4
+2068,Akwa Ibom,Mansion,4,2,4
+6399,Kaduna,Detached duplex,6,5,5
+3110,Ogun,Apartment,9,5,4
+2018,Kogi,Detached duplex,2,6,2
+280,Anambra,Townhouse,5,2,4
+10385,Zamfara,Bungalow,7,1,2
+1864,Kano,Townhouse,8,2,4
+3761,Osun,Detached duplex,5,2,2
+9392,Adamawa,Detached duplex,5,5,4
+6621,Rivers,Flat,8,2,3
+1855,Yobe,Flat,9,6,1
+638,Lagos,Townhouse,1,1,1
+2375,Kebbi,Townhouse,6,6,1
+9563,Borno,Flat,6,2,5
+4036,Kaduna,Townhouse,2,6,1
+3626,Nasarawa,Bungalow,5,5,3
+3099,Delta,Semi-detached duplex,1,2,1
+1468,Zamfara,Flat,3,2,2
+11004,Lagos,Terrace duplex,6,7,1
+1031,Benue,Detached duplex,4,4,3
+1633,Bauchi,Bungalow,3,1,6
+3541,Akwa Ibom,Penthouse,4,2,3
+1937,Kogi,Cottage,3,1,4
+7248,Gombe,Apartment,4,1,1
+10846,Zamfara,Townhouse,9,4,3
+1034,Benue,Bungalow,1,2,1
+2007,Akwa Ibom,Mansion,2,1,4
+3510,Bayelsa,Terrace duplex,3,1,2
+6047,Ebonyi,Mansion,7,4,2
+5934,Edo,Terrace duplex,5,2,1
+8855,Plateau,Semi-detached duplex,2,6,6
+109,Zamfara,Flat,8,4,5
+2261,Ebonyi,Penthouse,8,6,5
+7075,Lagos,Flat,7,1,3
+1129,Kebbi,Flat,2,7,1
+9161,Ekiti,Apartment,9,7,3
+10779,Imo,Terrace duplex,6,4,1
+1764,Kebbi,Terrace duplex,7,3,4
+2364,Ebonyi,Flat,2,1,2
+1297,Katsina,Terrace duplex,1,1,1
+5575,Taraba,Bungalow,5,6,1
+11287,Ekiti,Flat,4,4,5
+2218,Kaduna,Townhouse,1,2,3
+6902,Kano,Townhouse,4,5,4
+1025,Akwa Ibom,Bungalow,1,2,2
+3027,Oyo,Semi-detached duplex,8,6,6
+1594,Yobe,Terrace duplex,3,2,1
+4691,Enugu,Penthouse,8,7,4
+303,Osun,Mansion,5,6,3
+12095,Nasarawa,Semi-detached duplex,8,3,6
+2652,Kogi,Bungalow,4,1,1
+2708,Ogun,Detached duplex,2,1,2
+1141,Plateau,Mansion,5,5,6
+10822,Ebonyi,Semi-detached duplex,7,4,4
+6808,Kebbi,Townhouse,9,3,4
+2605,Nasarawa,Apartment,5,5,1
+10096,Cross River,Townhouse,8,4,6
+1381,Jigawa,Apartment,1,2,3
+8294,Kogi,Mansion,3,5,1
+1889,Nasarawa,Penthouse,1,1,3
+1212,Bauchi,Mansion,4,1,1
+10068,Taraba,Apartment,3,7,3
+2463,Yobe,Semi-detached duplex,5,1,4
+2448,Plateau,Terrace duplex,5,7,2
+4842,Kebbi,Detached duplex,7,4,3
+7712,Oyo,Flat,3,2,4
+79,Oyo,Semi-detached duplex,7,5,4
+6666,Benue,Flat,7,1,6
+6711,Yobe,Penthouse,2,6,5
+10570,Benue,Terrace duplex,3,4,4
+3320,Ekiti,Detached duplex,5,2,3
+8386,Zamfara,Bungalow,6,5,6
+11428,Yobe,Mansion,5,7,4
+10059,Ondo,Terrace duplex,7,7,6
+8479,Imo,Apartment,5,1,3
+9567,Nasarawa,Semi-detached duplex,3,4,2
+8699,Katsina,Bungalow,7,7,6
+2722,Imo,Cottage,3,2,4
+522,Ogun,Semi-detached duplex,4,2,2
+7905,Lagos,Semi-detached duplex,1,1,3
+1710,Zamfara,Semi-detached duplex,2,3,3
+5986,Abia,Penthouse,7,1,1
+7495,Borno,Townhouse,2,3,1
+12565,Anambra,Bungalow,3,4,5
+1535,Ogun,Apartment,5,1,2
+1213,Ondo,Penthouse,7,7,2
+3169,Cross River,Bungalow,4,2,1
+2223,Ekiti,Penthouse,5,2,4
+654,Gombe,Bungalow,5,1,3
+6224,Edo,Terrace duplex,6,2,6
+1606,Plateau,Townhouse,9,4,1
+10028,Benue,Townhouse,6,2,2
+11557,Gombe,Penthouse,7,4,3
+2361,Kogi,Semi-detached duplex,5,1,3
+8490,Abia,Terrace duplex,9,1,2
+223,Delta,Bungalow,4,1,4
+503,Osun,Apartment,1,2,3
+5561,Adamawa,Mansion,4,4,2
+11943,Nasarawa,Flat,3,2,2
+1310,Taraba,Bungalow,8,1,2
+1002,Zamfara,Townhouse,7,7,6
+6973,Sokoto,Penthouse,3,3,5
+840,Benue,Apartment,4,2,4
+256,Kogi,Mansion,2,2,4
+4188,Anambra,Semi-detached duplex,7,2,2
+10081,Katsina,Flat,9,3,4
+2242,Gombe,Detached duplex,2,1,3
+827,Bayelsa,Bungalow,1,4,4
+255,Yobe,Bungalow,1,1,6
+520,Imo,Bungalow,4,1,2
+1243,Borno,Bungalow,8,4,4
+2969,Imo,Mansion,1,4,2
+9181,Adamawa,Semi-detached duplex,4,7,2
+7858,Anambra,Bungalow,5,7,4
+7802,Nasarawa,Detached duplex,7,4,5
+118,Zamfara,Terrace duplex,2,1,4
+7583,Bayelsa,Townhouse,8,1,3
+10701,Adamawa,Mansion,8,5,3
+12038,Kogi,Detached duplex,9,2,4
+136,Akwa Ibom,Penthouse,4,1,2
+2905,Cross River,Mansion,8,5,3
+3315,Ebonyi,Semi-detached duplex,4,1,4
+1736,Bauchi,Townhouse,8,7,3
+11540,Abia,Penthouse,7,1,5
+2415,Benue,Flat,2,2,4
+1273,Kano,Detached duplex,9,3,5
+209,Kano,Townhouse,7,1,1
+9745,Edo,Semi-detached duplex,3,7,3
+2754,Ebonyi,Flat,3,2,2
+3307,Edo,Apartment,4,2,1
+1149,Yobe,Townhouse,1,2,3
+6019,Niger,Townhouse,3,3,6
+10655,Akwa Ibom,Apartment,2,7,2
+7788,Kogi,Flat,7,5,2
+1389,Katsina,Cottage,4,2,4
+1231,Delta,Cottage,3,1,4
+3876,Kogi,Flat,1,5,1
+4447,Ogun,Mansion,9,2,6
+3857,Niger,Townhouse,1,2,3
+203,Plateau,Mansion,3,1,2
+589,Katsina,Semi-detached duplex,7,7,1
+1119,Gombe,Penthouse,5,2,3
+2703,Bauchi,Terrace duplex,5,2,2
+10654,Niger,Bungalow,5,6,3
+1051,Akwa Ibom,Bungalow,3,1,4
+8932,Kebbi,Penthouse,5,6,5
+702,Cross River,Apartment,5,6,4
+5295,Abia,Semi-detached duplex,1,3,4
+4871,Rivers,Apartment,7,7,5
+446,Lagos,Terrace duplex,3,5,4
+1435,Kebbi,Bungalow,4,1,4
+9863,Yobe,Townhouse,5,2,6
+12725,Ekiti,Townhouse,6,4,1
+12223,Katsina,Townhouse,4,5,1
+1327,Jigawa,Penthouse,3,2,3
+3098,Taraba,Semi-detached duplex,7,7,1
+7499,Kogi,Semi-detached duplex,9,5,5
+12799,Jigawa,Bungalow,7,2,2
+10114,Ogun,Apartment,6,1,6
+4841,Ogun,Semi-detached duplex,1,3,3
+5654,Taraba,Terrace duplex,6,1,5
+12892,Anambra,Penthouse,5,7,3
+1984,Ondo,Semi-detached duplex,2,2,2
+12763,Kano,Detached duplex,1,4,1
+1098,Nasarawa,Semi-detached duplex,4,1,1
+140,Jigawa,Terrace duplex,3,2,3
+1733,Taraba,Townhouse,1,7,1
+7930,Bauchi,Semi-detached duplex,1,1,3
+7058,Cross River,Mansion,9,7,2
+1345,Benue,Apartment,1,2,1
+3325,Imo,Apartment,6,5,1
+4419,Rivers,Terrace duplex,3,5,2
+8287,Gombe,Penthouse,9,7,3
+12890,Borno,Mansion,9,7,2
+4284,Borno,Apartment,9,4,2
+1873,Sokoto,Terrace duplex,4,1,2
+1724,Borno,Terrace duplex,6,6,1
+2749,Kwara,Detached duplex,4,2,4
+7252,Yobe,Bungalow,3,2,5
+9690,Kano,Flat,5,5,1
+3297,Benue,Cottage,2,1,3
+1316,Yobe,Bungalow,1,1,1
+8515,Sokoto,Bungalow,2,5,6
+3875,Delta,Semi-detached duplex,2,1,3
+1797,Benue,Terrace duplex,4,2,3
+5022,Ekiti,Flat,9,2,4
+6768,Bayelsa,Flat,6,3,5
+1052,Akwa Ibom,Apartment,3,4,1
+6555,Ekiti,Apartment,6,3,3
+12783,Osun,Apartment,8,3,4
+5357,Bauchi,Townhouse,9,7,5
+8455,Jigawa,Apartment,1,7,5
+5750,Ondo,Apartment,2,3,3
+2485,Akwa Ibom,Terrace duplex,2,2,1
+10644,Niger,Penthouse,2,2,4
+2403,Katsina,Detached duplex,2,1,3
+6455,Lagos,Flat,1,7,2
+869,Niger,Penthouse,2,1,4
+10287,Kwara,Semi-detached duplex,6,5,6
+1176,Ogun,Apartment,4,3,3
+253,Kaduna,Apartment,5,1,4
+2072,Nasarawa,Penthouse,1,2,4
+7435,Lagos,Apartment,7,3,3
+2255,Ogun,Semi-detached duplex,5,2,4
+976,Osun,Terrace duplex,8,5,1
+12808,Benue,Penthouse,9,6,1
+81,Oyo,Terrace duplex,1,1,2
+11759,Benue,Flat,3,2,6
+2774,Kwara,Townhouse,3,2,4
+9564,Kogi,Penthouse,8,5,4
+11767,Edo,Apartment,3,4,1
+11667,Anambra,Penthouse,9,3,1
+2752,Anambra,Terrace duplex,4,1,1
+2796,Sokoto,Townhouse,8,6,4
+8134,Akwa Ibom,Bungalow,2,3,1
+6565,Kaduna,Terrace duplex,3,5,3
+3079,Adamawa,Detached duplex,8,1,4
+2900,Oyo,Bungalow,1,1,3
+939,Anambra,Townhouse,2,1,3
+5256,Yobe,Terrace duplex,4,2,6
+3679,Taraba,Detached duplex,3,1,3
+2790,Osun,Terrace duplex,4,1,1
+4961,Anambra,Terrace duplex,4,1,5
+1347,Ebonyi,Semi-detached duplex,1,2,4
+7113,Ogun,Detached duplex,7,5,2
+2698,Akwa Ibom,Detached duplex,1,1,1
+314,Zamfara,Townhouse,4,1,4
+739,Ogun,Bungalow,4,2,2
+977,Borno,Detached duplex,4,1,3
+5363,Katsina,Townhouse,5,5,6
+9890,Anambra,Penthouse,4,7,5
+4067,Edo,Penthouse,9,3,5
+3978,Abia,Flat,4,6,4
+3108,Kaduna,Mansion,4,1,1
+5471,Jigawa,Penthouse,1,6,4
+8486,Nasarawa,Penthouse,5,1,2
+8700,Ondo,Penthouse,5,6,1
+5957,Yobe,Penthouse,8,4,5
+898,Gombe,Cottage,1,1,1
+2128,Lagos,Semi-detached duplex,2,1,3
+5260,Bauchi,Semi-detached duplex,3,6,6
+155,Ogun,Mansion,8,4,5
+2100,Kaduna,Townhouse,1,2,3
+1649,Imo,Semi-detached duplex,9,3,4
+3406,Ondo,Semi-detached duplex,7,1,3
+1510,Plateau,Townhouse,5,1,3
+5722,Niger,Penthouse,2,3,6
+3785,Anambra,Apartment,6,6,6
+12458,Adamawa,Penthouse,1,4,2
+988,Ondo,Mansion,3,2,2
+1704,Benue,Flat,1,2,3
+631,Niger,Mansion,8,6,1
+689,Kano,Apartment,1,2,4
+11499,Katsina,Apartment,6,6,5
+9810,Bauchi,Semi-detached duplex,8,5,5
+2733,Lagos,Bungalow,4,2,1
+8210,Osun,Apartment,4,2,4
+10742,Kebbi,Terrace duplex,9,1,2
+1572,Plateau,Detached duplex,4,1,1
+4198,Lagos,Mansion,4,6,1
+1696,Kwara,Mansion,5,1,3
+12662,Kebbi,Detached duplex,7,2,5
+11201,Adamawa,Apartment,2,4,6
+163,Kaduna,Bungalow,5,2,1
+9225,Imo,Townhouse,3,4,5
+2352,Adamawa,Townhouse,9,6,3
+847,Ekiti,Townhouse,4,1,6
+9662,Bayelsa,Townhouse,6,5,2
+244,Ebonyi,Flat,2,4,2
+536,Gombe,Detached duplex,1,1,4
+422,Kano,Flat,2,1,4
+2839,Kaduna,Mansion,3,1,1
+2491,Niger,Penthouse,3,2,4
+2261,Taraba,Terrace duplex,4,2,4
+9914,Benue,Bungalow,7,6,6
+8856,Bayelsa,Semi-detached duplex,2,3,1
+197,Yobe,Penthouse,9,7,3
+2536,Taraba,Bungalow,2,2,1
+9175,Osun,Flat,1,2,1
+930,Zamfara,Terrace duplex,3,1,4
+472,Akwa Ibom,Flat,1,1,4
+4435,Bayelsa,Semi-detached duplex,5,7,4
+5614,Gombe,Semi-detached duplex,9,2,4
+10211,Akwa Ibom,Townhouse,6,5,4
+647,Oyo,Semi-detached duplex,5,6,3
+9040,Benue,Mansion,2,6,4
+1971,Nasarawa,Detached duplex,3,1,4
+8394,Zamfara,Townhouse,8,3,2
+2711,Bauchi,Terrace duplex,1,2,6
+244,Osun,Detached duplex,2,2,2
+2658,Anambra,Bungalow,2,2,1
+2249,Kebbi,Flat,4,3,5
+10266,Delta,Bungalow,8,4,1
+2898,Osun,Cottage,5,1,4
+3820,Delta,Penthouse,6,1,5
+10515,Oyo,Apartment,3,1,1
+1343,Gombe,Townhouse,5,4,2
+1174,Katsina,Semi-detached duplex,2,1,4
+2451,Yobe,Penthouse,4,5,1
+2477,Taraba,Semi-detached duplex,5,4,6
+2770,Gombe,Mansion,3,4,4
+3026,Lagos,Detached duplex,3,2,4
+7374,Adamawa,Apartment,6,7,6
+6333,Bayelsa,Flat,9,1,3
+3523,Delta,Townhouse,8,3,4
+2305,Delta,Detached duplex,5,2,4
+2327,Enugu,Penthouse,4,1,2
+112,Ondo,Penthouse,4,1,4
+10649,Niger,Mansion,3,6,4
+10685,Anambra,Townhouse,7,4,3
+1327,Bayelsa,Bungalow,2,6,1
+9013,Ekiti,Penthouse,6,6,2
+2257,Delta,Semi-detached duplex,2,2,3
+298,Plateau,Townhouse,4,2,2
+1573,Enugu,Detached duplex,5,1,2
+345,Gombe,Penthouse,1,1,3
+4708,Lagos,Detached duplex,2,6,5
+9169,Gombe,Terrace duplex,6,3,6
+1673,Yobe,Apartment,5,4,6
+479,Zamfara,Terrace duplex,8,1,5
+9150,Enugu,Detached duplex,7,1,3
+8230,Plateau,Semi-detached duplex,1,1,6
+9271,Anambra,Mansion,1,5,2
+655,Kwara,Bungalow,5,1,2
+2428,Cross River,Flat,1,1,4
+178,Borno,Mansion,6,3,1
+6114,Anambra,Mansion,7,3,5
+8721,Taraba,Penthouse,4,7,5
+2424,Adamawa,Terrace duplex,8,1,5
+10690,Kwara,Townhouse,1,3,1
+2655,Kogi,Semi-detached duplex,2,1,1
+1403,Kaduna,Flat,9,4,1
+3741,Taraba,Detached duplex,1,3,1
+3782,Sokoto,Townhouse,9,6,2
+6751,Oyo,Townhouse,4,7,1
+8488,Lagos,Semi-detached duplex,5,7,2
+4798,Nasarawa,Apartment,9,4,1
+867,Taraba,Apartment,4,2,3
+6684,Ogun,Semi-detached duplex,5,6,4
+3705,Plateau,Apartment,1,1,3
+2263,Rivers,Semi-detached duplex,5,2,3
+1885,Yobe,Mansion,4,1,4
+11727,Kebbi,Bungalow,4,6,5
+2754,Ebonyi,Semi-detached duplex,2,1,3
+11535,Lagos,Mansion,9,4,6
+4684,Yobe,Penthouse,9,3,2
+12297,Nasarawa,Mansion,5,5,1
+9472,Kwara,Detached duplex,8,7,2
+3247,Bauchi,Flat,7,4,2
+6084,Niger,Semi-detached duplex,1,1,6
+4000,Cross River,Penthouse,1,7,3
+9199,Bayelsa,Townhouse,1,1,1
+8137,Bayelsa,Penthouse,4,7,6
+7242,Kwara,Terrace duplex,8,7,2
+836,Borno,Bungalow,5,2,4
+3353,Imo,Detached duplex,4,2,1
+11458,Oyo,Flat,5,5,3
+245,Kwara,Bungalow,4,2,2
+1835,Katsina,Mansion,4,1,6
+94,Nasarawa,Flat,5,1,3
+11782,Niger,Townhouse,1,1,6
+1942,Edo,Cottage,1,1,4
+7776,Akwa Ibom,Mansion,6,7,5
+1818,Bauchi,Cottage,5,1,2
+1761,Ogun,Penthouse,4,2,4
+6712,Gombe,Flat,2,4,5
+608,Imo,Bungalow,3,4,1
+1378,Kebbi,Flat,2,1,4
+1269,Niger,Penthouse,5,2,1
+443,Anambra,Terrace duplex,3,6,2
+10961,Jigawa,Detached duplex,7,6,3
+8476,Ogun,Semi-detached duplex,6,7,2
+1105,Ebonyi,Bungalow,3,2,1
+7151,Kwara,Townhouse,9,1,4
+1189,Bauchi,Apartment,4,3,1
+2628,Kogi,Townhouse,4,2,1
+2506,Yobe,Townhouse,5,2,1
+1807,Ogun,Cottage,3,1,3
+2187,Ogun,Flat,1,2,1
+1956,Katsina,Penthouse,3,2,1
+1839,Kwara,Bungalow,3,1,4
+2356,Edo,Townhouse,4,2,1
+4144,Benue,Bungalow,5,5,4
+138,Jigawa,Flat,1,2,2
+6787,Borno,Semi-detached duplex,4,7,2
+6956,Taraba,Terrace duplex,2,4,4
+2700,Plateau,Penthouse,2,1,3
+2438,Rivers,Bungalow,1,2,1
+1881,Ekiti,Cottage,4,1,4
+2350,Edo,Flat,2,2,2
+7230,Anambra,Townhouse,7,7,2
+2687,Anambra,Terrace duplex,8,7,5
+7940,Kaduna,Mansion,3,2,1
+888,Enugu,Semi-detached duplex,3,1,3
+47,Lagos,Cottage,1,2,3
+9946,Kwara,Terrace duplex,1,3,3
+9653,Rivers,Penthouse,1,5,5
+6632,Taraba,Bungalow,5,5,2
+546,Rivers,Penthouse,5,7,5
+2257,Akwa Ibom,Mansion,5,1,2
+11818,Yobe,Penthouse,2,4,6
+10803,Enugu,Apartment,4,4,6
+8030,Katsina,Mansion,2,6,2
+1708,Imo,Penthouse,4,1,2
+454,Bayelsa,Penthouse,9,2,6
+137,Rivers,Bungalow,8,3,6
+3288,Kwara,Flat,5,1,6
+2250,Benue,Bungalow,9,2,2
+121,Akwa Ibom,Mansion,1,1,2
+2185,Ekiti,Semi-detached duplex,4,1,3
+2621,Adamawa,Semi-detached duplex,3,1,3
+8734,Kogi,Semi-detached duplex,3,6,1
+2220,Kaduna,Detached duplex,3,4,4
+679,Niger,Apartment,3,1,2
+5566,Osun,Detached duplex,3,7,6
+286,Ondo,Flat,1,6,2
+6181,Cross River,Townhouse,3,3,2
+4809,Imo,Flat,3,7,1
+8203,Oyo,Apartment,6,1,3
+737,Sokoto,Apartment,2,1,4
+2559,Ondo,Penthouse,2,1,3
+8220,Sokoto,Townhouse,2,5,3
+9966,Kogi,Penthouse,2,3,5
+10406,Kwara,Townhouse,6,7,4
+11293,Bauchi,Detached duplex,9,7,1
+10997,Ondo,Townhouse,5,1,5
+2281,Nasarawa,Semi-detached duplex,4,2,2
+2320,Anambra,Cottage,4,2,3
+3333,Ekiti,Flat,8,5,1
+2105,Adamawa,Terrace duplex,5,1,3
+468,Lagos,Semi-detached duplex,5,1,4
+2538,Oyo,Mansion,3,5,2
+3243,Ekiti,Mansion,9,6,6
+12154,Kebbi,Bungalow,6,1,2
+2400,Cross River,Penthouse,3,1,3
+9930,Bayelsa,Detached duplex,3,3,6
+4199,Kogi,Terrace duplex,1,6,3
+1406,Anambra,Apartment,3,2,1
+2387,Sokoto,Apartment,6,7,2
+2802,Cross River,Apartment,2,2,3
+11837,Kano,Mansion,6,3,1
+1445,Osun,Penthouse,2,2,4
+1191,Taraba,Flat,7,6,6
+2398,Zamfara,Flat,3,2,1
+420,Cross River,Semi-detached duplex,4,2,2
+11892,Delta,Mansion,3,1,6
+2520,Kebbi,Detached duplex,5,5,1
+3698,Imo,Bungalow,4,1,4
+3740,Niger,Townhouse,8,2,2
+8628,Ondo,Flat,9,4,5
+1282,Imo,Apartment,8,3,1
+6708,Kwara,Flat,8,6,2
+11123,Niger,Penthouse,9,6,1
+2188,Cross River,Semi-detached duplex,1,1,1
+421,Benue,Bungalow,3,1,3
+8290,Osun,Detached duplex,6,4,6
+701,Niger,Cottage,2,2,3
+1472,Oyo,Bungalow,2,1,1
+12014,Abia,Semi-detached duplex,7,7,5
+5532,Edo,Penthouse,1,4,6
+8595,Bauchi,Penthouse,4,3,1
+1007,Zamfara,Terrace duplex,1,1,5
+2199,Plateau,Bungalow,3,4,2
+7884,Ondo,Penthouse,1,5,6
+3016,Sokoto,Semi-detached duplex,5,2,1
+1652,Gombe,Townhouse,3,1,4
+10038,Kano,Flat,4,2,1
+8529,Ondo,Mansion,4,4,1
+5665,Kaduna,Mansion,8,1,6
+1482,Delta,Bungalow,3,2,4
+804,Benue,Bungalow,5,1,3
+2089,Bayelsa,Terrace duplex,2,2,1
+4003,Ogun,Terrace duplex,3,2,2
+2570,Akwa Ibom,Detached duplex,4,1,2
+735,Jigawa,Detached duplex,2,2,1
+9674,Delta,Detached duplex,9,6,2
+12862,Bayelsa,Penthouse,8,4,2
+7123,Bauchi,Flat,3,2,1
+5091,Borno,Penthouse,7,6,4
+594,Cross River,Flat,3,2,1
+1410,Bayelsa,Semi-detached duplex,7,2,2
+6190,Borno,Bungalow,6,4,6
+6574,Abia,Apartment,7,1,5
+2843,Jigawa,Bungalow,3,2,2
+2933,Lagos,Mansion,9,5,4
+10339,Katsina,Terrace duplex,8,7,3
+159,Akwa Ibom,Apartment,3,2,1
+3459,Ebonyi,Mansion,9,2,4
+4015,Abia,Terrace duplex,9,6,3
+797,Kebbi,Townhouse,2,1,2
+448,Abia,Cottage,5,1,4
+9177,Ebonyi,Townhouse,3,3,1
+892,Jigawa,Detached duplex,2,2,1
+2397,Ebonyi,Bungalow,5,2,4
+486,Kaduna,Terrace duplex,4,1,3
+3686,Ebonyi,Terrace duplex,1,2,6
+9760,Sokoto,Mansion,5,5,5
+3676,Ebonyi,Penthouse,1,1,2
+12308,Sokoto,Semi-detached duplex,7,2,2
+3029,Gombe,Detached duplex,5,7,2
+1827,Imo,Mansion,8,3,5
+2762,Kebbi,Penthouse,4,2,3
+926,Abia,Semi-detached duplex,3,1,2
+1276,Akwa Ibom,Penthouse,7,6,3
+179,Adamawa,Semi-detached duplex,4,2,4
+3396,Taraba,Townhouse,1,1,4
+12047,Zamfara,Terrace duplex,1,3,4
+9881,Bayelsa,Detached duplex,8,2,4
+104,Imo,Mansion,5,1,1
+11364,Adamawa,Terrace duplex,2,5,5
+5227,Edo,Bungalow,7,1,2
+10670,Akwa Ibom,Apartment,5,6,3
+3362,Niger,Apartment,7,6,3
+5059,Ebonyi,Bungalow,3,3,4
+4004,Akwa Ibom,Penthouse,7,4,4
+12160,Enugu,Detached duplex,8,2,6
+8662,Sokoto,Townhouse,7,2,6
+11542,Cross River,Townhouse,4,5,5
+1802,Ekiti,Apartment,4,1,4
+2614,Bauchi,Terrace duplex,3,7,4
+10993,Abia,Terrace duplex,4,1,3
+12951,Kano,Townhouse,8,5,3
+7364,Borno,Detached duplex,7,2,6
+2879,Abia,Flat,1,1,4
+12898,Lagos,Townhouse,3,6,2
+3057,Anambra,Cottage,3,2,2
+2161,Lagos,Detached duplex,6,3,6
+3632,Anambra,Bungalow,6,6,6
+5259,Zamfara,Mansion,5,1,5
+5186,Kano,Bungalow,5,7,3
+3359,Rivers,Bungalow,8,4,6
+714,Niger,Semi-detached duplex,3,1,1
+1185,Akwa Ibom,Townhouse,1,2,3
+6093,Kaduna,Detached duplex,3,5,5
+4308,Ekiti,Detached duplex,1,7,5
+463,Nasarawa,Terrace duplex,5,2,3
+1252,Borno,Apartment,5,2,2
+12730,Cross River,Bungalow,4,5,5
+10648,Akwa Ibom,Bungalow,5,3,1
+8691,Jigawa,Flat,8,4,3
+9327,Ogun,Flat,8,2,3
+632,Benue,Semi-detached duplex,4,4,4
+3334,Imo,Mansion,1,2,4
+12758,Abia,Mansion,6,3,6
+4318,Sokoto,Detached duplex,9,5,1
+1146,Bayelsa,Mansion,1,1,1
+232,Ekiti,Bungalow,6,4,4
+3623,Kaduna,Bungalow,5,2,2
+877,Oyo,Penthouse,1,1,2
+5469,Edo,Mansion,7,2,2
+10442,Bauchi,Penthouse,9,7,1
+10574,Rivers,Detached duplex,4,5,5
+5272,Katsina,Bungalow,3,4,6
+3769,Sokoto,Flat,2,1,2
+2301,Oyo,Townhouse,8,1,5
+7639,Ondo,Penthouse,6,7,3
+1538,Ogun,Penthouse,7,4,3
+375,Sokoto,Bungalow,4,5,5
+3802,Gombe,Penthouse,3,1,2
+10521,Niger,Detached duplex,2,2,6
+2722,Ebonyi,Cottage,1,1,1
+1697,Zamfara,Detached duplex,1,2,3
+12129,Plateau,Bungalow,6,2,1
+3444,Rivers,Bungalow,5,5,3
+3074,Plateau,Cottage,4,1,4
+1422,Sokoto,Detached duplex,2,2,1
+7877,Adamawa,Semi-detached duplex,9,7,1
+6134,Lagos,Detached duplex,6,3,2
+528,Ebonyi,Townhouse,3,2,2
+5537,Kano,Flat,7,2,3
+1523,Kebbi,Penthouse,1,2,2
+5610,Kebbi,Apartment,4,7,6
+3692,Edo,Terrace duplex,4,1,2
+6061,Nasarawa,Semi-detached duplex,7,4,2
+9957,Kebbi,Townhouse,6,2,6
+1197,Delta,Townhouse,2,1,3
+1693,Niger,Penthouse,1,2,4
+1719,Kogi,Apartment,2,1,1
+482,Lagos,Flat,1,2,4
+1574,Lagos,Townhouse,4,2,2
+2985,Delta,Semi-detached duplex,4,2,2
+6259,Lagos,Apartment,4,2,4
+3900,Katsina,Apartment,1,7,2
+2583,Lagos,Flat,3,1,2
+3950,Ekiti,Detached duplex,6,2,5
+1467,Kogi,Bungalow,4,2,4
+1537,Kebbi,Penthouse,5,2,3
+349,Ekiti,Mansion,4,1,4
+9284,Nasarawa,Flat,8,7,1
+1766,Abia,Mansion,4,2,1
+5184,Borno,Detached duplex,6,6,5
+893,Kebbi,Penthouse,2,7,6
+12107,Oyo,Townhouse,9,1,5
+3684,Katsina,Apartment,5,1,4
+5591,Nasarawa,Semi-detached duplex,4,1,1
+10710,Sokoto,Detached duplex,4,3,1
+2948,Adamawa,Bungalow,1,1,4
+1030,Anambra,Detached duplex,1,2,2
+951,Bayelsa,Semi-detached duplex,4,1,4
+8615,Cross River,Flat,7,5,1
+7728,Ondo,Penthouse,9,5,5
+7338,Ekiti,Mansion,5,7,1
+11014,Ondo,Flat,4,5,2
+7001,Ogun,Semi-detached duplex,8,7,6
+1551,Oyo,Cottage,5,2,2
+1432,Anambra,Bungalow,3,1,4
+2375,Abia,Terrace duplex,2,1,2
+2839,Katsina,Flat,4,1,4
+10019,Adamawa,Semi-detached duplex,4,4,1
+1922,Ondo,Semi-detached duplex,3,2,4
+2386,Kogi,Bungalow,5,5,6
+3679,Delta,Flat,9,6,5
+10197,Kano,Detached duplex,9,1,6
+1218,Bayelsa,Cottage,5,2,3
+809,Gombe,Semi-detached duplex,2,1,1
+8353,Benue,Mansion,1,4,6
+9193,Plateau,Townhouse,8,3,1
+7213,Delta,Mansion,5,6,2
+1555,Jigawa,Townhouse,9,3,1
+42,Adamawa,Semi-detached duplex,2,1,2
+572,Osun,Terrace duplex,1,1,1
+12543,Enugu,Townhouse,7,1,2
+899,Gombe,Apartment,3,1,1
+3944,Jigawa,Mansion,5,1,4
+4130,Yobe,Terrace duplex,9,1,1
+558,Oyo,Bungalow,5,4,6
+2338,Kebbi,Flat,5,3,6
+2518,Jigawa,Townhouse,4,2,3
+4260,Enugu,Apartment,8,1,2
+3196,Oyo,Cottage,4,1,2
+7195,Imo,Mansion,2,1,6
+11790,Imo,Bungalow,2,1,6
+3409,Imo,Cottage,5,2,4
+401,Taraba,Bungalow,7,3,6
+11392,Ekiti,Apartment,3,4,4
+12466,Bayelsa,Apartment,6,1,2
+9879,Kwara,Semi-detached duplex,8,6,5
+8382,Borno,Mansion,5,7,3
+12537,Yobe,Bungalow,6,7,2
+1103,Nasarawa,Detached duplex,2,1,3
+6241,Ondo,Mansion,5,6,1
+11805,Osun,Townhouse,8,4,2
+2992,Edo,Detached duplex,5,1,4
+11127,Borno,Terrace duplex,1,5,4
+1983,Nasarawa,Cottage,3,1,2
+3431,Adamawa,Semi-detached duplex,3,1,6
+5814,Borno,Detached duplex,1,7,4
+3119,Kebbi,Flat,4,2,4
+594,Niger,Penthouse,5,1,3
+3706,Taraba,Flat,4,5,4
+2054,Plateau,Penthouse,3,7,2
+1010,Ekiti,Detached duplex,2,1,1
+443,Borno,Semi-detached duplex,4,2,3
+4720,Kebbi,Flat,1,3,2
+529,Edo,Detached duplex,1,1,2
+1254,Ogun,Bungalow,1,2,3
+876,Ogun,Apartment,7,1,1
+782,Akwa Ibom,Mansion,5,2,3
+8713,Ondo,Flat,3,2,6
+1688,Ebonyi,Apartment,2,6,5
+7883,Anambra,Apartment,7,2,5
+10315,Kebbi,Apartment,8,3,3
+7376,Kebbi,Detached duplex,9,7,3
+3559,Kaduna,Apartment,2,1,2
+5759,Plateau,Apartment,8,5,6
+11396,Zamfara,Bungalow,2,5,5
+1568,Akwa Ibom,Apartment,1,2,2
+8821,Anambra,Flat,7,7,5
+2904,Benue,Townhouse,2,2,3
+1078,Yobe,Semi-detached duplex,5,2,4
+7253,Taraba,Semi-detached duplex,5,3,5
+2404,Ogun,Semi-detached duplex,4,2,2
+3080,Delta,Townhouse,3,7,1
+1526,Bauchi,Apartment,3,1,2
+2824,Kogi,Semi-detached duplex,5,5,5
+299,Yobe,Detached duplex,2,2,2
+2968,Bauchi,Semi-detached duplex,3,1,2
+12384,Adamawa,Semi-detached duplex,2,2,6
+5385,Lagos,Bungalow,2,4,1
+1427,Bayelsa,Apartment,2,1,1
+120,Zamfara,Cottage,1,2,3
+9333,Abia,Penthouse,5,6,5
+1234,Anambra,Mansion,7,1,3
+3757,Plateau,Bungalow,5,1,2
+10125,Zamfara,Detached duplex,6,4,1
+7009,Cross River,Detached duplex,2,6,6
+2907,Bauchi,Semi-detached duplex,2,1,3
+2651,Cross River,Apartment,3,2,4
+11489,Bauchi,Penthouse,3,6,2
+4747,Sokoto,Terrace duplex,9,7,4
+2915,Imo,Terrace duplex,4,2,3
+2281,Bauchi,Penthouse,4,1,4
+11423,Kogi,Apartment,5,5,6
+11250,Zamfara,Apartment,5,2,2
+7954,Oyo,Mansion,1,7,1
+7398,Nasarawa,Terrace duplex,4,4,3
+12434,Ogun,Flat,3,6,3
+3835,Bauchi,Detached duplex,3,5,6
+2952,Ondo,Detached duplex,5,1,3
+10140,Sokoto,Detached duplex,2,3,1
+4164,Ekiti,Penthouse,7,1,6
+12698,Bayelsa,Townhouse,4,7,4
+365,Kogi,Mansion,4,2,1
+9691,Bauchi,Townhouse,4,5,5
+12876,Jigawa,Townhouse,9,7,3
+10808,Edo,Mansion,6,1,3
+5533,Osun,Semi-detached duplex,8,4,2
+6,Osun,Townhouse,1,2,3
+2250,Kaduna,Cottage,4,2,1
+8837,Osun,Apartment,8,2,1
+7363,Borno,Flat,8,2,2
+1747,Plateau,Townhouse,2,1,3
+638,Yobe,Flat,5,1,4
+6000,Niger,Bungalow,9,2,1
+11702,Abia,Semi-detached duplex,7,1,2
+9923,Lagos,Flat,7,6,2
+2424,Ogun,Bungalow,1,2,3
+6474,Adamawa,Bungalow,1,2,5
+8731,Adamawa,Semi-detached duplex,8,5,4
+532,Bayelsa,Semi-detached duplex,4,2,1
+1579,Akwa Ibom,Apartment,5,2,2
+10224,Ekiti,Detached duplex,4,6,6
+12889,Enugu,Apartment,6,5,2
+6890,Delta,Flat,1,1,4
+301,Gombe,Semi-detached duplex,8,7,2
+5169,Niger,Townhouse,7,1,5
+5757,Kaduna,Apartment,3,7,3
+868,Oyo,Cottage,5,1,1
+2076,Yobe,Detached duplex,4,2,1
+1045,Cross River,Mansion,3,1,3
+5114,Lagos,Apartment,4,7,1
+7335,Ekiti,Apartment,3,2,6
+247,Oyo,Mansion,8,4,2
+6606,Ogun,Terrace duplex,6,3,2
+12724,Yobe,Mansion,4,4,3
+718,Enugu,Townhouse,5,1,2
+12074,Taraba,Semi-detached duplex,9,7,5
+12382,Sokoto,Apartment,1,2,4
+2302,Plateau,Terrace duplex,4,2,4
+10399,Bauchi,Semi-detached duplex,9,1,1
+7371,Ekiti,Townhouse,9,2,4
+10009,Abia,Townhouse,4,6,6
+2043,Akwa Ibom,Semi-detached duplex,5,1,2
+9224,Lagos,Flat,4,7,2
+3223,Ondo,Detached duplex,2,1,2
+1994,Plateau,Townhouse,4,2,1
+4693,Sokoto,Semi-detached duplex,2,5,4
+7803,Cross River,Townhouse,3,5,1
+6296,Abia,Semi-detached duplex,4,5,5
+491,Lagos,Terrace duplex,5,1,2
+2903,Nasarawa,Penthouse,2,2,1
+6980,Cross River,Detached duplex,3,4,2
+7233,Osun,Terrace duplex,1,5,5
+5751,Cross River,Bungalow,4,6,4
+3895,Sokoto,Detached duplex,6,6,3
+911,Sokoto,Cottage,4,2,2
+844,Borno,Townhouse,2,1,4
+1100,Enugu,Cottage,5,1,2
+11709,Adamawa,Terrace duplex,3,1,1
+11373,Ekiti,Detached duplex,8,4,6
+5420,Benue,Townhouse,6,4,6
+1950,Ogun,Detached duplex,5,1,1
+1485,Kogi,Flat,4,4,5
+822,Ekiti,Bungalow,6,3,4
+2713,Enugu,Apartment,4,2,4
+1652,Akwa Ibom,Mansion,3,6,6
+5249,Ondo,Terrace duplex,9,7,1
+4506,Jigawa,Penthouse,7,4,6
+2020,Benue,Bungalow,3,4,5
+2708,Rivers,Semi-detached duplex,4,1,1
+4909,Bauchi,Bungalow,3,7,6
+2466,Delta,Terrace duplex,4,2,2
+1775,Borno,Flat,1,2,1
+12376,Ondo,Terrace duplex,9,1,2
+2125,Plateau,Apartment,4,1,1
+5632,Niger,Semi-detached duplex,4,3,2
+6177,Plateau,Semi-detached duplex,6,3,1
+920,Imo,Terrace duplex,3,1,3
+2440,Rivers,Townhouse,3,2,4
+322,Kebbi,Terrace duplex,5,2,2
+3543,Enugu,Semi-detached duplex,3,7,2
+45,Imo,Terrace duplex,3,2,4
+25,Lagos,Penthouse,4,1,4
+9926,Kaduna,Bungalow,7,6,5
+5017,Ogun,Semi-detached duplex,6,6,6
+769,Nasarawa,Terrace duplex,1,2,4
+749,Osun,Mansion,1,2,1
+6121,Taraba,Townhouse,1,7,1
+1955,Imo,Townhouse,4,1,1
+652,Katsina,Cottage,4,2,1
+6730,Cross River,Apartment,2,6,5
+7871,Ogun,Terrace duplex,4,5,2
+5869,Yobe,Bungalow,2,7,1
+8343,Benue,Semi-detached duplex,6,1,4
+1171,Ogun,Apartment,3,2,4
+9985,Borno,Bungalow,5,7,3
+12960,Osun,Semi-detached duplex,6,1,1
+1207,Yobe,Semi-detached duplex,5,5,2
+6735,Kebbi,Terrace duplex,3,1,1
+10534,Ondo,Mansion,4,1,6
+1780,Plateau,Terrace duplex,1,1,6
+10844,Rivers,Townhouse,6,3,6
+3404,Gombe,Townhouse,2,1,1
+7321,Ebonyi,Bungalow,7,1,6
+3147,Kogi,Cottage,5,1,3
+1804,Kwara,Townhouse,5,5,4
+4723,Ondo,Terrace duplex,3,1,1
+12257,Ondo,Townhouse,2,1,2
+7286,Zamfara,Mansion,2,2,3
+126,Ekiti,Detached duplex,2,2,4
+7641,Edo,Apartment,8,6,5
+8894,Rivers,Apartment,6,7,2
+12583,Taraba,Mansion,9,6,4
+2395,Oyo,Penthouse,3,1,6
+11724,Osun,Mansion,8,4,6
+3452,Ondo,Detached duplex,2,2,3
+5130,Kwara,Apartment,3,3,5
+4773,Abia,Flat,8,6,6
+1277,Sokoto,Cottage,2,1,2
+12261,Benue,Mansion,4,3,1
+10582,Cross River,Townhouse,7,5,4
+2542,Sokoto,Terrace duplex,3,1,6
+2536,Kwara,Terrace duplex,1,1,2
+2061,Plateau,Penthouse,3,1,1
+1934,Plateau,Semi-detached duplex,8,3,2
+2582,Delta,Penthouse,3,3,6
+2547,Kebbi,Detached duplex,1,1,3
+3386,Akwa Ibom,Detached duplex,1,5,3
+2843,Imo,Cottage,5,1,1
+4101,Ogun,Apartment,1,5,2
+11692,Bayelsa,Semi-detached duplex,7,6,4
+9108,Kogi,Flat,9,6,1
+6208,Yobe,Mansion,4,2,1
+1949,Bauchi,Townhouse,4,1,1
+341,Anambra,Terrace duplex,8,3,2
+555,Katsina,Townhouse,5,2,4
+9906,Jigawa,Semi-detached duplex,2,7,5
+2069,Niger,Mansion,1,2,2
+12051,Osun,Mansion,5,4,4
+1326,Ebonyi,Penthouse,2,2,4
+1773,Ogun,Townhouse,1,2,3
+8117,Katsina,Penthouse,2,7,3
+5732,Enugu,Apartment,3,6,2
+11631,Oyo,Bungalow,8,7,4
+2391,Ekiti,Semi-detached duplex,3,1,2
+10430,Oyo,Penthouse,1,5,6
+871,Yobe,Semi-detached duplex,3,2,1
+963,Nasarawa,Mansion,2,5,2
+10425,Jigawa,Flat,5,2,5
+10157,Ekiti,Terrace duplex,2,1,1
+2044,Ebonyi,Penthouse,5,2,3
+9042,Oyo,Townhouse,5,2,1
+3008,Benue,Townhouse,4,2,3
+3548,Jigawa,Semi-detached duplex,1,2,1
+8064,Ogun,Semi-detached duplex,2,6,3
+7547,Ekiti,Penthouse,5,7,2
+1722,Zamfara,Cottage,2,1,1
+1236,Ekiti,Bungalow,6,5,4
+1205,Zamfara,Terrace duplex,3,1,4
+3073,Niger,Townhouse,2,1,4
+2956,Akwa Ibom,Terrace duplex,1,1,1
+927,Oyo,Semi-detached duplex,5,1,2
+12931,Benue,Penthouse,6,1,4
+4660,Kano,Townhouse,2,1,3
+9908,Bauchi,Apartment,2,4,3
+6523,Jigawa,Bungalow,6,7,5
+3046,Kano,Townhouse,8,1,2
+8352,Bauchi,Bungalow,8,2,4
+2312,Ekiti,Penthouse,5,2,3
+3072,Enugu,Apartment,8,5,6
+10010,Enugu,Apartment,2,4,2
+10916,Borno,Terrace duplex,8,4,5
+8212,Jigawa,Flat,2,3,6
+3520,Nasarawa,Penthouse,3,1,3
+176,Lagos,Semi-detached duplex,2,6,3
+8883,Anambra,Bungalow,6,4,2
+1689,Bayelsa,Apartment,3,1,1
+12939,Kano,Townhouse,8,2,5
+2729,Nasarawa,Apartment,5,1,3
+7633,Bauchi,Penthouse,3,6,5
+2292,Ondo,Penthouse,1,1,2
+674,Sokoto,Penthouse,3,1,2
+7218,Gombe,Bungalow,2,3,1
+556,Ondo,Bungalow,5,1,1
+381,Niger,Penthouse,5,1,3
+1974,Rivers,Terrace duplex,4,2,1
+4416,Lagos,Bungalow,4,7,2
+3646,Gombe,Mansion,3,7,6
+5050,Jigawa,Townhouse,8,3,4
+1411,Ekiti,Bungalow,1,4,2
+8328,Edo,Flat,5,2,3
+1662,Yobe,Mansion,3,1,3
+1190,Bayelsa,Townhouse,1,2,1
+10531,Anambra,Mansion,4,4,2
+2823,Rivers,Detached duplex,4,1,1
+1425,Gombe,Flat,2,2,4
+2400,Zamfara,Terrace duplex,3,2,4
+10896,Ekiti,Penthouse,5,1,1
+12857,Ogun,Semi-detached duplex,5,3,5
+2112,Lagos,Apartment,1,2,1
+6886,Cross River,Apartment,2,3,5
+12267,Ekiti,Flat,9,3,5
+11988,Kogi,Detached duplex,6,1,6
+2522,Rivers,Semi-detached duplex,4,2,2
+2528,Katsina,Townhouse,3,1,2
+925,Ekiti,Flat,6,3,1
+2644,Kano,Flat,5,2,4
+1808,Zamfara,Apartment,4,1,6
+8860,Sokoto,Terrace duplex,9,4,1
+5633,Gombe,Bungalow,8,6,4
+11888,Anambra,Semi-detached duplex,8,5,1
+4839,Abia,Terrace duplex,2,4,4
+1607,Imo,Bungalow,3,1,2
+8936,Benue,Penthouse,8,2,4
+1155,Lagos,Townhouse,5,3,6
+3587,Abia,Townhouse,5,7,1
+12920,Delta,Semi-detached duplex,7,6,4
+5356,Delta,Flat,5,2,3
+915,Lagos,Terrace duplex,1,4,5
+7269,Osun,Townhouse,7,6,4
+574,Benue,Apartment,1,3,2
+8,Ebonyi,Apartment,2,1,4
+3273,Nasarawa,Apartment,6,7,2
+541,Lagos,Cottage,3,1,3
+1318,Adamawa,Terrace duplex,1,1,1
+811,Nasarawa,Townhouse,1,1,4
+940,Adamawa,Apartment,4,2,1
+439,Kano,Cottage,4,1,4
+1387,Ondo,Mansion,1,2,2
+2210,Sokoto,Bungalow,7,7,2
+6762,Oyo,Semi-detached duplex,9,4,6
+2192,Anambra,Penthouse,5,2,1
+4918,Abia,Mansion,8,3,4
+12457,Yobe,Bungalow,6,7,1
+2850,Benue,Terrace duplex,3,3,4
+1342,Zamfara,Penthouse,3,1,2
+1640,Enugu,Penthouse,4,7,1
+821,Adamawa,Flat,2,2,3
+2876,Katsina,Penthouse,5,1,2
+12690,Enugu,Apartment,3,1,4
+12015,Enugu,Flat,1,6,4
+7853,Bayelsa,Flat,6,4,2
+1000,Adamawa,Townhouse,2,2,5
+10884,Anambra,Terrace duplex,3,2,2
+2912,Edo,Detached duplex,2,1,3
+5422,Oyo,Apartment,1,4,6
+529,Nasarawa,Bungalow,4,1,1
+971,Taraba,Semi-detached duplex,1,2,2
+1895,Ogun,Semi-detached duplex,2,2,3
+9673,Adamawa,Bungalow,9,7,5
+4035,Niger,Semi-detached duplex,1,7,1
+10810,Ondo,Penthouse,1,6,2
+2081,Kogi,Detached duplex,7,6,5
+248,Taraba,Townhouse,4,1,3
+369,Rivers,Mansion,1,1,2
+3654,Benue,Penthouse,4,1,1
+8993,Kebbi,Apartment,3,1,5
+2228,Abia,Terrace duplex,5,2,1
+2827,Gombe,Townhouse,2,2,2
+6600,Osun,Terrace duplex,1,3,1
+3227,Bauchi,Penthouse,3,1,3
+5508,Abia,Semi-detached duplex,8,4,1
+3993,Cross River,Mansion,5,2,1
+4561,Kogi,Townhouse,3,7,3
+95,Katsina,Townhouse,7,1,1
+75,Oyo,Semi-detached duplex,2,2,4
+10147,Yobe,Flat,5,2,5
+3869,Enugu,Semi-detached duplex,1,1,6
+2736,Kebbi,Terrace duplex,5,2,2
+10816,Abia,Townhouse,5,2,5
+12713,Taraba,Bungalow,3,1,6
+3015,Kano,Townhouse,8,6,3
+4988,Jigawa,Terrace duplex,9,4,4
+2528,Bauchi,Penthouse,2,4,6
+5558,Katsina,Flat,1,7,6
+6162,Ekiti,Detached duplex,9,6,2
+455,Kebbi,Penthouse,2,1,6
+9508,Bayelsa,Bungalow,4,7,1
+9605,Ebonyi,Detached duplex,3,7,5
+5505,Benue,Penthouse,8,6,3
+12006,Niger,Bungalow,7,6,5
+6620,Nasarawa,Townhouse,1,7,5
+11398,Benue,Mansion,8,3,2
+2138,Jigawa,Mansion,5,1,1
+3917,Kwara,Terrace duplex,5,2,3
+2045,Borno,Townhouse,5,2,2
+11628,Gombe,Mansion,3,7,3
+842,Oyo,Penthouse,2,1,3
+8485,Bayelsa,Flat,5,1,2
+5299,Anambra,Flat,8,3,4
+7816,Ogun,Flat,4,3,2
+3184,Osun,Mansion,4,4,2
+1064,Borno,Semi-detached duplex,5,3,6
+3525,Akwa Ibom,Townhouse,8,7,3
+1400,Akwa Ibom,Penthouse,2,2,2
+3794,Kebbi,Semi-detached duplex,9,7,5
+3962,Ekiti,Bungalow,5,2,4
+1689,Edo,Detached duplex,3,5,5
+221,Ekiti,Townhouse,8,2,2
+1124,Katsina,Bungalow,7,6,3
+11585,Borno,Detached duplex,8,7,4
+3972,Kogi,Cottage,5,1,1
+436,Jigawa,Penthouse,5,2,4
+8526,Delta,Apartment,1,1,5
+87,Taraba,Terrace duplex,4,1,4
+1910,Ogun,Mansion,9,7,2
+12533,Kogi,Bungalow,9,3,1
+1781,Rivers,Penthouse,1,1,4
+10396,Taraba,Terrace duplex,7,2,4
+768,Katsina,Semi-detached duplex,9,4,5
+6775,Sokoto,Detached duplex,9,5,4
+9387,Benue,Detached duplex,7,7,2
+28,Benue,Apartment,3,5,5
+9685,Niger,Mansion,6,4,6
+12969,Ekiti,Flat,9,6,2
+1763,Lagos,Flat,1,1,4
+6431,Katsina,Terrace duplex,2,5,3
+1510,Imo,Flat,1,7,2
+11960,Sokoto,Penthouse,6,4,1
+8110,Akwa Ibom,Bungalow,5,2,3
+2797,Ebonyi,Semi-detached duplex,5,2,3
+1042,Akwa Ibom,Penthouse,2,1,2
+1454,Rivers,Apartment,4,2,4
+7042,Taraba,Flat,9,2,6
+2935,Kano,Bungalow,1,2,4
+8822,Benue,Flat,6,5,1
+368,Ogun,Penthouse,4,2,1
+2066,Adamawa,Semi-detached duplex,2,2,5
+1811,Abia,Penthouse,2,1,1
+12162,Kano,Penthouse,1,6,2
+1324,Ondo,Mansion,2,5,5
+1700,Kebbi,Penthouse,4,2,3
+6316,Delta,Terrace duplex,6,2,4
+1840,Zamfara,Detached duplex,5,1,3
+9229,Ondo,Penthouse,2,7,3
+11823,Oyo,Semi-detached duplex,7,7,2
+2588,Taraba,Apartment,5,2,4
+12838,Abia,Bungalow,7,7,2
+1019,Bauchi,Mansion,3,2,1
+10448,Lagos,Semi-detached duplex,8,3,1
+12576,Cross River,Townhouse,4,7,1
+11792,Yobe,Terrace duplex,6,1,3
+7965,Kebbi,Bungalow,7,2,2
+4286,Kwara,Semi-detached duplex,9,4,3
+4337,Ebonyi,Penthouse,4,4,6
+9254,Oyo,Detached duplex,1,1,1
+3836,Cross River,Bungalow,8,7,2
+463,Katsina,Apartment,6,3,4
+3571,Ebonyi,Detached duplex,1,1,3
+1859,Bayelsa,Apartment,4,1,6
+2623,Borno,Apartment,2,2,3
+12065,Kebbi,Terrace duplex,6,1,2
+5574,Kogi,Flat,6,3,5
+1542,Rivers,Detached duplex,2,2,4
+3322,Jigawa,Penthouse,5,5,6
+6719,Sokoto,Apartment,3,1,6
+2639,Ondo,Bungalow,1,1,1
+8719,Kebbi,Flat,5,3,3
+3105,Bauchi,Detached duplex,5,1,3
+12143,Plateau,Bungalow,3,2,5
+7672,Kebbi,Mansion,6,6,6
+11196,Oyo,Detached duplex,4,1,2
+3052,Katsina,Semi-detached duplex,8,3,4
+12273,Borno,Bungalow,3,1,1
+1437,Bayelsa,Townhouse,4,2,4
+9104,Gombe,Semi-detached duplex,5,6,4
+2456,Sokoto,Apartment,5,1,1
+2334,Sokoto,Detached duplex,1,1,3
+5644,Sokoto,Flat,3,6,6
+12691,Zamfara,Terrace duplex,2,3,6
+11001,Borno,Detached duplex,2,2,3
+4050,Kwara,Terrace duplex,9,7,2
+4425,Cross River,Detached duplex,7,1,4
+2366,Katsina,Detached duplex,2,2,3
+2248,Ogun,Terrace duplex,5,1,2
+8211,Bauchi,Apartment,2,5,2
+2454,Imo,Bungalow,2,6,2
+1962,Cross River,Flat,2,4,3
+7581,Anambra,Penthouse,3,1,6
+9705,Yobe,Bungalow,3,6,6
+152,Rivers,Mansion,7,2,6
+645,Niger,Semi-detached duplex,2,1,1
+9897,Cross River,Flat,2,1,5
+5555,Oyo,Bungalow,8,7,2
+4280,Oyo,Mansion,1,5,6
+2723,Kebbi,Cottage,2,2,3
+555,Delta,Flat,1,3,2
+2078,Niger,Penthouse,1,2,2
+3976,Kogi,Semi-detached duplex,4,1,1
+6322,Gombe,Mansion,9,6,2
+3555,Yobe,Townhouse,2,2,3
+9928,Taraba,Apartment,3,5,4
+989,Kano,Detached duplex,3,6,4
+3711,Kwara,Semi-detached duplex,2,2,1
+1785,Cross River,Flat,1,7,3
+8147,Zamfara,Bungalow,1,1,1
+102,Enugu,Terrace duplex,3,1,1
+8940,Borno,Terrace duplex,7,1,2
+3121,Akwa Ibom,Cottage,1,2,2
+977,Delta,Flat,5,1,2
+753,Kogi,Bungalow,3,2,3
+1027,Rivers,Bungalow,1,2,3
+951,Benue,Mansion,8,5,6
+8412,Delta,Detached duplex,4,1,1
+10013,Kebbi,Townhouse,5,6,6
+9456,Kaduna,Bungalow,3,5,4
+3330,Abia,Mansion,5,4,4
+2195,Edo,Flat,5,1,2
+2436,Ekiti,Mansion,4,2,3
+771,Ebonyi,Bungalow,4,2,2
+2716,Kano,Semi-detached duplex,4,2,3
+12127,Abia,Bungalow,2,7,3
+8876,Kogi,Apartment,3,4,5
+3199,Katsina,Penthouse,1,2,1
+4983,Oyo,Penthouse,5,2,5
+11405,Kwara,Mansion,7,4,5
+3298,Nasarawa,Bungalow,1,1,1
+1073,Kwara,Terrace duplex,4,3,3
+11482,Adamawa,Penthouse,2,5,3
+4692,Nasarawa,Bungalow,4,6,6
+6396,Adamawa,Apartment,3,1,1
+2111,Kano,Detached duplex,6,1,5
+181,Jigawa,Semi-detached duplex,3,2,4
+932,Nasarawa,Bungalow,9,6,5
+11523,Osun,Flat,9,4,1
+1390,Enugu,Flat,1,1,1
+1902,Yobe,Penthouse,2,1,3
+6867,Anambra,Penthouse,8,6,4
+5078,Imo,Semi-detached duplex,7,5,2
+7190,Gombe,Apartment,9,3,4
+2319,Katsina,Mansion,1,7,2
+11572,Borno,Terrace duplex,5,1,2
+4754,Ogun,Penthouse,8,1,3
+10198,Plateau,Townhouse,3,1,2
+27,Taraba,Flat,5,6,3
+815,Kogi,Mansion,1,2,4
+1521,Katsina,Penthouse,2,1,3
+3364,Zamfara,Bungalow,9,7,6
+1283,Benue,Bungalow,3,2,4
+5859,Ebonyi,Apartment,9,7,1
+8332,Katsina,Penthouse,3,1,1
+904,Kogi,Flat,3,2,2
+11264,Jigawa,Bungalow,8,5,1
+2917,Bauchi,Penthouse,3,2,2
+1453,Adamawa,Semi-detached duplex,2,4,1
+2471,Osun,Townhouse,5,2,4
+3716,Rivers,Bungalow,4,3,5
+7724,Oyo,Terrace duplex,7,1,5
+941,Bayelsa,Flat,3,1,2
+6391,Anambra,Detached duplex,7,1,4
+787,Borno,Detached duplex,4,1,4
+3811,Benue,Mansion,3,1,4
+1795,Edo,Mansion,4,2,4
+9074,Bauchi,Townhouse,8,3,4
+8729,Bayelsa,Townhouse,2,3,4
+8514,Rivers,Flat,9,5,4
+2634,Kaduna,Townhouse,1,2,4
+1478,Imo,Townhouse,1,6,5
+4011,Sokoto,Mansion,3,1,5
+11715,Rivers,Mansion,8,2,4
+3369,Kaduna,Bungalow,1,1,1
+3041,Plateau,Terrace duplex,3,2,3
+505,Ogun,Penthouse,3,2,2
+9113,Adamawa,Penthouse,6,3,2
+6338,Abia,Penthouse,9,6,5
+2639,Cross River,Terrace duplex,4,2,4
+12989,Abia,Apartment,5,5,4
+7779,Delta,Flat,3,2,2
+5470,Enugu,Apartment,4,7,3
+6815,Zamfara,Flat,1,2,2
+5408,Kogi,Detached duplex,9,7,6
+3675,Zamfara,Cottage,2,1,1
+2579,Cross River,Townhouse,3,1,4
+845,Yobe,Bungalow,4,5,6
+993,Ondo,Townhouse,4,2,1
+58,Ekiti,Townhouse,3,6,4
+5536,Yobe,Detached duplex,2,2,6
+1138,Anambra,Flat,6,1,3
+1395,Enugu,Townhouse,2,3,4
+2561,Rivers,Terrace duplex,1,2,3
+5119,Akwa Ibom,Penthouse,8,7,5
+12566,Ogun,Mansion,6,1,5
+1542,Kebbi,Penthouse,2,2,2
+7360,Bauchi,Townhouse,4,6,4
+2084,Benue,Apartment,6,3,2
+2010,Yobe,Townhouse,7,6,4
+8565,Osun,Townhouse,4,3,1
+805,Gombe,Flat,7,3,4
+1978,Kaduna,Townhouse,4,1,3
+11704,Ebonyi,Penthouse,6,1,5
+12955,Katsina,Terrace duplex,2,1,2
+139,Akwa Ibom,Mansion,8,7,1
+8127,Abia,Flat,9,7,6
+1507,Bauchi,Semi-detached duplex,3,2,1
+10194,Bauchi,Townhouse,2,2,5
+3057,Ebonyi,Detached duplex,9,3,1
+3125,Kaduna,Flat,6,5,6
+6408,Taraba,Penthouse,1,6,1
+2986,Ekiti,Townhouse,3,2,2
+12572,Enugu,Bungalow,2,7,1
+3696,Borno,Terrace duplex,2,7,3
+7353,Ebonyi,Bungalow,5,7,1
+12599,Borno,Townhouse,6,2,1
+6927,Jigawa,Penthouse,3,5,4
+8862,Niger,Flat,9,6,1
+6561,Nasarawa,Townhouse,6,7,2
+4214,Abia,Penthouse,7,2,2
+10908,Kogi,Penthouse,1,5,6
+1792,Delta,Semi-detached duplex,4,2,1
+12001,Sokoto,Flat,7,4,2
+2413,Benue,Detached duplex,3,3,2
+2946,Kano,Apartment,2,1,2
+2798,Jigawa,Detached duplex,1,2,4
+3449,Sokoto,Terrace duplex,5,4,1
+2009,Anambra,Terrace duplex,7,2,1
+7268,Adamawa,Mansion,4,7,4
+10482,Adamawa,Semi-detached duplex,3,7,5
+363,Oyo,Terrace duplex,1,2,2
+6465,Kwara,Mansion,2,1,1
+11095,Enugu,Penthouse,6,4,6
+2554,Delta,Apartment,4,2,3
+10964,Nasarawa,Detached duplex,3,7,4
+5177,Benue,Penthouse,7,5,1
+927,Taraba,Semi-detached duplex,8,7,4
+486,Ebonyi,Flat,4,4,5
+7751,Kano,Townhouse,9,1,1
+568,Jigawa,Mansion,3,1,2
+7308,Sokoto,Bungalow,1,2,6
+2258,Borno,Detached duplex,1,2,2
+3035,Kogi,Mansion,6,2,2
+5390,Edo,Townhouse,8,3,3
+2363,Zamfara,Semi-detached duplex,9,5,4
+139,Nasarawa,Bungalow,5,1,2
+4874,Edo,Detached duplex,4,3,6
+12418,Osun,Apartment,5,5,4
+2365,Sokoto,Cottage,5,2,3
+1483,Ogun,Bungalow,1,2,3
+347,Gombe,Bungalow,4,1,2
+2582,Ogun,Townhouse,5,1,4
+10520,Bayelsa,Semi-detached duplex,3,1,4
+1178,Bayelsa,Bungalow,3,7,2
+2035,Enugu,Apartment,2,2,2
+12861,Abia,Detached duplex,3,6,3
+4012,Ebonyi,Terrace duplex,5,2,2
+7072,Nasarawa,Townhouse,9,5,5
+2895,Adamawa,Apartment,2,2,2
+3699,Lagos,Townhouse,1,5,1
+115,Plateau,Mansion,4,2,3
+9718,Zamfara,Detached duplex,1,3,2
+2792,Akwa Ibom,Penthouse,5,3,1
+1149,Plateau,Cottage,4,2,4
+3063,Anambra,Semi-detached duplex,5,2,2
+11215,Benue,Townhouse,9,5,1
+5974,Delta,Bungalow,9,1,1
+386,Benue,Cottage,2,1,2
+724,Abia,Penthouse,1,1,3
+4129,Zamfara,Penthouse,9,3,6
+1230,Cross River,Townhouse,4,2,5
+333,Edo,Detached duplex,2,6,4
+4760,Rivers,Mansion,4,5,2
+10819,Kogi,Semi-detached duplex,5,1,1
+7416,Ebonyi,Terrace duplex,6,3,4
+475,Yobe,Semi-detached duplex,5,2,3
+1166,Yobe,Flat,7,1,2
+1713,Kebbi,Mansion,5,2,2
+3171,Kano,Terrace duplex,2,7,3
+834,Abia,Detached duplex,3,1,4
+9584,Kwara,Townhouse,5,1,2
+6298,Abia,Flat,2,3,2
+2798,Kaduna,Apartment,1,2,3
+1284,Gombe,Townhouse,1,1,4
+1211,Jigawa,Semi-detached duplex,5,1,2
+4674,Adamawa,Penthouse,8,2,3
+1979,Sokoto,Bungalow,2,2,1
+9248,Edo,Apartment,5,6,6
+2404,Kebbi,Townhouse,9,6,6
+952,Bayelsa,Penthouse,4,4,3
+8755,Yobe,Flat,4,6,5
+5660,Jigawa,Detached duplex,4,3,4
+4290,Kwara,Mansion,4,2,6
+1299,Adamawa,Terrace duplex,5,6,2
+12231,Enugu,Bungalow,5,3,4
+808,Niger,Mansion,5,1,2
+2838,Benue,Detached duplex,5,2,3
+10017,Ondo,Mansion,5,2,3
+698,Adamawa,Penthouse,3,1,2
+2333,Kaduna,Townhouse,9,5,5
+1265,Plateau,Mansion,8,3,5
+9922,Imo,Mansion,8,7,5
+7795,Kano,Penthouse,6,3,2
+740,Oyo,Terrace duplex,4,2,1
+1084,Kogi,Semi-detached duplex,1,2,2
+3673,Edo,Terrace duplex,5,6,2
+7824,Ogun,Semi-detached duplex,7,4,6
+12760,Bayelsa,Mansion,1,1,4
+7843,Delta,Townhouse,1,1,5
+1169,Kogi,Terrace duplex,9,2,3
+168,Kano,Apartment,1,1,4
+2583,Nasarawa,Mansion,6,6,5
+3096,Imo,Mansion,5,7,2
+11471,Sokoto,Apartment,4,1,6
+2116,Imo,Semi-detached duplex,3,1,3
+7564,Ebonyi,Terrace duplex,5,2,5
+8028,Borno,Terrace duplex,6,7,2
+2715,Gombe,Semi-detached duplex,3,2,3
+2461,Sokoto,Mansion,5,1,3
+3228,Kaduna,Terrace duplex,4,3,1
+6090,Taraba,Apartment,1,5,1
+1821,Osun,Townhouse,8,4,3
+39,Edo,Bungalow,7,3,4
+5396,Imo,Bungalow,7,1,1
+10337,Oyo,Mansion,4,6,6
+8899,Oyo,Apartment,3,1,6
+10548,Zamfara,Townhouse,8,3,4
+629,Cross River,Mansion,2,1,3
+6264,Katsina,Detached duplex,5,7,1
+3973,Ondo,Terrace duplex,4,1,1
+12120,Taraba,Apartment,2,1,3
+8116,Benue,Semi-detached duplex,5,2,5
+7166,Taraba,Townhouse,3,1,3
+1674,Borno,Cottage,3,2,4
+2234,Kogi,Mansion,9,1,4
+2767,Kogi,Penthouse,4,1,6
+7043,Kogi,Apartment,2,1,2
+2403,Lagos,Mansion,5,1,2
+3952,Ogun,Terrace duplex,5,1,1
+3279,Cross River,Cottage,4,2,3
+10209,Lagos,Bungalow,7,3,4
+3839,Delta,Semi-detached duplex,6,7,2
+1625,Jigawa,Semi-detached duplex,2,5,6
+2884,Jigawa,Mansion,5,4,1
+9882,Sokoto,Semi-detached duplex,1,1,2
+4592,Plateau,Detached duplex,7,7,5
+2778,Katsina,Townhouse,4,2,2
+783,Kaduna,Mansion,8,7,4
+1071,Jigawa,Mansion,6,7,3
+12321,Ondo,Townhouse,2,1,6
+234,Kaduna,Semi-detached duplex,5,2,2
+11549,Sokoto,Townhouse,2,2,2
+2286,Kaduna,Townhouse,9,2,6
+1945,Ogun,Townhouse,1,1,4
+8962,Niger,Semi-detached duplex,6,3,4
+1766,Yobe,Penthouse,1,6,1
+5291,Osun,Bungalow,3,2,5
+8169,Delta,Penthouse,8,6,5
+2213,Benue,Cottage,1,1,2
+4743,Kwara,Semi-detached duplex,4,4,2
+264,Cross River,Detached duplex,3,1,3
+12800,Sokoto,Townhouse,8,3,5
+2986,Benue,Penthouse,7,7,6
+6691,Ekiti,Townhouse,2,6,3
+9619,Gombe,Detached duplex,7,5,3
+7357,Abia,Mansion,6,4,6
+908,Niger,Semi-detached duplex,4,2,2
+11477,Rivers,Detached duplex,7,6,1
+658,Kano,Apartment,4,7,3
+810,Nasarawa,Mansion,4,1,3
+8531,Ebonyi,Flat,9,4,6
+562,Enugu,Cottage,4,1,3
+37,Gombe,Detached duplex,1,2,2
+2218,Imo,Detached duplex,5,1,3
+2015,Kaduna,Cottage,1,1,4
+1595,Niger,Terrace duplex,4,1,2
+839,Sokoto,Flat,7,5,5
+1803,Bauchi,Cottage,2,1,3
+686,Yobe,Apartment,5,1,3
+8215,Adamawa,Townhouse,6,5,1
+2158,Adamawa,Semi-detached duplex,8,1,5
+5602,Rivers,Apartment,5,4,4
+1245,Ekiti,Bungalow,1,2,1
+3802,Kogi,Apartment,2,2,1
+11839,Delta,Mansion,4,1,5
+10393,Kogi,Apartment,4,2,3
+11063,Abia,Apartment,3,5,6
+12912,Imo,Penthouse,7,6,6
+848,Delta,Flat,4,1,2
+2654,Gombe,Detached duplex,3,5,4
+2757,Zamfara,Penthouse,1,1,2
+12147,Zamfara,Mansion,3,5,1
+2854,Gombe,Flat,5,1,2
+11005,Sokoto,Terrace duplex,9,5,4
+10674,Enugu,Detached duplex,4,6,5
+9828,Anambra,Townhouse,5,6,2
+2479,Ekiti,Mansion,3,2,3
+8507,Bayelsa,Townhouse,3,6,3
+1626,Gombe,Bungalow,2,2,4
+295,Rivers,Penthouse,2,4,4
+11120,Akwa Ibom,Detached duplex,2,3,5
+222,Ekiti,Semi-detached duplex,1,2,4
+1101,Imo,Terrace duplex,2,2,4
+4071,Edo,Penthouse,9,6,1
+4184,Delta,Semi-detached duplex,2,4,4
+2513,Enugu,Apartment,2,7,3
+6878,Osun,Detached duplex,2,1,4
+2816,Jigawa,Detached duplex,2,1,1
+1608,Borno,Apartment,9,6,6
+11650,Oyo,Detached duplex,5,6,2
+2617,Kogi,Cottage,4,2,2
+11020,Rivers,Apartment,2,3,6
+3267,Sokoto,Semi-detached duplex,2,4,2
+6860,Nasarawa,Mansion,2,7,4
+10713,Benue,Bungalow,1,7,1
+2329,Borno,Bungalow,3,2,4
+9189,Bayelsa,Flat,3,3,1
+13,Kogi,Detached duplex,2,2,2
+2634,Bayelsa,Cottage,1,2,2
+313,Ebonyi,Apartment,8,4,2
+3085,Ebonyi,Mansion,2,1,2
+5599,Adamawa,Bungalow,2,2,4
+11138,Edo,Apartment,7,4,1
+10388,Nasarawa,Bungalow,3,4,2
+7119,Bayelsa,Detached duplex,2,3,4
+9265,Delta,Detached duplex,2,6,2
+1481,Gombe,Semi-detached duplex,4,1,3
+778,Rivers,Detached duplex,9,7,4
+3383,Abia,Penthouse,8,5,1
+6038,Kwara,Mansion,4,3,1
+9522,Cross River,Penthouse,6,7,4
+5185,Kwara,Flat,4,3,2
+9546,Sokoto,Apartment,7,2,5
+11371,Imo,Penthouse,7,6,3
+1883,Ogun,Townhouse,3,1,4
+10080,Yobe,Mansion,8,2,3
+2608,Ondo,Mansion,4,2,4
+2313,Benue,Detached duplex,1,2,4
+6351,Delta,Mansion,9,5,3
+12088,Ekiti,Terrace duplex,1,6,2
+4230,Zamfara,Semi-detached duplex,8,2,3
+727,Ebonyi,Bungalow,7,3,2
+10333,Kogi,Mansion,5,2,2
+4125,Ogun,Apartment,5,6,4
+814,Ekiti,Apartment,2,1,4
+1259,Plateau,Bungalow,5,1,1
+5905,Yobe,Apartment,4,1,3
+138,Akwa Ibom,Apartment,3,2,4
+7748,Sokoto,Terrace duplex,1,5,3
+1819,Niger,Detached duplex,4,1,3
+6777,Rivers,Mansion,5,2,1
+6454,Adamawa,Penthouse,6,5,4
+9851,Kwara,Flat,9,5,5
+2634,Borno,Bungalow,7,7,1
+3432,Plateau,Flat,1,3,4
+11716,Benue,Townhouse,8,2,5
+370,Oyo,Bungalow,4,3,3
+7734,Kaduna,Bungalow,5,4,5
+2229,Sokoto,Penthouse,4,2,2
+3818,Rivers,Penthouse,9,5,5
+119,Gombe,Semi-detached duplex,5,2,3
+3591,Ogun,Detached duplex,3,2,1
+175,Kaduna,Bungalow,1,1,2
+12010,Imo,Flat,5,5,4
+3907,Katsina,Townhouse,1,1,1
+10995,Kaduna,Apartment,2,3,5
+1905,Lagos,Detached duplex,2,1,1
+1870,Yobe,Cottage,1,1,1
+2686,Anambra,Bungalow,3,1,4
+6625,Adamawa,Apartment,7,5,4
+3087,Lagos,Semi-detached duplex,2,5,2
+1961,Sokoto,Bungalow,3,2,2
+1063,Kebbi,Mansion,2,1,3
+2854,Nasarawa,Detached duplex,4,1,6
+3068,Nasarawa,Townhouse,7,2,3
+5818,Taraba,Apartment,1,6,5
+10506,Niger,Apartment,2,4,3
+1033,Nasarawa,Mansion,1,3,6
+3695,Cross River,Penthouse,5,6,6
+2517,Taraba,Terrace duplex,5,2,1
+1407,Kano,Terrace duplex,5,3,4
+1857,Katsina,Detached duplex,4,2,3
+3219,Delta,Cottage,1,1,4
+693,Imo,Terrace duplex,3,2,2
+2116,Ogun,Mansion,4,1,4
+2800,Benue,Semi-detached duplex,9,5,4
+903,Imo,Apartment,4,1,4
+11217,Delta,Bungalow,7,3,5
+980,Cross River,Semi-detached duplex,2,6,2
+12674,Delta,Townhouse,3,7,5
+2573,Ogun,Semi-detached duplex,2,2,1
+6919,Anambra,Flat,2,7,4
+2198,Plateau,Bungalow,3,1,2
+3370,Borno,Apartment,9,1,2
+1819,Lagos,Terrace duplex,3,1,1
+7487,Bauchi,Flat,4,5,1
+55,Benue,Mansion,5,2,4
+1091,Taraba,Flat,3,2,3
+837,Cross River,Cottage,4,2,3
+24,Taraba,Semi-detached duplex,4,2,2
+8060,Edo,Semi-detached duplex,7,6,2
+3672,Bauchi,Mansion,2,6,5
+1114,Oyo,Semi-detached duplex,5,3,3
+1265,Borno,Townhouse,3,2,1
+2566,Ogun,Townhouse,4,1,1
+2154,Anambra,Apartment,5,1,2
+6572,Cross River,Mansion,4,1,2
+10533,Ekiti,Penthouse,9,6,1
+535,Enugu,Flat,8,4,4
+7878,Niger,Detached duplex,8,4,3
+10054,Rivers,Penthouse,9,4,1
+17,Ogun,Bungalow,7,3,2
+6709,Ogun,Terrace duplex,9,5,4
+10189,Imo,Terrace duplex,2,4,3
+11938,Kwara,Mansion,3,3,6
+3300,Yobe,Townhouse,1,1,2
+795,Nasarawa,Flat,3,1,1
+1025,Adamawa,Apartment,4,1,1
+4572,Lagos,Penthouse,1,4,2
+9733,Taraba,Bungalow,8,6,6
+11506,Delta,Townhouse,6,1,3
+9072,Kebbi,Semi-detached duplex,3,2,4
+3637,Kano,Apartment,6,6,2
+12833,Lagos,Townhouse,2,2,6
+6200,Kano,Terrace duplex,6,4,5
+2153,Anambra,Apartment,6,7,6
+11490,Ogun,Apartment,5,4,1
+777,Ogun,Flat,2,2,4
+1834,Gombe,Cottage,4,2,3
+3175,Ondo,Flat,5,4,2
+468,Delta,Penthouse,9,3,6
+2496,Nasarawa,Bungalow,1,5,4
+3852,Edo,Semi-detached duplex,8,6,4
+1958,Bayelsa,Townhouse,4,1,4
+4758,Rivers,Flat,4,7,3
+2242,Lagos,Bungalow,5,2,4
+6146,Ogun,Penthouse,6,1,4
+1061,Kwara,Townhouse,5,2,2
+1116,Kogi,Apartment,2,1,2
+2297,Rivers,Mansion,7,2,5
+12661,Edo,Apartment,1,5,5
+13,Kogi,Penthouse,1,2,3
+12339,Yobe,Mansion,2,3,1
+8806,Gombe,Mansion,5,6,3
+1748,Delta,Semi-detached duplex,9,2,1
+10974,Imo,Flat,1,3,3
+2034,Ogun,Townhouse,2,6,2
+185,Benue,Semi-detached duplex,3,2,4
+1256,Borno,Apartment,5,1,2
+1975,Borno,Terrace duplex,4,1,3
+779,Anambra,Semi-detached duplex,2,7,2
+8009,Kaduna,Terrace duplex,6,7,1
+1186,Enugu,Flat,7,5,6
+846,Kwara,Bungalow,5,1,3
+10398,Ondo,Terrace duplex,5,5,3
+2987,Anambra,Detached duplex,4,1,2
+3603,Oyo,Townhouse,1,1,3
+2444,Kano,Apartment,7,7,6
+12926,Kogi,Bungalow,5,4,2
+11316,Cross River,Flat,2,1,5
+4637,Nasarawa,Townhouse,2,1,4
+1265,Anambra,Townhouse,3,2,2
+5707,Bauchi,Flat,9,1,4
+1767,Anambra,Townhouse,4,3,5
+9986,Zamfara,Bungalow,3,3,2
+8239,Sokoto,Detached duplex,6,4,3
+2071,Abia,Cottage,3,2,1
+7026,Kebbi,Penthouse,9,2,6
+3489,Abia,Flat,3,1,4
+2276,Nasarawa,Penthouse,1,1,3
+6209,Ondo,Mansion,7,3,3
+10146,Taraba,Townhouse,7,1,1
+3736,Lagos,Semi-detached duplex,1,3,3
+2036,Katsina,Penthouse,5,2,2
+2796,Imo,Detached duplex,3,1,1
+1657,Akwa Ibom,Penthouse,4,2,3
+7726,Rivers,Mansion,7,6,3
+872,Plateau,Townhouse,2,1,3
+3226,Ondo,Bungalow,4,1,4
+2357,Delta,Semi-detached duplex,1,1,3
+4329,Cross River,Flat,5,3,1
+2760,Rivers,Apartment,4,1,2
+2777,Borno,Townhouse,2,1,3
+12894,Cross River,Terrace duplex,7,7,2
+7807,Kebbi,Mansion,9,1,5
+1059,Gombe,Townhouse,4,4,3
+241,Yobe,Terrace duplex,2,1,4
+1980,Ondo,Flat,2,1,3
+12437,Cross River,Townhouse,5,6,5
+363,Kaduna,Cottage,1,2,4
+10005,Borno,Townhouse,4,3,1
+2326,Ogun,Semi-detached duplex,1,1,4
+2267,Imo,Cottage,1,2,3
+7667,Zamfara,Apartment,5,3,4
+5527,Katsina,Townhouse,9,3,3
+8665,Yobe,Mansion,8,2,4
+10566,Ekiti,Mansion,7,1,1
+7520,Kwara,Bungalow,2,6,5
+2051,Osun,Detached duplex,2,1,1
+12936,Plateau,Penthouse,3,1,3
+2560,Osun,Apartment,2,2,4
+1014,Delta,Semi-detached duplex,8,7,6
+416,Borno,Terrace duplex,5,1,2
+1079,Osun,Flat,2,1,4
+2339,Ekiti,Detached duplex,8,5,6
+1337,Borno,Flat,3,2,3
+12804,Lagos,Detached duplex,2,6,5
+656,Osun,Terrace duplex,1,2,2
+12470,Kogi,Mansion,4,5,1
+417,Kaduna,Townhouse,5,2,3
+12059,Adamawa,Bungalow,2,1,5
+931,Rivers,Cottage,2,1,3
+6440,Bayelsa,Terrace duplex,5,7,5
+8022,Kebbi,Mansion,2,3,2
+536,Benue,Mansion,5,2,3
+2014,Zamfara,Mansion,6,3,3
+3084,Bauchi,Detached duplex,5,2,4
+4996,Adamawa,Penthouse,3,7,4
+3218,Kogi,Flat,1,6,5
+2196,Imo,Townhouse,9,2,4
+1772,Enugu,Terrace duplex,5,4,1
+6821,Abia,Apartment,7,7,4
+1102,Enugu,Flat,9,2,3
+2492,Abia,Cottage,1,2,3
+5024,Nasarawa,Semi-detached duplex,5,5,6
+46,Zamfara,Penthouse,4,2,3
+1485,Enugu,Terrace duplex,2,1,2
+10935,Ebonyi,Bungalow,9,6,5
+1298,Ondo,Penthouse,6,3,4
+539,Oyo,Terrace duplex,1,1,2
+571,Abia,Flat,2,1,2
+10835,Abia,Mansion,6,6,6
+3146,Yobe,Mansion,5,1,4
+8270,Jigawa,Semi-detached duplex,7,1,5
+387,Imo,Cottage,4,2,2
+2219,Taraba,Townhouse,2,1,1
+11430,Sokoto,Bungalow,8,7,5
+1293,Borno,Cottage,2,2,4
+11660,Nasarawa,Townhouse,1,2,6
+12327,Oyo,Townhouse,8,7,5
+731,Nasarawa,Apartment,5,1,1
+1065,Bayelsa,Terrace duplex,5,2,4
+2600,Kebbi,Apartment,7,3,4
+2766,Niger,Apartment,4,1,4
+4476,Ekiti,Detached duplex,8,3,2
+5615,Cross River,Penthouse,8,7,3
+2224,Jigawa,Flat,4,1,4
+252,Enugu,Terrace duplex,1,1,2
+11331,Niger,Detached duplex,7,2,3
+10615,Ekiti,Semi-detached duplex,7,4,5
+3479,Katsina,Cottage,3,1,3
+1909,Yobe,Semi-detached duplex,3,2,4
+12268,Gombe,Townhouse,3,4,4
+5972,Akwa Ibom,Detached duplex,4,2,6
+7998,Kebbi,Mansion,8,6,1
+1379,Bayelsa,Townhouse,3,2,4
+11167,Bauchi,Semi-detached duplex,9,4,1
+2444,Bauchi,Mansion,2,2,4
+1294,Bauchi,Mansion,5,2,4
+8597,Yobe,Flat,2,5,2
+1550,Osun,Detached duplex,8,1,5
+3474,Lagos,Townhouse,3,1,1
+4856,Kaduna,Semi-detached duplex,1,2,6
+2195,Nasarawa,Cottage,3,2,3
+8593,Ogun,Flat,3,5,2
+493,Bayelsa,Semi-detached duplex,2,7,6
+9532,Kaduna,Townhouse,7,5,1
+1760,Abia,Detached duplex,7,5,1
+2106,Kaduna,Penthouse,2,2,2
+2921,Niger,Cottage,1,2,3
+1089,Lagos,Cottage,3,1,3
+3266,Enugu,Bungalow,6,1,2
+11065,Cross River,Penthouse,9,3,2
+2732,Ekiti,Penthouse,1,1,1
+3499,Jigawa,Mansion,4,7,4
+3915,Adamawa,Penthouse,5,1,4
+8496,Edo,Mansion,3,7,2
+2841,Ondo,Terrace duplex,1,2,3
+434,Ogun,Apartment,8,2,1
+8389,Adamawa,Terrace duplex,7,4,2
+7250,Borno,Mansion,5,3,2
+6683,Osun,Detached duplex,9,4,2
+4477,Bayelsa,Terrace duplex,8,7,4
+949,Ebonyi,Mansion,3,1,2
+1575,Ondo,Penthouse,5,1,3
+236,Cross River,Bungalow,5,1,1
+575,Cross River,Mansion,1,1,3
+2552,Cross River,Townhouse,3,2,2
+2780,Kebbi,Cottage,2,2,1
+2044,Bayelsa,Cottage,1,1,2
+989,Zamfara,Apartment,3,2,2
+3499,Zamfara,Bungalow,5,2,2
+7088,Katsina,Bungalow,9,2,1
+691,Osun,Semi-detached duplex,1,7,6
+2070,Cross River,Apartment,5,1,3
+8261,Sokoto,Apartment,2,5,5
+2671,Abia,Mansion,1,1,4
+1253,Nasarawa,Penthouse,4,3,2
+141,Bayelsa,Mansion,3,2,3
+2448,Enugu,Apartment,1,1,4
+346,Yobe,Townhouse,9,4,4
+6002,Kaduna,Mansion,1,4,4
+835,Abia,Cottage,4,2,1
+3045,Bauchi,Semi-detached duplex,5,1,2
+3599,Delta,Flat,5,2,3
+762,Benue,Semi-detached duplex,4,1,3
+3653,Abia,Townhouse,3,2,4
+120,Anambra,Semi-detached duplex,5,1,2
+3129,Imo,Mansion,4,2,1
+11986,Niger,Apartment,8,3,5
+4960,Niger,Detached duplex,7,5,5
+8938,Oyo,Bungalow,4,4,3
+4470,Plateau,Apartment,2,3,5
+9819,Niger,Flat,8,1,5
+8632,Sokoto,Semi-detached duplex,5,3,1
+2813,Gombe,Semi-detached duplex,4,1,1
+10061,Oyo,Detached duplex,5,4,5
+11530,Ekiti,Semi-detached duplex,8,3,1
+1708,Taraba,Detached duplex,7,4,4
+3798,Katsina,Bungalow,4,2,2
+6353,Bayelsa,Bungalow,5,5,1
+3284,Delta,Penthouse,1,2,1
+12795,Kwara,Penthouse,6,1,5
+10132,Kogi,Terrace duplex,2,2,2
+1742,Ogun,Cottage,5,2,3
+498,Bayelsa,Terrace duplex,1,2,2
+278,Osun,Apartment,5,2,1
+988,Lagos,Apartment,1,3,1
+2476,Imo,Terrace duplex,3,2,6
+7928,Ondo,Bungalow,6,4,5
+3202,Edo,Apartment,2,1,5
+9007,Oyo,Mansion,4,1,4
+3422,Delta,Terrace duplex,2,3,4
+873,Kwara,Flat,1,4,5
+880,Imo,Terrace duplex,4,2,1
+6773,Kwara,Apartment,4,2,5
+7191,Rivers,Mansion,9,6,1
+1768,Bauchi,Bungalow,3,2,4
+12694,Lagos,Terrace duplex,1,4,4
+6996,Imo,Apartment,7,6,2
+1407,Osun,Semi-detached duplex,2,2,4
+222,Lagos,Terrace duplex,5,7,2
+12653,Ebonyi,Terrace duplex,3,4,5
+377,Akwa Ibom,Flat,5,1,4
+3313,Enugu,Bungalow,4,1,1
+2475,Yobe,Townhouse,3,2,4
+3707,Sokoto,Terrace duplex,1,2,4
+3260,Kogi,Cottage,1,2,3
+11310,Kebbi,Apartment,9,7,2
+4031,Akwa Ibom,Mansion,8,5,4
+2922,Edo,Semi-detached duplex,4,1,2
+430,Cross River,Apartment,5,1,3
+1034,Nasarawa,Flat,4,1,2
+2710,Ebonyi,Apartment,2,2,1
+8358,Borno,Flat,7,6,3
+38,Imo,Penthouse,4,1,3
+12593,Bauchi,Semi-detached duplex,1,7,5
+996,Ondo,Townhouse,1,1,4
+7012,Ondo,Mansion,7,1,4
+518,Gombe,Terrace duplex,1,2,3
+3724,Ebonyi,Cottage,2,2,1
+2277,Akwa Ibom,Apartment,3,6,1
+11999,Edo,Apartment,5,6,5
+10782,Imo,Penthouse,5,6,1
+3285,Borno,Flat,1,2,4
+1266,Borno,Townhouse,4,3,5
+3528,Jigawa,Flat,5,1,4
+10775,Anambra,Mansion,5,5,2
+2574,Kwara,Bungalow,2,1,1
+12646,Katsina,Flat,3,3,1
+11983,Ogun,Mansion,1,4,2
+148,Kwara,Flat,6,5,3
+1009,Plateau,Penthouse,3,1,2
+526,Yobe,Terrace duplex,3,2,3
+5414,Borno,Townhouse,3,7,1
+5,Rivers,Detached duplex,6,7,2
+3257,Enugu,Bungalow,2,2,3
+11654,Benue,Townhouse,7,2,3
+2612,Kaduna,Apartment,2,1,3
+8285,Kano,Flat,7,7,4
+5431,Edo,Flat,5,1,2
+2208,Abia,Semi-detached duplex,8,7,6
+399,Niger,Townhouse,9,1,3
+6006,Abia,Mansion,8,2,3
+12791,Bayelsa,Terrace duplex,2,6,5
+10807,Borno,Flat,8,5,3
+1475,Osun,Terrace duplex,2,2,1
+10870,Delta,Apartment,7,2,4
+10106,Kwara,Terrace duplex,5,5,5
+1340,Kano,Detached duplex,5,7,6
+3655,Oyo,Townhouse,5,5,3
+6747,Sokoto,Mansion,1,2,6
+4806,Oyo,Apartment,3,4,1
+745,Kwara,Mansion,5,2,3
+1735,Oyo,Mansion,3,2,3
+6380,Imo,Mansion,6,6,4
+2554,Delta,Bungalow,7,5,6
+4916,Abia,Apartment,5,7,1
+2428,Borno,Terrace duplex,8,1,3
+3796,Imo,Bungalow,5,2,2
+1915,Osun,Penthouse,3,2,2
+6883,Sokoto,Bungalow,1,1,1
+4822,Yobe,Bungalow,2,3,3
+3505,Edo,Townhouse,9,4,6
+4305,Oyo,Terrace duplex,1,7,3
+958,Akwa Ibom,Penthouse,9,4,3
+6313,Kebbi,Terrace duplex,5,6,3
+5551,Abia,Bungalow,3,3,1
+9471,Nasarawa,Bungalow,9,1,5
+5500,Adamawa,Mansion,6,6,5
+12356,Kebbi,Townhouse,3,2,6
+11751,Katsina,Penthouse,4,1,3
+7379,Ogun,Apartment,5,6,1
+594,Kano,Semi-detached duplex,1,1,3
+2180,Edo,Penthouse,2,2,4
+33,Kaduna,Bungalow,8,7,1
+7557,Bauchi,Apartment,2,2,5
+2443,Nasarawa,Terrace duplex,5,7,4
+235,Borno,Bungalow,1,2,4
+12826,Kano,Flat,8,3,3
+6629,Kwara,Townhouse,7,7,4
+5882,Delta,Bungalow,7,1,5
+6461,Abia,Mansion,3,4,1
+2203,Bayelsa,Detached duplex,2,6,6
+122,Nasarawa,Mansion,1,1,3
+3961,Delta,Townhouse,4,7,4
+1135,Akwa Ibom,Detached duplex,1,1,4
+464,Kogi,Bungalow,4,1,4
+4695,Edo,Detached duplex,7,4,2
+533,Niger,Semi-detached duplex,3,2,1
+8292,Bayelsa,Apartment,5,3,4
+8602,Osun,Bungalow,5,1,4
+124,Kwara,Mansion,3,2,3
+494,Katsina,Mansion,2,1,1
+11753,Katsina,Apartment,5,1,1
+8702,Borno,Townhouse,9,2,1
+1342,Yobe,Penthouse,6,2,3
+3405,Anambra,Penthouse,5,2,2
+5582,Jigawa,Detached duplex,2,2,2
+3979,Taraba,Semi-detached duplex,3,3,2
+775,Kogi,Flat,5,1,4
+9238,Bauchi,Mansion,5,2,6
+11508,Imo,Apartment,6,4,2
+27,Cross River,Detached duplex,2,1,2
+6272,Oyo,Terrace duplex,9,3,1
+99,Ebonyi,Townhouse,1,2,2
+5565,Nasarawa,Penthouse,5,5,4
+4936,Bayelsa,Flat,6,6,2
+3992,Bauchi,Townhouse,5,7,6
+9187,Benue,Penthouse,9,2,2
+6646,Yobe,Apartment,1,6,6
+1096,Kano,Bungalow,5,1,1
+6230,Imo,Flat,8,5,5
+1847,Anambra,Detached duplex,2,2,5
+6,Akwa Ibom,Bungalow,3,2,1
+1872,Kano,Mansion,5,1,4
+5019,Cross River,Detached duplex,6,6,4
+68,Taraba,Semi-detached duplex,7,5,5
+1521,Edo,Townhouse,5,1,2
+3531,Edo,Apartment,2,2,2
+2200,Katsina,Terrace duplex,6,4,3
+942,Kwara,Flat,2,2,4
+10519,Adamawa,Penthouse,5,7,5
+391,Kano,Semi-detached duplex,6,7,4
+3727,Taraba,Townhouse,1,1,1
+997,Imo,Semi-detached duplex,6,4,1
+9375,Plateau,Mansion,2,4,2
+10481,Anambra,Mansion,1,4,3
+3874,Gombe,Terrace duplex,2,1,2
+3638,Jigawa,Cottage,1,1,3
+692,Taraba,Townhouse,3,1,1
+12324,Cross River,Townhouse,5,4,4
+1929,Anambra,Penthouse,4,1,2
+1561,Lagos,Bungalow,3,2,1
+2002,Adamawa,Mansion,5,1,1
+75,Benue,Flat,2,1,3
+8928,Katsina,Semi-detached duplex,7,6,4
+11624,Kebbi,Detached duplex,5,1,3
+9384,Enugu,Detached duplex,2,3,4
+8849,Abia,Apartment,2,4,2
+8217,Enugu,Detached duplex,1,4,3
+9553,Benue,Penthouse,6,2,2
+2882,Akwa Ibom,Bungalow,2,2,1
+4537,Kebbi,Apartment,5,5,4
+2968,Osun,Cottage,4,2,4
+1660,Kogi,Terrace duplex,4,1,2
+65,Bayelsa,Cottage,2,1,1
+2586,Yobe,Mansion,1,2,3
+3622,Benue,Bungalow,7,5,2
+10411,Benue,Bungalow,2,1,5
+12568,Katsina,Terrace duplex,1,6,1
+3969,Kebbi,Semi-detached duplex,2,1,4
+3747,Osun,Penthouse,1,1,3
+1133,Ogun,Semi-detached duplex,5,1,3
+8747,Oyo,Apartment,8,6,6
+5904,Edo,Bungalow,9,7,2
+12759,Kebbi,Apartment,2,1,4
+10790,Lagos,Bungalow,9,1,5
+10242,Sokoto,Mansion,6,1,6
+10740,Kebbi,Apartment,7,3,6
+2283,Rivers,Terrace duplex,1,4,3
+2244,Nasarawa,Apartment,2,5,5
+794,Sokoto,Bungalow,1,3,3
+1998,Plateau,Apartment,5,2,2
+2819,Taraba,Flat,3,1,2
+1794,Abia,Detached duplex,3,4,6
+1302,Akwa Ibom,Apartment,2,2,3
+10895,Plateau,Mansion,9,1,2
+786,Kogi,Flat,4,1,3
+938,Plateau,Detached duplex,5,2,4
+2965,Bauchi,Apartment,5,2,4
+490,Plateau,Flat,9,3,2
+2293,Gombe,Townhouse,5,1,3
+9386,Katsina,Terrace duplex,5,5,4
+11595,Kogi,Semi-detached duplex,9,2,5
+9751,Kogi,Semi-detached duplex,9,6,5
+1756,Enugu,Apartment,5,2,1
+2380,Borno,Townhouse,5,7,6
+11806,Edo,Mansion,8,4,1
+2593,Yobe,Bungalow,3,2,3
+4943,Zamfara,Apartment,5,2,1
+431,Anambra,Detached duplex,3,7,6
+3126,Edo,Apartment,4,2,5
+2270,Delta,Flat,3,1,2
+1335,Benue,Bungalow,5,1,2
+6336,Niger,Terrace duplex,3,7,1
+1075,Osun,Penthouse,4,1,2
+4302,Jigawa,Townhouse,6,3,5
+9520,Cross River,Semi-detached duplex,3,5,2
+1527,Kaduna,Semi-detached duplex,1,6,6
+604,Cross River,Cottage,5,1,4
+6247,Edo,Penthouse,7,1,1
+1343,Kaduna,Mansion,2,2,1
+172,Benue,Flat,2,5,5
+5903,Borno,Detached duplex,7,2,1
+2717,Edo,Bungalow,2,2,2
+5854,Kebbi,Bungalow,1,6,1
+3771,Lagos,Penthouse,1,2,2
+1945,Lagos,Terrace duplex,4,2,1
+2136,Abia,Cottage,5,1,3
+2468,Oyo,Townhouse,7,5,6
+10508,Kano,Townhouse,9,5,4
+8735,Imo,Terrace duplex,8,6,2
+4748,Ekiti,Mansion,6,6,3
+127,Adamawa,Apartment,1,2,2
+1076,Niger,Terrace duplex,4,2,3
+473,Kogi,Cottage,2,2,2
+157,Kwara,Penthouse,5,1,2
+1656,Bauchi,Apartment,2,6,6
+1922,Anambra,Cottage,3,2,4
+3132,Zamfara,Mansion,5,3,2
+6342,Kaduna,Penthouse,8,3,5
+1286,Lagos,Terrace duplex,1,1,4
+2663,Zamfara,Flat,3,2,2
+12940,Borno,Bungalow,5,3,3
+5619,Ebonyi,Apartment,3,6,1
+4530,Sokoto,Apartment,7,4,3
+5076,Zamfara,Semi-detached duplex,6,6,5
+8,Ogun,Bungalow,4,6,4
+849,Katsina,Mansion,3,1,2
+1137,Cross River,Bungalow,4,2,3
+1403,Ekiti,Semi-detached duplex,1,2,2
+5345,Katsina,Penthouse,4,6,5
+491,Kano,Penthouse,5,1,3
+3239,Bayelsa,Apartment,5,1,2
+9804,Ekiti,Detached duplex,7,3,5
+11878,Taraba,Terrace duplex,9,5,3
+7481,Taraba,Flat,3,5,5
+1304,Sokoto,Cottage,1,2,1
+1982,Lagos,Bungalow,4,2,1
+10559,Ondo,Mansion,8,6,3
+6293,Kano,Mansion,3,5,2
+2565,Enugu,Detached duplex,4,1,3
+612,Delta,Mansion,2,2,4
+11909,Benue,Bungalow,4,2,6
+12050,Akwa Ibom,Townhouse,9,5,6
+1841,Enugu,Mansion,2,1,3
+11522,Cross River,Townhouse,2,2,3
+1298,Ogun,Terrace duplex,1,2,2
+10222,Katsina,Mansion,9,1,2
+3097,Nasarawa,Flat,9,2,2
+5137,Plateau,Terrace duplex,4,3,1
+2369,Lagos,Mansion,5,1,1
+684,Lagos,Apartment,3,1,4
+6580,Yobe,Bungalow,4,6,1
+1246,Anambra,Penthouse,3,1,1
+9843,Bauchi,Mansion,2,6,1
+3141,Taraba,Detached duplex,9,1,1
+8004,Taraba,Semi-detached duplex,6,6,1
+5308,Anambra,Apartment,9,7,4
+290,Kwara,Terrace duplex,1,3,4
+3220,Enugu,Cottage,5,1,1
+6078,Edo,Mansion,3,5,2
+7220,Kwara,Detached duplex,8,4,3
+7266,Taraba,Semi-detached duplex,9,7,3
+5806,Bayelsa,Flat,3,4,3
+3149,Ekiti,Detached duplex,5,1,1
+1555,Akwa Ibom,Terrace duplex,2,1,3
+1406,Abia,Bungalow,5,2,4
+749,Zamfara,Cottage,4,2,1
+7430,Yobe,Penthouse,4,3,5
+11340,Rivers,Mansion,6,3,4
+4056,Katsina,Flat,1,1,6
+2478,Kwara,Terrace duplex,4,1,1
+204,Plateau,Flat,1,2,2
+7864,Ondo,Flat,5,1,1
+3777,Edo,Townhouse,5,2,1
+1927,Anambra,Detached duplex,1,2,2
+1392,Ondo,Flat,2,1,1
+720,Borno,Terrace duplex,4,7,1
+3989,Katsina,Cottage,3,2,2
+2479,Kebbi,Bungalow,9,5,5
+4017,Kwara,Semi-detached duplex,4,3,6
+2110,Jigawa,Townhouse,2,2,3
+5821,Delta,Townhouse,9,7,3
+3602,Katsina,Terrace duplex,1,1,5
+145,Adamawa,Apartment,4,5,5
+56,Bayelsa,Flat,5,2,3
+11495,Sokoto,Flat,3,7,2
+2879,Adamawa,Apartment,5,4,5
+10218,Plateau,Townhouse,2,7,4
+1344,Taraba,Townhouse,1,1,4
+2908,Katsina,Semi-detached duplex,2,1,1
+5009,Kogi,Apartment,8,7,6
+9204,Sokoto,Terrace duplex,3,1,3
+1078,Akwa Ibom,Detached duplex,4,3,3
+5334,Bayelsa,Flat,5,7,5
+1518,Jigawa,Apartment,4,4,1
+9801,Rivers,Penthouse,1,7,1
+1203,Ogun,Mansion,2,2,1
+1500,Kano,Bungalow,5,2,2
+6028,Ekiti,Detached duplex,8,7,2
+2882,Ekiti,Penthouse,1,2,3
+8244,Ondo,Townhouse,6,6,3
+10256,Nasarawa,Townhouse,7,2,2
+2322,Jigawa,Bungalow,2,2,3
+10825,Ekiti,Semi-detached duplex,9,5,4
+72,Kaduna,Terrace duplex,2,2,4
+12640,Kaduna,Apartment,4,5,3
+1762,Akwa Ibom,Penthouse,5,2,1
+9488,Ebonyi,Bungalow,6,5,5
+2928,Rivers,Penthouse,3,2,4
+11913,Osun,Penthouse,7,6,3
+1711,Edo,Mansion,7,7,2
+3598,Cross River,Mansion,5,2,1
+2571,Ebonyi,Apartment,4,1,2
+5519,Bauchi,Apartment,3,4,1
+1820,Ondo,Flat,8,3,2
+1264,Ogun,Cottage,4,1,3
+825,Anambra,Bungalow,4,2,2
+2506,Anambra,Mansion,1,4,3
+6505,Katsina,Mansion,1,3,2
+4210,Imo,Terrace duplex,3,3,4
+1702,Sokoto,Detached duplex,1,2,2
+1247,Akwa Ibom,Cottage,1,1,3
+10552,Rivers,Bungalow,3,5,2
+2311,Abia,Mansion,3,5,3
+9288,Borno,Apartment,3,3,5
+2980,Ebonyi,Penthouse,5,2,4
+2250,Zamfara,Semi-detached duplex,4,2,2
+8069,Rivers,Semi-detached duplex,6,3,1
+697,Zamfara,Bungalow,2,2,4
+8622,Osun,Penthouse,7,3,6
+350,Cross River,Penthouse,3,2,4
+2373,Ogun,Mansion,2,1,4
+8841,Delta,Apartment,3,4,4
+4614,Zamfara,Semi-detached duplex,5,3,4
+660,Rivers,Semi-detached duplex,7,6,6
+2557,Niger,Detached duplex,6,1,4
+3649,Enugu,Bungalow,7,6,1
+12921,Bauchi,Flat,4,1,1
+7799,Imo,Mansion,3,4,5
+3103,Benue,Cottage,3,1,4
+9268,Abia,Apartment,7,5,6
+2912,Kano,Townhouse,7,2,1
+7173,Sokoto,Flat,3,2,2
+3953,Ogun,Flat,3,1,1
+1750,Sokoto,Flat,4,2,4
+3538,Imo,Flat,4,1,1
+897,Kebbi,Flat,1,1,2
+388,Kwara,Semi-detached duplex,1,1,3
+9775,Lagos,Flat,7,5,5
+938,Kogi,Townhouse,1,1,3
+3556,Jigawa,Penthouse,4,7,4
+398,Kebbi,Penthouse,2,1,4
+2659,Ondo,Penthouse,4,2,1
+638,Edo,Bungalow,5,1,5
+6954,Benue,Apartment,3,1,6
+4215,Adamawa,Mansion,2,3,4
+1223,Akwa Ibom,Bungalow,4,1,3
+2808,Enugu,Cottage,2,2,4
+3602,Oyo,Mansion,1,1,2
+7323,Ondo,Terrace duplex,6,5,2
+6593,Akwa Ibom,Townhouse,7,6,6
+3500,Abia,Mansion,7,7,6
+2339,Edo,Flat,5,1,2
+1158,Benue,Bungalow,4,1,2
+11684,Zamfara,Flat,8,2,3
+388,Benue,Mansion,3,4,4
+12658,Rivers,Penthouse,4,6,2
+1014,Ogun,Mansion,4,2,3
+2539,Gombe,Flat,3,1,2
+12569,Edo,Townhouse,7,2,5
+12259,Kogi,Bungalow,3,3,4
+8284,Taraba,Penthouse,5,1,5
+2330,Jigawa,Townhouse,5,1,1
+10672,Zamfara,Detached duplex,4,1,3
+2828,Gombe,Bungalow,3,2,1
+1990,Katsina,Semi-detached duplex,2,1,2
+8520,Abia,Flat,1,6,4
+18,Katsina,Semi-detached duplex,1,1,2
+1660,Anambra,Flat,5,5,1
+177,Kebbi,Bungalow,1,5,6
+665,Bauchi,Terrace duplex,5,1,4
+3172,Kano,Flat,9,1,4
+8599,Kaduna,Flat,2,2,3
+2651,Cross River,Townhouse,3,2,2
+2690,Abia,Apartment,5,2,6
+4090,Plateau,Flat,8,4,1
+1781,Kebbi,Townhouse,4,2,2
+11271,Ebonyi,Terrace duplex,8,6,5
+11802,Cross River,Penthouse,2,2,1
+10695,Kaduna,Terrace duplex,1,1,1
+11241,Ekiti,Detached duplex,7,1,2
+3483,Kogi,Terrace duplex,4,2,2
+572,Ondo,Townhouse,4,2,1
+3939,Akwa Ibom,Flat,8,1,4
+7146,Jigawa,Bungalow,4,3,3
+2739,Bauchi,Mansion,7,5,6
+9232,Lagos,Mansion,1,2,3
+4729,Kaduna,Townhouse,1,7,2
+966,Enugu,Apartment,5,1,4
+7115,Borno,Semi-detached duplex,5,4,3
+1688,Plateau,Mansion,4,2,4
+3098,Ondo,Flat,3,2,2
+7347,Ekiti,Mansion,8,1,3
+9549,Rivers,Flat,7,2,2
+6612,Gombe,Detached duplex,3,3,6
+1252,Anambra,Mansion,8,2,1
+3821,Katsina,Apartment,9,2,5
+6657,Nasarawa,Townhouse,3,1,2
+12812,Plateau,Mansion,9,5,1
+2135,Rivers,Semi-detached duplex,4,2,4
+1759,Osun,Bungalow,7,4,2
+545,Kano,Mansion,2,6,6
+8863,Ebonyi,Mansion,1,4,6
+6365,Nasarawa,Mansion,1,2,2
+3711,Zamfara,Penthouse,5,1,3
+7541,Abia,Apartment,6,4,6
+5720,Anambra,Flat,4,5,6
+1446,Niger,Mansion,5,1,2
+3791,Cross River,Penthouse,1,1,2
+3893,Adamawa,Flat,8,6,1
+3775,Oyo,Townhouse,4,2,1
+1273,Delta,Mansion,5,1,3
+7025,Nasarawa,Bungalow,8,3,4
+7313,Zamfara,Apartment,8,6,3
+382,Rivers,Semi-detached duplex,3,1,3
+8639,Anambra,Detached duplex,5,7,4
+9831,Imo,Detached duplex,6,1,2
+1007,Katsina,Townhouse,5,2,2
+6037,Oyo,Apartment,5,4,1
+12605,Zamfara,Mansion,2,1,6
+619,Niger,Bungalow,4,2,2
+1627,Taraba,Penthouse,5,1,1
+2530,Anambra,Mansion,5,1,3
+1444,Ebonyi,Bungalow,8,6,3
+83,Plateau,Detached duplex,4,1,4
+8915,Abia,Penthouse,8,4,6
+3008,Osun,Terrace duplex,4,2,2
+2610,Kebbi,Detached duplex,4,1,2
+457,Kaduna,Townhouse,5,2,2
+11978,Borno,Apartment,5,7,4
+12365,Oyo,Semi-detached duplex,5,1,5
+3883,Abia,Terrace duplex,1,1,2
+2961,Edo,Detached duplex,2,1,4
+2421,Rivers,Terrace duplex,2,2,3
+2611,Ekiti,Apartment,3,1,4
+302,Zamfara,Bungalow,6,4,1
+516,Kano,Bungalow,6,4,2
+361,Kano,Penthouse,5,2,3
+3466,Bayelsa,Cottage,4,1,2
+11171,Delta,Terrace duplex,7,2,3
+8543,Enugu,Terrace duplex,9,4,3
+201,Nasarawa,Detached duplex,1,2,2
+10686,Delta,Bungalow,7,7,6
+7306,Sokoto,Terrace duplex,1,3,3
+1528,Yobe,Bungalow,4,2,2
+330,Kano,Cottage,5,1,2
+12278,Kogi,Terrace duplex,5,7,4
+8108,Delta,Terrace duplex,6,2,3
+3959,Taraba,Semi-detached duplex,3,1,4
+3719,Imo,Townhouse,4,5,1
+4949,Ogun,Semi-detached duplex,6,6,3
+520,Katsina,Townhouse,8,6,3
+5474,Benue,Mansion,1,4,1
+152,Niger,Flat,3,2,4
+3481,Zamfara,Bungalow,2,7,1
+7991,Ebonyi,Apartment,5,3,1
+12180,Borno,Penthouse,2,6,6
+7640,Anambra,Flat,2,6,2
+1207,Rivers,Penthouse,1,2,3
+11905,Kebbi,Apartment,6,1,1
+2631,Ekiti,Bungalow,1,1,6
+1109,Oyo,Terrace duplex,2,3,6
+3274,Kano,Apartment,5,5,6
+10133,Oyo,Detached duplex,1,7,3
+12475,Akwa Ibom,Flat,9,7,3
+8365,Bayelsa,Penthouse,8,4,4
+12929,Abia,Flat,1,1,6
+2156,Osun,Mansion,8,3,2
+728,Osun,Terrace duplex,6,5,6
+723,Plateau,Bungalow,3,1,1
+10673,Katsina,Detached duplex,4,5,2
+1405,Delta,Semi-detached duplex,3,3,2
+288,Akwa Ibom,Semi-detached duplex,8,4,5
+9366,Lagos,Terrace duplex,9,3,1
+3168,Gombe,Mansion,1,6,6
+509,Adamawa,Mansion,9,7,5
+10112,Cross River,Townhouse,3,4,3
+221,Bayelsa,Cottage,5,2,2
+2575,Oyo,Detached duplex,1,2,3
+189,Plateau,Penthouse,5,7,3
+11173,Zamfara,Terrace duplex,5,6,5
+8778,Enugu,Apartment,5,3,2
+7078,Zamfara,Flat,9,1,2
+308,Sokoto,Terrace duplex,2,2,1
+4663,Ondo,Bungalow,8,1,3
+9209,Akwa Ibom,Detached duplex,3,2,3
+9085,Abia,Detached duplex,4,1,5
+6557,Plateau,Townhouse,3,4,6
+2535,Osun,Mansion,3,2,5
+329,Benue,Bungalow,7,5,5
+4631,Ebonyi,Terrace duplex,6,2,3
+1687,Anambra,Flat,4,2,2
+4026,Borno,Apartment,1,3,6
+649,Kogi,Apartment,9,1,5
+10457,Nasarawa,Semi-detached duplex,2,4,5
+7773,Nasarawa,Townhouse,8,2,3
+1639,Jigawa,Detached duplex,3,2,3
+8278,Enugu,Detached duplex,7,4,4
+3498,Rivers,Semi-detached duplex,5,3,2
+921,Nasarawa,Terrace duplex,2,1,2
+11901,Kano,Townhouse,2,3,1
+866,Oyo,Semi-detached duplex,5,6,3
+6398,Oyo,Mansion,8,6,1
+543,Adamawa,Mansion,1,2,4
+2867,Abia,Cottage,2,2,3
+8877,Oyo,Apartment,2,1,2
+12316,Adamawa,Semi-detached duplex,1,3,2
+1004,Taraba,Bungalow,6,2,6
+12332,Kano,Penthouse,2,4,6
+5672,Oyo,Mansion,8,3,5
+12417,Bauchi,Semi-detached duplex,3,6,2
+9802,Ebonyi,Townhouse,5,1,3
+3471,Ondo,Mansion,5,1,6
+752,Niger,Terrace duplex,5,2,3
+760,Benue,Penthouse,1,1,2
+1666,Ondo,Detached duplex,4,1,2
+1950,Plateau,Terrace duplex,2,1,2
+1939,Adamawa,Bungalow,3,2,2
+218,Cross River,Mansion,7,6,3
+3506,Enugu,Flat,4,1,5
+3687,Ogun,Apartment,3,2,1
+1023,Niger,Terrace duplex,2,6,4
+7932,Ekiti,Mansion,6,7,1
+3755,Cross River,Terrace duplex,2,1,2
+295,Bauchi,Detached duplex,1,2,1
+510,Oyo,Apartment,1,5,3
+6913,Sokoto,Bungalow,4,1,5
+2142,Abia,Townhouse,5,2,4
+1986,Niger,Mansion,3,2,3
+5659,Yobe,Terrace duplex,1,7,2
+10829,Enugu,Mansion,3,1,1
+9539,Kaduna,Bungalow,4,2,2
+3543,Kebbi,Apartment,3,2,4
+10168,Bayelsa,Terrace duplex,9,3,4
+8139,Taraba,Semi-detached duplex,9,1,4
+9235,Ondo,Apartment,9,5,6
+9062,Ogun,Penthouse,3,7,3
+3234,Bauchi,Semi-detached duplex,2,6,4
+832,Anambra,Terrace duplex,3,6,3
+3350,Oyo,Townhouse,4,1,2
+11152,Osun,Flat,1,6,1
+537,Benue,Bungalow,3,7,6
+1902,Borno,Flat,1,2,3
+3099,Borno,Flat,8,5,3
+1714,Katsina,Mansion,3,2,4
+11668,Bayelsa,Bungalow,9,1,6
+404,Lagos,Terrace duplex,3,1,4
+4903,Benue,Detached duplex,5,5,2
+2753,Lagos,Bungalow,3,2,1
+7682,Delta,Terrace duplex,6,2,6
+523,Imo,Detached duplex,2,2,1
+3693,Plateau,Penthouse,7,4,1
+1703,Plateau,Terrace duplex,5,1,2
+6291,Imo,Mansion,7,3,1
+2747,Benue,Mansion,4,1,1
+5277,Borno,Mansion,4,1,5
+8941,Cross River,Mansion,2,6,4
+2850,Nasarawa,Apartment,2,2,2
+2816,Kebbi,Bungalow,3,2,3
+8250,Benue,Townhouse,3,3,1
+5327,Taraba,Detached duplex,6,1,4
+7141,Kwara,Townhouse,7,2,4
+913,Akwa Ibom,Bungalow,9,4,2
+188,Lagos,Penthouse,1,2,1
+7922,Taraba,Mansion,1,1,2
+2037,Cross River,Bungalow,8,5,1
+8646,Adamawa,Apartment,4,4,5
+3022,Abia,Semi-detached duplex,8,2,2
+8704,Plateau,Mansion,1,1,2
+1274,Adamawa,Townhouse,9,6,1
+10169,Ondo,Penthouse,9,7,5
+3025,Imo,Cottage,5,2,3
+4271,Anambra,Penthouse,8,3,6
+4257,Benue,Apartment,2,6,6
+5926,Ogun,Apartment,4,6,2
+2937,Kano,Cottage,4,1,2
+797,Lagos,Bungalow,7,4,3
+1715,Kano,Terrace duplex,7,6,4
+1052,Katsina,Semi-detached duplex,3,2,3
+2919,Anambra,Detached duplex,3,4,2
+261,Delta,Apartment,2,1,1
+1682,Bayelsa,Bungalow,1,1,1
+9018,Borno,Bungalow,1,5,2
+11204,Kaduna,Terrace duplex,2,2,3
+940,Ondo,Detached duplex,1,2,1
+6518,Adamawa,Flat,1,6,5
+78,Cross River,Bungalow,1,7,5
+3860,Ondo,Semi-detached duplex,3,1,4
+12489,Ekiti,Semi-detached duplex,5,4,2
+5354,Gombe,Penthouse,7,7,1
+3770,Ogun,Mansion,2,1,4
+3487,Enugu,Flat,3,7,1
+3659,Osun,Apartment,2,7,6
+6944,Nasarawa,Mansion,8,3,6
+2744,Anambra,Terrace duplex,1,1,2
+5679,Kogi,Semi-detached duplex,2,3,1
+1747,Bayelsa,Townhouse,4,2,2
+11683,Kebbi,Terrace duplex,7,4,5
+226,Enugu,Townhouse,3,2,1
+2877,Kaduna,Penthouse,7,5,3
+7914,Bauchi,Semi-detached duplex,8,1,1
+11106,Edo,Penthouse,1,3,6
+334,Lagos,Semi-detached duplex,1,1,1
+8237,Borno,Terrace duplex,9,7,2
+768,Abia,Flat,3,2,1
+1033,Bayelsa,Semi-detached duplex,2,2,1
+10681,Jigawa,Semi-detached duplex,4,2,3
+2952,Abia,Apartment,9,3,5
+1380,Zamfara,Flat,5,2,1
+875,Ondo,Townhouse,4,2,3
+1916,Kogi,Cottage,4,2,1
+1528,Kogi,Townhouse,1,4,5
+3354,Kebbi,Townhouse,1,1,4
+983,Taraba,Apartment,3,1,1
+12884,Enugu,Apartment,2,4,4
+117,Cross River,Bungalow,4,6,5
+4709,Anambra,Townhouse,8,1,2
+4520,Kwara,Apartment,4,4,5
+10422,Jigawa,Terrace duplex,1,6,6
+748,Kaduna,Mansion,5,1,3
+11611,Anambra,Detached duplex,6,6,5
+1153,Yobe,Apartment,7,4,2
+813,Ekiti,Mansion,5,2,3
+4700,Bauchi,Terrace duplex,9,2,4
+2118,Osun,Apartment,5,1,4
+3692,Nasarawa,Flat,8,2,3
+3693,Bauchi,Bungalow,4,2,1
+2903,Delta,Terrace duplex,8,7,2
+987,Bauchi,Cottage,5,2,3
+8271,Sokoto,Bungalow,3,1,1
+3659,Kogi,Terrace duplex,3,2,4
+2432,Ondo,Semi-detached duplex,5,1,4
+1280,Yobe,Detached duplex,1,2,1
+3278,Ogun,Townhouse,4,2,3
+9459,Nasarawa,Detached duplex,1,3,6
+812,Kano,Bungalow,8,1,2
+3640,Nasarawa,Mansion,1,1,4
+5661,Kebbi,Penthouse,3,5,1
+11974,Akwa Ibom,Terrace duplex,1,6,2
+2292,Ekiti,Terrace duplex,5,6,1
+1613,Zamfara,Apartment,9,6,1
+8315,Jigawa,Mansion,3,2,2
+5341,Edo,Terrace duplex,4,3,5
+2574,Delta,Townhouse,6,4,4
+8783,Kano,Terrace duplex,7,5,3
+4863,Oyo,Semi-detached duplex,6,3,5
+8073,Osun,Mansion,8,6,5
+2838,Cross River,Detached duplex,5,1,4
+574,Ebonyi,Mansion,3,2,1
+1868,Lagos,Cottage,5,1,4
+1576,Edo,Detached duplex,2,7,6
+3946,Katsina,Detached duplex,3,6,5
+1615,Bauchi,Cottage,3,1,2
+2332,Edo,Cottage,2,2,1
+1178,Lagos,Penthouse,4,2,3
+38,Anambra,Semi-detached duplex,3,2,3
+10246,Gombe,Bungalow,4,5,5
+9530,Osun,Penthouse,2,3,3
+392,Enugu,Flat,2,1,4
+1053,Taraba,Penthouse,1,1,1
+8410,Plateau,Bungalow,3,4,4
+6095,Zamfara,Semi-detached duplex,4,2,5
+3584,Niger,Cottage,5,1,4
+2995,Ekiti,Semi-detached duplex,5,1,4
+9081,Osun,Bungalow,2,7,5
+11276,Adamawa,Flat,7,3,2
+4139,Bayelsa,Mansion,6,6,4
+1620,Kano,Flat,4,2,2
+5841,Adamawa,Apartment,4,7,5
+9165,Yobe,Flat,9,3,5
+6058,Osun,Apartment,4,4,1
+783,Taraba,Penthouse,5,1,2
+6325,Ondo,Apartment,7,4,4
+11330,Akwa Ibom,Penthouse,5,7,2
+12732,Yobe,Bungalow,3,7,2
+1778,Benue,Mansion,9,3,4
+1484,Enugu,Flat,3,1,3
+5373,Enugu,Bungalow,7,3,1
+3440,Borno,Cottage,2,1,3
+12501,Gombe,Terrace duplex,4,7,2
+1054,Borno,Bungalow,1,2,1
+2687,Katsina,Detached duplex,2,1,1
+1904,Cross River,Cottage,4,1,3
+1497,Nasarawa,Penthouse,4,7,6
+591,Sokoto,Detached duplex,2,4,2
+639,Kwara,Terrace duplex,2,4,4
+567,Yobe,Penthouse,9,6,2
+10613,Anambra,Flat,8,4,6
+1273,Cross River,Detached duplex,2,1,4
+8616,Oyo,Mansion,4,6,3
+3722,Niger,Apartment,1,7,2
+2890,Taraba,Flat,1,1,2
+11636,Osun,Detached duplex,8,2,6
+6238,Anambra,Townhouse,2,3,1
+2677,Nasarawa,Townhouse,8,3,6
+3428,Kano,Mansion,5,7,3
+9376,Adamawa,Townhouse,9,1,1
+2522,Taraba,Penthouse,6,4,3
+54,Zamfara,Bungalow,2,5,3
+12447,Taraba,Townhouse,6,7,6
+2792,Plateau,Flat,2,2,1
+361,Edo,Mansion,7,2,3
+2803,Akwa Ibom,Mansion,2,2,3
+7902,Kano,Terrace duplex,3,7,6
+7462,Niger,Mansion,8,5,6
+1577,Rivers,Flat,4,2,2
+2035,Kano,Terrace duplex,1,1,3
+3293,Akwa Ibom,Penthouse,6,6,5
+2586,Nasarawa,Mansion,2,2,2
+4153,Ondo,Apartment,1,2,4
+2075,Kaduna,Penthouse,1,2,4
+7579,Enugu,Mansion,9,2,3
+12139,Adamawa,Flat,4,3,3
+4255,Bauchi,Detached duplex,3,7,2
+1021,Kaduna,Terrace duplex,5,2,3
+8549,Kano,Penthouse,3,2,1
+2694,Kebbi,Bungalow,5,1,2
+1026,Katsina,Detached duplex,1,2,1
+12153,Taraba,Semi-detached duplex,9,3,4
+1334,Nasarawa,Bungalow,6,1,2
+12057,Kebbi,Penthouse,1,3,4
+1736,Abia,Mansion,3,1,2
+6656,Osun,Mansion,6,7,1
+2944,Jigawa,Townhouse,1,1,4
+9586,Kogi,Townhouse,1,5,5
+8238,Kwara,Townhouse,2,5,5
+8769,Gombe,Detached duplex,1,5,4
+1596,Rivers,Semi-detached duplex,2,1,1
+2099,Sokoto,Bungalow,5,2,3
+945,Enugu,Bungalow,5,1,4
+3604,Delta,Townhouse,1,2,2
+4420,Sokoto,Terrace duplex,4,4,3
+5477,Kebbi,Flat,9,7,1
+1349,Kwara,Apartment,4,1,3
+12615,Bayelsa,Semi-detached duplex,7,5,1
+12561,Abia,Terrace duplex,8,4,2
+970,Imo,Apartment,2,1,1
+5352,Delta,Penthouse,5,7,5
+10750,Ondo,Detached duplex,1,3,3
+2180,Yobe,Townhouse,1,2,3
+3178,Kano,Detached duplex,5,7,4
+2088,Imo,Bungalow,5,1,4
+2,Lagos,Semi-detached duplex,1,2,1
+10324,Sokoto,Penthouse,7,2,5
+155,Gombe,Townhouse,1,1,2
+5724,Adamawa,Townhouse,9,2,4
+758,Oyo,Townhouse,2,1,4
+7228,Borno,Flat,7,2,5
+4889,Anambra,Mansion,1,2,3
+11017,Edo,Flat,4,5,5
+8304,Katsina,Mansion,2,5,5
+9480,Borno,Semi-detached duplex,6,6,6
+2736,Osun,Flat,5,1,4
+5121,Gombe,Detached duplex,2,3,2
+5622,Ogun,Bungalow,5,2,3
+760,Ondo,Detached duplex,3,2,3
+8687,Lagos,Semi-detached duplex,3,4,3
+3867,Bayelsa,Semi-detached duplex,9,1,6
+2411,Bauchi,Townhouse,7,4,5
+4086,Akwa Ibom,Bungalow,3,6,4
+12400,Jigawa,Bungalow,5,5,6
+6797,Kogi,Semi-detached duplex,1,5,5
+1034,Kaduna,Bungalow,3,7,6
+1783,Benue,Detached duplex,8,6,6
+2753,Abia,Detached duplex,5,3,1
+1920,Enugu,Detached duplex,3,3,5
+10888,Anambra,Apartment,2,1,5
+12513,Akwa Ibom,Detached duplex,1,5,4
+5594,Kano,Semi-detached duplex,4,2,5
+5812,Sokoto,Bungalow,2,5,5
+5147,Katsina,Bungalow,5,5,2
+6057,Adamawa,Penthouse,4,1,2
+6220,Ekiti,Bungalow,6,4,6
+7145,Rivers,Semi-detached duplex,3,6,6
+6356,Delta,Apartment,6,2,6
+7028,Katsina,Flat,3,5,3
+3140,Jigawa,Apartment,1,1,4
+9098,Oyo,Terrace duplex,8,2,1
+255,Oyo,Townhouse,2,1,3
+280,Bauchi,Semi-detached duplex,1,2,4
+2385,Kebbi,Detached duplex,9,4,2
+2943,Abia,Mansion,8,2,3
+5517,Zamfara,Semi-detached duplex,5,7,1
+1024,Ondo,Bungalow,2,3,3
+103,Borno,Flat,8,7,2
+7912,Jigawa,Bungalow,7,5,2
+2161,Enugu,Mansion,2,2,2
+8001,Ekiti,Apartment,8,7,4
+1260,Adamawa,Cottage,2,2,1
+3938,Benue,Semi-detached duplex,3,1,1
+3880,Jigawa,Penthouse,5,7,4
+1691,Anambra,Semi-detached duplex,1,1,2
+2982,Plateau,Penthouse,9,1,6
+426,Sokoto,Penthouse,3,1,3
+1168,Benue,Detached duplex,3,1,3
+966,Edo,Mansion,3,1,3
+883,Cross River,Semi-detached duplex,3,2,1
+12364,Gombe,Detached duplex,1,3,3
+4765,Zamfara,Bungalow,2,4,5
+2079,Bauchi,Penthouse,4,2,4
+7711,Zamfara,Townhouse,5,4,5
+1775,Jigawa,Terrace duplex,3,5,4
+12559,Lagos,Townhouse,4,1,5
+2769,Nasarawa,Apartment,1,2,3
+2980,Sokoto,Semi-detached duplex,3,1,2
+795,Adamawa,Bungalow,9,1,2
+2822,Osun,Bungalow,4,2,4
+6553,Abia,Semi-detached duplex,4,5,2
+691,Gombe,Mansion,2,1,4
+760,Niger,Semi-detached duplex,9,2,2
+963,Osun,Cottage,4,1,1
+1964,Delta,Terrace duplex,4,2,4
+12886,Ekiti,Mansion,9,4,2
+9857,Katsina,Townhouse,2,4,5
+3880,Kogi,Bungalow,3,2,4
+12901,Jigawa,Apartment,7,6,5
+2717,Benue,Semi-detached duplex,5,4,1
+10475,Adamawa,Bungalow,4,1,4
+812,Lagos,Terrace duplex,3,1,2
+2926,Plateau,Apartment,3,4,3
+10280,Cross River,Terrace duplex,9,6,4
+4843,Niger,Townhouse,7,3,5
+1447,Ebonyi,Semi-detached duplex,5,1,2
+12175,Borno,Penthouse,2,2,5
+708,Kano,Detached duplex,3,1,4
+2112,Ekiti,Mansion,5,1,4
+7628,Kano,Flat,5,6,2
+6669,Sokoto,Detached duplex,8,1,4
+3299,Plateau,Detached duplex,6,4,6
+3524,Kebbi,Detached duplex,4,2,2
+210,Anambra,Mansion,5,2,1
+4604,Edo,Mansion,7,3,2
+1734,Bauchi,Penthouse,4,2,1
+1047,Bayelsa,Terrace duplex,3,1,2
+5435,Abia,Mansion,8,1,2
+4340,Oyo,Bungalow,8,3,2
+9920,Edo,Mansion,5,1,6
+4132,Kaduna,Apartment,3,5,4
+3627,Bayelsa,Detached duplex,3,1,4
+12031,Niger,Penthouse,5,6,6
+331,Nasarawa,Cottage,4,1,4
+5684,Delta,Mansion,3,3,2
+7512,Katsina,Penthouse,2,7,3
+1890,Zamfara,Terrace duplex,2,2,4
+12741,Nasarawa,Penthouse,5,4,6
+5317,Akwa Ibom,Penthouse,9,2,4
+10892,Benue,Terrace duplex,1,4,3
+403,Akwa Ibom,Detached duplex,2,3,2
+9796,Plateau,Apartment,4,4,4
+3682,Kebbi,Bungalow,2,1,4
+3056,Niger,Bungalow,9,4,4
+527,Borno,Townhouse,3,5,2
+8068,Taraba,Semi-detached duplex,4,1,2
+11102,Taraba,Bungalow,2,7,4
+2489,Borno,Mansion,5,2,2
+11036,Edo,Detached duplex,5,4,6
+3443,Enugu,Apartment,4,6,6
+1341,Katsina,Townhouse,1,2,2
+4924,Kano,Bungalow,7,2,1
+1459,Bauchi,Flat,2,3,3
+7003,Sokoto,Apartment,7,7,5
+618,Kwara,Townhouse,5,5,6
+11087,Kaduna,Flat,2,5,3
+11465,Zamfara,Semi-detached duplex,6,7,5
+5074,Kebbi,Apartment,7,6,6
+1049,Oyo,Penthouse,6,2,2
+3275,Kano,Detached duplex,3,2,1
+12431,Kano,Apartment,7,2,4
+3135,Cross River,Detached duplex,2,1,1
+11764,Plateau,Mansion,7,6,5
+1115,Cross River,Mansion,9,5,3
+853,Borno,Penthouse,3,1,3
+12846,Osun,Detached duplex,9,5,6
+1392,Anambra,Flat,8,2,6
+6219,Akwa Ibom,Apartment,5,1,1
+1641,Plateau,Semi-detached duplex,2,1,1
+11296,Ogun,Apartment,2,6,3
+1410,Adamawa,Detached duplex,1,2,3
+3080,Gombe,Bungalow,1,2,2
+1540,Zamfara,Penthouse,1,1,2
+5919,Katsina,Detached duplex,2,6,3
+11965,Taraba,Semi-detached duplex,8,7,1
+11035,Plateau,Flat,6,3,6
+2132,Kaduna,Townhouse,4,1,3
+10426,Kaduna,Townhouse,9,4,4
+8958,Ebonyi,Apartment,2,4,2
+3336,Niger,Penthouse,2,4,4
+2343,Osun,Mansion,9,6,6
+5038,Gombe,Mansion,7,4,1
+12628,Bayelsa,Terrace duplex,4,2,5
+6753,Borno,Townhouse,9,3,2
+3879,Cross River,Penthouse,5,1,1
+6410,Ogun,Detached duplex,7,2,5
+12582,Benue,Semi-detached duplex,9,5,1
+4774,Kano,Detached duplex,5,1,3
+5109,Ogun,Terrace duplex,7,3,5
+1493,Jigawa,Bungalow,2,2,3
+4796,Osun,Terrace duplex,3,2,3
+441,Plateau,Flat,5,2,4
+3568,Ondo,Semi-detached duplex,4,1,4
+4618,Borno,Townhouse,3,1,2
+394,Bauchi,Mansion,3,1,1
+9342,Kogi,Semi-detached duplex,2,5,6
+1552,Bauchi,Mansion,7,6,6
+570,Osun,Flat,2,1,4
+3890,Kogi,Flat,3,1,3
+826,Jigawa,Flat,2,1,1
+11067,Adamawa,Semi-detached duplex,9,2,1
+584,Nasarawa,Bungalow,2,1,3
+12019,Ondo,Terrace duplex,6,5,2
+9281,Bauchi,Terrace duplex,4,3,5
+11258,Kano,Terrace duplex,3,2,3
+1487,Osun,Apartment,4,2,3
+528,Osun,Bungalow,5,6,1
+11928,Katsina,Apartment,8,4,6
+6077,Gombe,Apartment,8,4,2
+2550,Osun,Flat,1,4,4
+3568,Taraba,Bungalow,8,5,3
+3338,Ebonyi,Semi-detached duplex,3,1,4
+66,Katsina,Bungalow,4,4,5
+15,Adamawa,Semi-detached duplex,4,4,3
+11762,Kano,Townhouse,8,4,1
+3575,Bayelsa,Apartment,2,2,2
+3633,Kebbi,Apartment,3,5,6
+5617,Kwara,Penthouse,6,6,4
+2648,Plateau,Semi-detached duplex,4,2,6
+9896,Abia,Bungalow,2,2,5
+12666,Enugu,Terrace duplex,4,4,3
+9847,Enugu,Penthouse,3,4,3
+1837,Adamawa,Apartment,1,5,3
+2471,Zamfara,Mansion,4,1,1
+1324,Cross River,Flat,4,1,4
+6309,Sokoto,Townhouse,9,1,1
+3174,Lagos,Semi-detached duplex,7,1,1
+595,Abia,Detached duplex,1,1,1
+2108,Kwara,Bungalow,1,2,3
+743,Ogun,Detached duplex,5,2,2
+8693,Bayelsa,Detached duplex,1,5,1
+685,Rivers,Townhouse,2,5,2
+1236,Kebbi,Flat,4,1,1
+1552,Kano,Penthouse,5,2,3
+12822,Katsina,Penthouse,8,5,6
+2705,Jigawa,Semi-detached duplex,3,1,4
+6990,Gombe,Flat,4,3,1
+6901,Cross River,Terrace duplex,7,7,2
+9925,Imo,Mansion,3,4,3
+9067,Borno,Mansion,7,7,6
+1383,Borno,Detached duplex,2,1,1
+6915,Katsina,Townhouse,5,2,2
+8686,Abia,Mansion,5,2,2
+2396,Kaduna,Terrace duplex,1,2,2
+11469,Imo,Semi-detached duplex,1,5,1
+496,Gombe,Apartment,5,2,4
+2446,Oyo,Semi-detached duplex,4,1,1
+7705,Ondo,Apartment,8,4,3
+11563,Anambra,Penthouse,9,6,5
+11295,Kaduna,Terrace duplex,3,4,5
+1498,Yobe,Detached duplex,2,2,3
+1346,Enugu,Detached duplex,3,2,1
+9337,Kaduna,Terrace duplex,4,2,6
+1703,Nasarawa,Penthouse,2,3,1
+4957,Kebbi,Penthouse,5,2,6
+10026,Kogi,Bungalow,7,2,6
+1828,Jigawa,Semi-detached duplex,1,2,3
+3384,Plateau,Terrace duplex,2,1,4
+6888,Borno,Semi-detached duplex,7,6,5
+2527,Yobe,Townhouse,2,1,4
+1904,Bayelsa,Bungalow,3,2,4
+3311,Akwa Ibom,Detached duplex,1,1,2
+3356,Enugu,Townhouse,8,5,1
+11689,Taraba,Mansion,3,6,1
+5524,Ebonyi,Apartment,5,7,3
+7838,Gombe,Penthouse,6,1,1
+9162,Bauchi,Penthouse,8,2,5
+12446,Nasarawa,Semi-detached duplex,7,1,5
+8503,Gombe,Flat,9,5,3
+11088,Katsina,Terrace duplex,5,4,1
+2584,Borno,Penthouse,1,1,2
+2642,Ogun,Terrace duplex,2,2,1
+3579,Cross River,Apartment,3,1,3
+5110,Oyo,Bungalow,2,6,5
+3301,Taraba,Penthouse,8,5,5
+275,Edo,Apartment,1,1,4
+1466,Yobe,Penthouse,3,2,4
+12696,Borno,Mansion,2,7,5
+6265,Borno,Townhouse,1,1,5
+9401,Adamawa,Penthouse,7,7,1
+835,Edo,Townhouse,7,5,6
+9862,Enugu,Bungalow,8,5,2
+9614,Ekiti,Townhouse,9,1,2
+12949,Taraba,Apartment,7,6,3
+7498,Enugu,Penthouse,6,4,5
+11752,Oyo,Terrace duplex,8,4,1
+878,Anambra,Townhouse,2,7,1
+8568,Adamawa,Semi-detached duplex,7,1,3
+1360,Niger,Mansion,3,1,4
+2613,Borno,Semi-detached duplex,1,1,3
+552,Ekiti,Terrace duplex,3,2,2
+1977,Delta,Mansion,4,2,4
+12244,Rivers,Detached duplex,2,7,6
+451,Gombe,Bungalow,4,3,4
+1821,Ondo,Terrace duplex,1,1,3
+477,Ebonyi,Penthouse,3,1,2
+9419,Adamawa,Townhouse,2,3,4
+8360,Sokoto,Terrace duplex,8,4,2
+5421,Edo,Penthouse,4,4,3
+2276,Ondo,Townhouse,8,5,5
+601,Imo,Townhouse,1,1,1
+6297,Bayelsa,Detached duplex,9,2,5
+2735,Ebonyi,Mansion,3,1,1
+1721,Abia,Terrace duplex,5,3,2
+877,Katsina,Cottage,1,2,3
+3046,Osun,Mansion,5,2,3
+8706,Jigawa,Apartment,3,3,1
+6376,Ebonyi,Semi-detached duplex,4,1,1
+6634,Ondo,Semi-detached duplex,8,3,4
+699,Sokoto,Terrace duplex,8,5,5
+480,Delta,Flat,5,2,1
+1170,Kebbi,Apartment,5,2,2
+2977,Bauchi,Mansion,2,1,4
+7983,Yobe,Bungalow,9,7,5
+791,Nasarawa,Detached duplex,4,1,1
+10277,Enugu,Apartment,1,4,2
+6076,Edo,Apartment,9,1,3
+2609,Ondo,Townhouse,5,2,2
+287,Ogun,Townhouse,8,1,5
+31,Sokoto,Mansion,1,3,1
+10323,Plateau,Detached duplex,9,6,1
+626,Imo,Apartment,1,2,3
+191,Plateau,Townhouse,4,2,4
+6591,Delta,Townhouse,7,1,5
+3522,Benue,Penthouse,2,2,4
+710,Oyo,Semi-detached duplex,3,1,3
+5243,Borno,Detached duplex,4,4,1
+510,Bauchi,Townhouse,3,1,3
+661,Kebbi,Terrace duplex,1,2,1
+7100,Ebonyi,Terrace duplex,1,5,4
+747,Osun,Townhouse,5,2,3
+6132,Taraba,Terrace duplex,8,3,2
+10174,Edo,Apartment,8,5,1
+5257,Nasarawa,Terrace duplex,9,6,1
+9163,Adamawa,Detached duplex,3,7,2
+12967,Bayelsa,Semi-detached duplex,5,1,5
+12860,Osun,Apartment,7,4,6
+2369,Jigawa,Semi-detached duplex,4,4,2
+1329,Kaduna,Bungalow,9,4,2
+11608,Imo,Flat,1,1,3
+657,Lagos,Semi-detached duplex,8,2,2
+3482,Kogi,Bungalow,2,1,1
+3045,Plateau,Terrace duplex,2,5,4
+920,Ondo,Detached duplex,3,2,2
+3355,Delta,Mansion,9,3,4
+9723,Lagos,Flat,6,5,4
+4517,Benue,Mansion,7,2,1
+1674,Zamfara,Townhouse,5,2,2
+11446,Borno,Terrace duplex,2,7,3
+12117,Lagos,Penthouse,5,7,5
+380,Abia,Penthouse,1,1,2
+80,Borno,Cottage,1,1,2
+3058,Anambra,Apartment,4,2,2
+2056,Ogun,Apartment,5,2,2
+8551,Taraba,Townhouse,6,6,4
+3248,Kano,Penthouse,7,5,5
+5120,Kano,Detached duplex,7,1,5
+3279,Rivers,Terrace duplex,3,5,4
+3714,Ebonyi,Cottage,1,2,3
+10336,Imo,Terrace duplex,9,7,5
+2503,Niger,Bungalow,3,1,1
+5104,Imo,Bungalow,8,7,1
+5342,Kogi,Semi-detached duplex,1,7,5
+3308,Oyo,Detached duplex,1,1,2
+1479,Borno,Apartment,1,2,3
+2149,Imo,Mansion,4,1,4
+599,Osun,Bungalow,9,5,2
+2430,Bauchi,Detached duplex,3,1,4
+4502,Osun,Detached duplex,8,6,6
+4299,Bayelsa,Detached duplex,2,1,2
+1129,Ekiti,Townhouse,3,1,1
+12330,Plateau,Penthouse,4,3,2
+6352,Kano,Bungalow,9,2,6
+9633,Ekiti,Mansion,9,2,2
+3881,Gombe,Penthouse,4,3,4
+3032,Osun,Mansion,5,4,5
+1326,Ogun,Penthouse,4,4,3
+4518,Anambra,Mansion,8,1,4
+8516,Zamfara,Mansion,4,1,4
+4585,Osun,Bungalow,3,1,5
+6245,Enugu,Penthouse,9,7,1
+6204,Nasarawa,Flat,8,2,5
+7320,Osun,Townhouse,5,4,3
+8613,Benue,Terrace duplex,6,2,4
+2566,Kaduna,Flat,3,2,2
+993,Kwara,Semi-detached duplex,4,2,3
+10355,Zamfara,Semi-detached duplex,6,3,4
+7234,Bayelsa,Semi-detached duplex,6,4,6
+1546,Lagos,Detached duplex,5,1,4
+5214,Benue,Mansion,6,1,3
+3049,Nasarawa,Bungalow,5,2,4
+3758,Taraba,Detached duplex,3,1,2
+1193,Ekiti,Townhouse,4,1,4
+9242,Kaduna,Bungalow,5,6,5
+2592,Enugu,Bungalow,1,1,6
+2932,Anambra,Semi-detached duplex,1,1,4
+1046,Yobe,Semi-detached duplex,1,2,4
+786,Ebonyi,Cottage,3,1,3
+2990,Zamfara,Townhouse,5,1,3
+11112,Kaduna,Penthouse,6,7,5
+2393,Taraba,Apartment,5,2,3
+2806,Gombe,Mansion,1,2,2
+7345,Oyo,Flat,3,4,2
+3562,Imo,Terrace duplex,5,1,4
+3367,Gombe,Townhouse,5,2,3
+8136,Borno,Semi-detached duplex,8,1,3
+9117,Plateau,Bungalow,7,1,2
+1478,Plateau,Cottage,4,2,3
+1336,Kwara,Cottage,1,1,1
+3187,Lagos,Cottage,3,1,4
+424,Gombe,Detached duplex,5,6,5
+4183,Yobe,Flat,9,3,4
+5975,Kebbi,Terrace duplex,8,7,2
+1407,Ondo,Terrace duplex,3,2,3
+8039,Kwara,Terrace duplex,6,1,6
+3717,Ebonyi,Apartment,3,3,4
+9326,Benue,Apartment,2,1,6
+4955,Kebbi,Terrace duplex,1,3,2
+10098,Imo,Townhouse,8,5,1
+1374,Ondo,Cottage,2,1,3
+3351,Sokoto,Mansion,8,6,4
+9321,Kaduna,Terrace duplex,3,4,2
+9929,Ogun,Semi-detached duplex,2,5,5
+1371,Yobe,Detached duplex,9,4,3
+2427,Yobe,Bungalow,1,7,4
+7278,Imo,Semi-detached duplex,8,1,2
+3036,Ekiti,Terrace duplex,2,1,3
+3882,Borno,Detached duplex,4,2,4
+8254,Benue,Bungalow,3,7,5
+12309,Kebbi,Detached duplex,6,3,1
+2721,Gombe,Townhouse,2,1,2
+2045,Kebbi,Detached duplex,5,2,4
+1143,Lagos,Penthouse,2,1,1
+310,Ogun,Detached duplex,1,2,2
+6489,Yobe,Bungalow,1,6,1
+1723,Delta,Detached duplex,8,3,1
+8931,Ondo,Semi-detached duplex,5,4,1
+980,Kogi,Detached duplex,5,2,1
+6263,Osun,Townhouse,2,5,2
+1588,Kano,Penthouse,5,1,2
+3975,Enugu,Penthouse,2,1,4
+10307,Niger,Mansion,5,4,5
+5252,Lagos,Townhouse,8,3,1
+2771,Ebonyi,Apartment,4,2,3
+3554,Katsina,Semi-detached duplex,5,2,1
+2472,Osun,Flat,5,2,1
+5625,Bauchi,Terrace duplex,5,2,1
+3316,Yobe,Mansion,2,6,5
+11478,Anambra,Mansion,7,6,5
+7585,Ondo,Bungalow,9,6,1
+4064,Zamfara,Semi-detached duplex,5,4,3
+5247,Edo,Townhouse,1,2,6
+1631,Anambra,Bungalow,9,6,5
+2512,Kogi,Bungalow,3,6,3
+1445,Adamawa,Bungalow,9,3,4
+864,Nasarawa,Flat,4,2,1
+72,Nasarawa,Detached duplex,6,6,2
+3418,Kaduna,Semi-detached duplex,6,1,4
+10580,Kaduna,Detached duplex,7,2,6
+2133,Gombe,Apartment,4,2,3
+5448,Borno,Terrace duplex,9,6,5
+11708,Sokoto,Penthouse,5,4,5
+890,Plateau,Mansion,4,2,3
+11996,Cross River,Penthouse,3,4,6
+7069,Kwara,Terrace duplex,8,6,1
+2765,Cross River,Bungalow,6,6,1
+10402,Anambra,Townhouse,1,1,2
+4834,Katsina,Townhouse,4,7,2
+118,Benue,Apartment,4,1,2
+9329,Niger,Townhouse,2,6,6
+2875,Ekiti,Detached duplex,2,1,3
+965,Kwara,Bungalow,8,4,4
+962,Gombe,Terrace duplex,4,1,4
+6617,Delta,Townhouse,3,6,6
+6117,Kebbi,Terrace duplex,8,3,6
+8654,Taraba,Townhouse,3,6,1
+4757,Akwa Ibom,Flat,8,2,2
+10763,Taraba,Terrace duplex,9,2,4
+7938,Jigawa,Apartment,4,5,1
+3271,Ekiti,Apartment,1,4,2
+403,Kaduna,Mansion,2,1,2
+10042,Niger,Detached duplex,9,7,4
+12907,Imo,Flat,3,1,2
+6997,Lagos,Flat,8,5,4
+3164,Sokoto,Flat,6,1,1
+8016,Osun,Bungalow,4,7,3
+9122,Edo,Detached duplex,9,7,3
+3170,Katsina,Semi-detached duplex,6,1,2
+6842,Adamawa,Semi-detached duplex,8,1,6
+3102,Oyo,Townhouse,5,2,4
+1933,Anambra,Flat,3,2,3
+10857,Oyo,Bungalow,7,6,4
+4106,Katsina,Mansion,8,5,5
+329,Cross River,Mansion,1,1,4
+11931,Kogi,Detached duplex,3,4,5
+797,Bauchi,Penthouse,2,1,1
+11419,Ogun,Mansion,2,1,4
+12280,Kwara,Semi-detached duplex,2,1,2
+9664,Lagos,Apartment,1,5,5
+413,Oyo,Mansion,6,1,1
+2787,Benue,Apartment,1,1,2
+52,Anambra,Bungalow,2,1,2
+8794,Borno,Detached duplex,7,5,2
+4577,Osun,Mansion,9,1,1
+993,Anambra,Penthouse,1,2,1
+2835,Gombe,Semi-detached duplex,4,1,4
+590,Oyo,Bungalow,4,1,4
+2941,Bayelsa,Semi-detached duplex,4,1,3
+3033,Edo,Apartment,3,1,2
+5485,Katsina,Apartment,3,4,3
+1863,Kano,Penthouse,3,1,4
+59,Jigawa,Detached duplex,4,2,3
+2780,Kebbi,Terrace duplex,3,2,2
+5768,Nasarawa,Mansion,4,3,4
+5494,Oyo,Penthouse,5,7,6
+10605,Imo,Penthouse,2,2,4
+2021,Katsina,Semi-detached duplex,3,1,2
+6279,Oyo,Semi-detached duplex,3,1,3
+385,Katsina,Mansion,4,2,1
+2475,Lagos,Mansion,8,5,4
+517,Kaduna,Terrace duplex,3,2,2
+7929,Benue,Bungalow,6,1,4
+8463,Zamfara,Terrace duplex,1,2,3
+10636,Lagos,Mansion,6,1,6
+6758,Sokoto,Flat,6,4,1
+4886,Lagos,Terrace duplex,9,1,2
+190,Akwa Ibom,Townhouse,4,6,3
+3582,Nasarawa,Detached duplex,6,6,5
+2365,Ekiti,Penthouse,1,1,4
+851,Niger,Semi-detached duplex,5,2,3
+11003,Ogun,Detached duplex,2,3,3
+2973,Plateau,Terrace duplex,4,1,3
+3945,Ebonyi,Flat,1,2,4
+1463,Edo,Mansion,3,2,1
+12874,Lagos,Apartment,1,4,3
+10268,Ebonyi,Bungalow,3,2,2
+1524,Plateau,Semi-detached duplex,3,2,1
+1934,Delta,Semi-detached duplex,2,1,2
+2083,Ondo,Penthouse,3,2,3
+1443,Nasarawa,Townhouse,4,2,3
+1755,Kogi,Semi-detached duplex,5,1,4
+1375,Ekiti,Flat,1,3,4
+78,Cross River,Mansion,4,1,4
+1263,Cross River,Flat,4,1,4
+3674,Plateau,Apartment,5,2,2
+2864,Rivers,Terrace duplex,5,4,1
+26,Benue,Cottage,4,1,1
+1541,Bauchi,Bungalow,5,2,2
+7562,Yobe,Penthouse,4,3,5
+2010,Abia,Townhouse,5,1,1
+324,Edo,Penthouse,1,5,5
+8655,Katsina,Townhouse,7,4,3
+4235,Kogi,Penthouse,5,1,2
+111,Adamawa,Semi-detached duplex,3,1,4
+771,Niger,Flat,5,2,4
+1504,Benue,Terrace duplex,2,2,2
+5525,Akwa Ibom,Bungalow,8,7,1
+3972,Borno,Flat,8,4,4
+2435,Gombe,Cottage,1,2,2
+304,Kebbi,Penthouse,3,5,6
+685,Ogun,Detached duplex,2,2,4
+2067,Edo,Bungalow,6,1,5
+10461,Abia,Semi-detached duplex,8,3,6
+525,Bauchi,Semi-detached duplex,1,1,2
+2276,Nasarawa,Mansion,4,1,2
+4902,Enugu,Semi-detached duplex,9,5,6
+10611,Bayelsa,Mansion,7,2,2
+2695,Kebbi,Flat,8,2,3
+6585,Bauchi,Terrace duplex,2,3,5
+538,Bauchi,Terrace duplex,3,2,4
+3526,Zamfara,Detached duplex,6,3,6
+7969,Yobe,Bungalow,6,3,6
+10261,Edo,Penthouse,3,3,1
+8478,Delta,Bungalow,3,1,4
+9408,Katsina,Terrace duplex,8,6,4
+2264,Katsina,Cottage,5,2,1
+10631,Plateau,Detached duplex,3,7,3
+3590,Anambra,Terrace duplex,4,1,1
+10798,Edo,Flat,1,4,6
+2299,Delta,Bungalow,1,1,1
+4733,Borno,Bungalow,5,5,3
+2877,Enugu,Cottage,2,2,3
+1843,Bayelsa,Cottage,1,1,1
+931,Bayelsa,Cottage,2,1,2
+9838,Abia,Townhouse,3,3,3
+12702,Borno,Bungalow,5,5,1
+1289,Bayelsa,Penthouse,5,2,3
+9252,Delta,Mansion,8,2,5
+11034,Taraba,Penthouse,8,3,1
+1816,Zamfara,Semi-detached duplex,1,4,3
+8344,Kaduna,Detached duplex,2,3,6
+6253,Rivers,Mansion,5,4,2
+7194,Ekiti,Penthouse,1,1,3
+1910,Bauchi,Penthouse,4,2,1
+4300,Yobe,Semi-detached duplex,2,7,2
+1593,Oyo,Detached duplex,1,1,4
+2908,Adamawa,Bungalow,3,1,1
+1482,Benue,Penthouse,3,1,4
+1440,Ebonyi,Semi-detached duplex,3,2,3
+7517,Benue,Flat,4,7,6
+11645,Delta,Apartment,8,5,4
+6375,Bauchi,Apartment,8,4,2
+3971,Yobe,Mansion,1,1,1
+9552,Gombe,Flat,8,7,3
+11189,Lagos,Semi-detached duplex,8,6,2
+8265,Taraba,Detached duplex,7,7,4
+5624,Delta,Semi-detached duplex,1,7,5
+3584,Zamfara,Penthouse,5,6,5
+7769,Ogun,Flat,4,3,5
+972,Ogun,Bungalow,4,2,4
+5787,Kogi,Bungalow,9,2,3
+3380,Bauchi,Penthouse,1,1,3
+213,Gombe,Flat,9,5,3
+7394,Osun,Penthouse,7,5,5
+2745,Borno,Mansion,2,5,6
+3562,Akwa Ibom,Terrace duplex,3,4,1
+11332,Gombe,Terrace duplex,9,6,3
+12505,Edo,Bungalow,9,7,1
+4177,Katsina,Flat,4,7,1
+2660,Ebonyi,Townhouse,4,6,5
+10823,Kebbi,Apartment,4,5,6
+2750,Kwara,Mansion,3,2,1
+631,Kaduna,Bungalow,4,2,4
+2038,Delta,Townhouse,2,2,3
+84,Gombe,Detached duplex,5,5,5
+6626,Ondo,Terrace duplex,6,6,5
+12242,Abia,Terrace duplex,9,3,5
+1322,Anambra,Bungalow,3,2,4
+6866,Osun,Terrace duplex,9,7,1
+10834,Sokoto,Apartment,9,4,3
+8283,Taraba,Flat,9,3,3
+6026,Plateau,Semi-detached duplex,6,3,6
+59,Ogun,Penthouse,1,4,4
+11995,Kogi,Bungalow,3,5,6
+3330,Yobe,Detached duplex,2,1,4
+2316,Niger,Mansion,1,2,4
+6566,Ekiti,Mansion,4,3,6
+497,Ogun,Semi-detached duplex,4,2,1
+3647,Nasarawa,Cottage,4,1,1
+2909,Yobe,Townhouse,2,1,3
+2794,Sokoto,Flat,1,5,1
+3037,Gombe,Terrace duplex,2,2,2
+2390,Nasarawa,Detached duplex,4,1,3
+10497,Osun,Semi-detached duplex,6,2,6
+11166,Bayelsa,Apartment,7,5,4
+2627,Plateau,Bungalow,5,5,4
+3784,Delta,Flat,2,7,5
+508,Zamfara,Mansion,4,1,3
+6943,Adamawa,Apartment,8,4,3
+12914,Benue,Detached duplex,3,3,5
+1554,Anambra,Mansion,7,4,3
+77,Rivers,Terrace duplex,4,2,4
+867,Enugu,Flat,3,2,3
+1817,Ondo,Penthouse,4,2,4
+2572,Ebonyi,Townhouse,2,1,2
+10890,Enugu,Townhouse,2,7,4
+10986,Edo,Terrace duplex,9,3,4
+1975,Kano,Semi-detached duplex,3,2,6
+11756,Oyo,Detached duplex,3,2,6
+1157,Akwa Ibom,Apartment,7,1,6
+1631,Edo,Semi-detached duplex,1,2,4
+428,Bauchi,Penthouse,5,2,2
+11145,Rivers,Semi-detached duplex,9,2,2
+496,Oyo,Flat,2,5,2
+5102,Jigawa,Penthouse,4,6,6
+7819,Lagos,Semi-detached duplex,6,2,4
+2518,Ekiti,Detached duplex,3,2,3
+2475,Bayelsa,Cottage,4,2,3
+7424,Imo,Apartment,2,2,4
+3219,Bauchi,Detached duplex,3,2,4
+2222,Imo,Terrace duplex,5,2,2
+4727,Rivers,Mansion,8,7,4
+2279,Kogi,Terrace duplex,1,2,4
+11770,Oyo,Mansion,6,5,3
+2665,Bauchi,Bungalow,2,2,1
+12410,Plateau,Semi-detached duplex,9,7,2
+12,Abia,Penthouse,2,2,2
+1217,Edo,Bungalow,2,1,2
+5702,Benue,Townhouse,7,7,6
+3500,Benue,Mansion,1,2,1
+6763,Ebonyi,Mansion,3,5,2
+5933,Imo,Semi-detached duplex,6,5,3
+12971,Ekiti,Penthouse,3,7,6
+8268,Cross River,Apartment,2,1,6
+943,Akwa Ibom,Bungalow,4,6,6
+508,Bauchi,Detached duplex,8,7,1
+3705,Nasarawa,Terrace duplex,6,2,6
+3647,Katsina,Apartment,8,6,4
+8183,Kwara,Townhouse,8,7,6
+3760,Zamfara,Terrace duplex,8,1,1
+4907,Oyo,Semi-detached duplex,6,5,1
+7350,Kano,Mansion,6,4,4
+4154,Enugu,Terrace duplex,8,4,3
+216,Kaduna,Flat,4,1,2
+3480,Lagos,Semi-detached duplex,5,2,6
+1729,Benue,Flat,2,2,2
+1306,Kaduna,Bungalow,5,1,6
+1591,Oyo,Detached duplex,2,1,1
+10243,Gombe,Semi-detached duplex,3,5,6
+3626,Ondo,Penthouse,1,1,4
+2348,Gombe,Detached duplex,4,2,4
+5248,Taraba,Mansion,4,6,2
+9231,Bauchi,Semi-detached duplex,7,6,6
+614,Rivers,Cottage,4,2,2
+7436,Katsina,Detached duplex,5,7,1
+1228,Oyo,Bungalow,2,2,3
+7966,Kaduna,Semi-detached duplex,2,6,3
+2245,Anambra,Flat,4,2,1
+2382,Kogi,Penthouse,7,7,2
+7891,Bayelsa,Apartment,3,1,4
+1075,Adamawa,Terrace duplex,4,1,2
+1473,Ondo,Apartment,5,2,1
+49,Adamawa,Detached duplex,3,2,2
+1027,Adamawa,Townhouse,4,4,6
+3848,Kaduna,Detached duplex,9,2,2
+2252,Imo,Penthouse,4,2,4
+596,Cross River,Flat,4,1,2
+4973,Kogi,Townhouse,1,6,3
+1786,Plateau,Apartment,1,1,4
+1264,Imo,Detached duplex,2,1,4
+596,Kebbi,Apartment,1,7,6
+1888,Jigawa,Flat,5,2,3
+7369,Kebbi,Townhouse,5,3,6
+2235,Yobe,Detached duplex,1,1,3
+2520,Abia,Bungalow,3,2,3
+358,Osun,Semi-detached duplex,2,1,1
+3430,Taraba,Apartment,3,1,1
+10161,Ogun,Flat,8,7,5
+10652,Nasarawa,Mansion,7,2,5
+11698,Rivers,Penthouse,4,7,3
+730,Ogun,Detached duplex,2,1,4
+1157,Kebbi,Semi-detached duplex,4,1,4
+22,Kano,Flat,2,1,2
+10409,Sokoto,Semi-detached duplex,5,6,3
+1850,Imo,Mansion,9,6,2
+1410,Delta,Bungalow,5,2,1
+2288,Kebbi,Bungalow,3,1,1
+1159,Adamawa,Townhouse,1,1,1
+8056,Kwara,Detached duplex,4,3,6
+10799,Nasarawa,Apartment,5,3,1
+7745,Niger,Bungalow,3,5,1
+1536,Kwara,Detached duplex,1,2,1
+2975,Zamfara,Detached duplex,2,2,2
+12420,Niger,Mansion,2,6,6
+2215,Kaduna,Semi-detached duplex,1,2,2
+9125,Osun,Townhouse,4,2,5
+12464,Lagos,Penthouse,5,6,1
+12870,Borno,Penthouse,5,7,2
+11231,Cross River,Detached duplex,2,3,3
+3464,Yobe,Detached duplex,3,1,6
+5965,Niger,Semi-detached duplex,3,1,5
+2824,Bauchi,Apartment,2,2,2
+7299,Adamawa,Townhouse,9,2,5
+8902,Ebonyi,Townhouse,5,5,2
+5799,Borno,Semi-detached duplex,9,2,4
+5943,Nasarawa,Terrace duplex,4,1,6
+10120,Osun,Terrace duplex,7,5,6
+268,Yobe,Townhouse,5,1,4
+5571,Taraba,Terrace duplex,6,6,2
+1008,Imo,Bungalow,9,3,1
+9708,Kebbi,Apartment,1,5,1
+11214,Abia,Semi-detached duplex,2,4,3
+12033,Osun,Penthouse,6,4,3
+1701,Sokoto,Penthouse,1,1,3
+5709,Kogi,Apartment,4,4,3
+3434,Oyo,Mansion,1,3,2
+7099,Taraba,Detached duplex,2,7,5
+4223,Osun,Mansion,6,2,5
+73,Katsina,Townhouse,4,2,3
+6880,Kebbi,Semi-detached duplex,1,7,1
+6741,Nasarawa,Townhouse,3,6,2
+4529,Ondo,Detached duplex,2,1,6
+1776,Osun,Semi-detached duplex,2,1,3
+2483,Lagos,Penthouse,1,2,2
+174,Edo,Semi-detached duplex,3,3,6
+8584,Lagos,Townhouse,3,3,1
+934,Benue,Bungalow,3,2,1
+668,Borno,Mansion,4,1,3
+11819,Plateau,Detached duplex,5,4,1
+1461,Delta,Apartment,5,6,2
+400,Oyo,Cottage,5,2,3
+276,Edo,Apartment,3,2,1
+1333,Ekiti,Detached duplex,6,3,6
+1694,Bayelsa,Mansion,8,1,2
+10603,Taraba,Apartment,4,7,2
+4006,Nasarawa,Mansion,8,5,1
+11172,Sokoto,Mansion,5,6,2
+10717,Cross River,Terrace duplex,7,6,2
+4493,Ebonyi,Flat,1,6,6
+8349,Kano,Penthouse,7,6,2
+10707,Niger,Mansion,6,4,5
+2163,Taraba,Cottage,5,1,2
+2160,Ebonyi,Mansion,1,1,4
+5138,Katsina,Flat,9,1,2
+761,Ebonyi,Semi-detached duplex,1,1,2
+707,Jigawa,Semi-detached duplex,6,5,6
+2703,Plateau,Mansion,1,2,2
+11801,Abia,Flat,3,3,5
+3283,Borno,Apartment,5,1,3
+1628,Kano,Penthouse,4,1,2
+9866,Oyo,Penthouse,3,5,5
+3329,Sokoto,Detached duplex,4,4,2
+10053,Kebbi,Mansion,2,1,3
+1000,Oyo,Penthouse,4,1,2
+533,Delta,Detached duplex,5,2,3
+6928,Plateau,Terrace duplex,5,1,2
+1391,Edo,Apartment,9,3,3
+616,Benue,Flat,3,2,2
+141,Edo,Townhouse,2,2,3
+9885,Abia,Mansion,5,1,3
+9244,Zamfara,Apartment,6,5,4
+8566,Taraba,Detached duplex,7,3,4
+2902,Yobe,Bungalow,3,2,2
+1532,Yobe,Penthouse,4,3,5
+2870,Enugu,Detached duplex,3,1,4
+858,Cross River,Apartment,8,3,3
+7574,Bayelsa,Semi-detached duplex,4,4,3
+4550,Ondo,Detached duplex,1,3,3
+2909,Nasarawa,Terrace duplex,9,4,1
+631,Lagos,Penthouse,3,2,3
+12053,Zamfara,Bungalow,4,3,3
+8243,Adamawa,Apartment,8,2,6
+6795,Kogi,Penthouse,7,7,3
+287,Oyo,Terrace duplex,5,1,1
+7337,Enugu,Flat,5,4,3
+9494,Kwara,Penthouse,2,4,3
+7104,Ogun,Detached duplex,2,1,5
+11251,Bauchi,Townhouse,3,4,1
+4030,Katsina,Flat,2,4,5
+15,Abia,Townhouse,2,2,4
+498,Kebbi,Penthouse,7,1,1
+11199,Ondo,Flat,4,7,1
+3400,Kwara,Terrace duplex,4,2,4
+3921,Benue,Bungalow,6,3,3
+6328,Osun,Townhouse,9,7,2
+2762,Edo,Semi-detached duplex,7,3,5
+3194,Ogun,Apartment,2,2,4
+11161,Imo,Mansion,3,7,1
+183,Yobe,Detached duplex,5,2,1
+2034,Imo,Flat,2,1,3
+829,Abia,Flat,1,2,3
+11976,Ogun,Terrace duplex,5,7,1
+5054,Lagos,Terrace duplex,7,1,1
+2995,Osun,Semi-detached duplex,7,4,4
+12743,Akwa Ibom,Flat,1,4,1
+6685,Nasarawa,Townhouse,9,1,3
+1872,Delta,Bungalow,1,1,4
+4088,Taraba,Mansion,7,2,4
+4978,Edo,Bungalow,7,6,6
+6437,Akwa Ibom,Terrace duplex,2,2,3
+1489,Edo,Penthouse,3,2,1
+2308,Jigawa,Mansion,3,2,1
+12616,Delta,Detached duplex,2,2,4
+2933,Adamawa,Penthouse,5,2,4
+2614,Bauchi,Flat,2,1,4
+694,Osun,Terrace duplex,2,7,3
+108,Kwara,Apartment,3,2,4
+3616,Kogi,Semi-detached duplex,2,6,1
+2942,Bauchi,Townhouse,4,2,2
+1843,Delta,Bungalow,4,5,4
+1798,Adamawa,Cottage,1,2,2
+6772,Borno,Apartment,9,2,1
+9544,Ebonyi,Townhouse,9,5,4
+12663,Osun,Mansion,1,4,1
+7886,Sokoto,Townhouse,1,6,6
+4083,Ondo,Bungalow,9,6,1
+1516,Adamawa,Apartment,5,2,3
+9130,Bayelsa,Terrace duplex,2,6,6
+1139,Adamawa,Detached duplex,3,1,1
+11504,Lagos,Mansion,8,6,6
+1950,Borno,Detached duplex,3,1,3
+8293,Ekiti,Bungalow,6,5,5
+1663,Delta,Mansion,2,2,1
+10818,Kogi,Terrace duplex,9,2,3
+2580,Katsina,Detached duplex,4,1,3
+3210,Yobe,Terrace duplex,2,1,1
+10800,Bauchi,Penthouse,3,3,6
+10353,Adamawa,Apartment,6,3,4
+2092,Katsina,Semi-detached duplex,1,1,3
+359,Bauchi,Cottage,2,1,1
+5025,Nasarawa,Mansion,1,1,2
+6851,Jigawa,Detached duplex,8,3,1
+10060,Yobe,Bungalow,3,4,5
+3940,Sokoto,Detached duplex,4,1,3
+161,Edo,Terrace duplex,5,2,4
+648,Kaduna,Detached duplex,8,3,6
+1715,Benue,Flat,4,2,3
+6021,Yobe,Semi-detached duplex,5,3,6
+1701,Kogi,Bungalow,4,2,3
+3953,Edo,Semi-detached duplex,8,2,1
+2542,Kwara,Flat,5,1,1
+509,Sokoto,Detached duplex,4,2,4
+821,Adamawa,Mansion,2,2,3
+4283,Ekiti,Semi-detached duplex,7,2,1
+348,Sokoto,Detached duplex,3,1,4
+12348,Adamawa,Semi-detached duplex,1,7,6
+11674,Niger,Flat,6,4,4
+2511,Cross River,Flat,3,2,3
+3664,Ondo,Bungalow,3,1,1
+959,Taraba,Flat,1,7,5
+8767,Gombe,Semi-detached duplex,2,6,3
+1002,Plateau,Cottage,1,1,2
+773,Kaduna,Detached duplex,5,1,4
+1431,Adamawa,Bungalow,3,3,4
+9166,Ebonyi,Flat,4,1,1
+2252,Taraba,Detached duplex,5,1,1
+7631,Ondo,Townhouse,9,5,2
+3242,Kwara,Townhouse,3,1,2
+137,Enugu,Flat,5,1,1
+6920,Taraba,Penthouse,1,5,2
+5510,Zamfara,Mansion,4,4,3
+2509,Jigawa,Apartment,5,2,1
+6881,Delta,Terrace duplex,6,2,5
+8247,Ogun,Flat,7,4,6
+10932,Taraba,Mansion,7,1,2
+8524,Imo,Apartment,6,2,6
+6304,Imo,Detached duplex,9,3,6
+742,Enugu,Bungalow,6,2,4
+1317,Bauchi,Townhouse,3,5,4
+3235,Borno,Cottage,5,1,1
+10181,Taraba,Townhouse,6,4,1
+3535,Akwa Ibom,Bungalow,3,2,1
+1693,Adamawa,Terrace duplex,3,7,3
+2254,Delta,Cottage,2,1,1
+11696,Imo,Semi-detached duplex,9,2,3
+7399,Zamfara,Flat,5,1,3
+7770,Oyo,Flat,9,6,6
+5263,Kebbi,Detached duplex,8,6,5
+483,Benue,Apartment,2,2,4
+4378,Ebonyi,Penthouse,6,7,6
+7255,Oyo,Townhouse,3,5,6
+3260,Akwa Ibom,Townhouse,6,1,5
+7518,Kebbi,Townhouse,5,5,4
+3093,Benue,Terrace duplex,5,2,3
+5493,Sokoto,Bungalow,2,5,6
+958,Kogi,Semi-detached duplex,1,1,2
+2476,Ekiti,Penthouse,5,2,3
+11851,Kaduna,Terrace duplex,1,4,5
+5834,Benue,Detached duplex,2,3,5
+1130,Delta,Semi-detached duplex,1,1,3
+7459,Jigawa,Bungalow,5,1,2
+10248,Ondo,Penthouse,1,2,1
+2466,Ekiti,Penthouse,2,4,4
+10257,Bayelsa,Mansion,9,7,4
+9364,Oyo,Detached duplex,8,4,5
+3089,Lagos,Mansion,4,1,3
+1566,Sokoto,Bungalow,2,1,4
+9518,Sokoto,Terrace duplex,3,7,2
+12035,Taraba,Flat,1,5,6
+2490,Rivers,Apartment,1,2,4
+2983,Kwara,Cottage,4,1,4
+2356,Bayelsa,Bungalow,1,4,3
+2545,Benue,Apartment,3,2,3
+3312,Benue,Detached duplex,2,7,4
+1117,Katsina,Apartment,4,2,1
+23,Delta,Cottage,4,1,3
+1087,Sokoto,Bungalow,4,2,1
+6386,Kwara,Bungalow,2,3,2
+7470,Jigawa,Terrace duplex,5,4,2
+1757,Adamawa,Terrace duplex,9,6,1
+9056,Katsina,Townhouse,1,2,4
+8483,Gombe,Townhouse,3,6,3
+2391,Yobe,Mansion,9,1,1
+35,Imo,Apartment,6,6,4
+5355,Kebbi,Mansion,8,3,2
+9759,Edo,Detached duplex,2,1,4
+1304,Edo,Penthouse,4,1,2
+3886,Kogi,Apartment,4,2,3
+6818,Akwa Ibom,Apartment,5,2,3
+2124,Osun,Apartment,7,1,5
+249,Akwa Ibom,Mansion,1,1,4
+12953,Taraba,Flat,8,2,3
+630,Cross River,Flat,3,1,4
+10522,Kano,Bungalow,2,3,1
+10338,Taraba,Penthouse,2,6,3
+3718,Delta,Townhouse,5,2,4
+9797,Gombe,Penthouse,2,2,5
+2718,Ekiti,Cottage,5,1,4
+11744,Bauchi,Townhouse,8,6,6
+11749,Osun,Detached duplex,2,2,6
+1809,Abia,Semi-detached duplex,2,2,1
+3990,Benue,Apartment,3,7,6
+1349,Kano,Bungalow,3,1,2
+3082,Cross River,Detached duplex,7,4,4
+514,Katsina,Apartment,1,2,3
+2856,Kogi,Flat,4,3,5
+2166,Oyo,Townhouse,4,1,2
+4314,Katsina,Terrace duplex,7,3,5
+11408,Cross River,Penthouse,7,7,3
+2827,Benue,Townhouse,4,2,2
+176,Cross River,Bungalow,3,1,4
+3062,Kogi,Penthouse,2,7,5
+7695,Enugu,Penthouse,8,2,1
+4571,Katsina,Townhouse,8,4,2
+11785,Ebonyi,Mansion,1,5,4
+6579,Plateau,Bungalow,8,5,6
+2193,Kwara,Detached duplex,4,2,4
+1756,Osun,Cottage,4,2,3
+11942,Kaduna,Townhouse,1,1,5
+3891,Benue,Mansion,6,6,3
+8310,Adamawa,Detached duplex,2,5,3
+465,Bayelsa,Apartment,4,2,2
+7066,Enugu,Terrace duplex,2,1,6
+10359,Borno,Semi-detached duplex,3,1,6
+4403,Oyo,Penthouse,7,3,1
+10310,Imo,Semi-detached duplex,9,7,3
+4643,Jigawa,Mansion,9,4,6
+3399,Delta,Flat,5,2,2
+332,Imo,Flat,3,1,4
+3319,Bauchi,Semi-detached duplex,4,1,2
+2192,Edo,Semi-detached duplex,4,1,3
+187,Edo,Terrace duplex,3,2,4
+12995,Cross River,Detached duplex,3,1,6
+4349,Kebbi,Townhouse,7,6,6
+1218,Anambra,Bungalow,4,2,1
+10943,Kwara,Townhouse,4,1,2
+12675,Bauchi,Townhouse,9,3,1
+384,Imo,Detached duplex,2,2,3
+2886,Ebonyi,Terrace duplex,5,1,4
+2544,Abia,Detached duplex,4,1,2
+609,Anambra,Mansion,4,1,1
+2977,Osun,Detached duplex,3,7,5
+182,Zamfara,Detached duplex,2,2,3
+1150,Oyo,Bungalow,4,7,5
+472,Plateau,Detached duplex,7,4,3
+12752,Nasarawa,Penthouse,8,3,2
+2807,Zamfara,Semi-detached duplex,3,2,4
+2756,Plateau,Mansion,3,2,1
+2456,Edo,Penthouse,9,6,3
+3021,Ekiti,Apartment,9,2,2
+5145,Gombe,Mansion,7,5,6
+1850,Ekiti,Flat,1,1,4
+1598,Edo,Mansion,9,4,4
+9697,Niger,Detached duplex,7,3,1
+36,Oyo,Flat,5,1,2
+12179,Sokoto,Flat,2,5,6
+3828,Zamfara,Detached duplex,4,1,3
+5180,Bayelsa,Bungalow,5,5,4
+3722,Lagos,Mansion,2,2,4
+1261,Borno,Penthouse,5,1,2
+2962,Kano,Bungalow,2,1,3
+1151,Zamfara,Flat,1,1,4
+8080,Benue,Detached duplex,1,6,1
+1877,Kano,Penthouse,3,6,1
+6478,Zamfara,Detached duplex,5,1,1
+3381,Ebonyi,Mansion,5,3,4
+2965,Osun,Apartment,5,1,3
+10735,Rivers,Penthouse,1,6,1
+1070,Jigawa,Bungalow,9,6,3
+3662,Bayelsa,Townhouse,1,1,1
+1344,Bauchi,Terrace duplex,1,1,2
+7354,Ondo,Terrace duplex,6,7,5
+461,Katsina,Mansion,4,2,1
+703,Kaduna,Townhouse,4,2,2
+7977,Bayelsa,Bungalow,3,6,4
+1266,Benue,Detached duplex,3,1,2
+4658,Kwara,Penthouse,4,5,4
+3878,Abia,Penthouse,8,3,5
+1514,Kebbi,Terrace duplex,1,2,2
+3355,Plateau,Terrace duplex,2,1,1
+229,Plateau,Flat,5,2,3
+5023,Osun,Semi-detached duplex,2,1,1
+2168,Katsina,Apartment,1,2,4
+3124,Zamfara,Detached duplex,6,7,2
+9118,Akwa Ibom,Townhouse,9,5,6
+7051,Osun,Penthouse,4,1,4
+246,Adamawa,Bungalow,1,1,3
+2980,Kaduna,Apartment,9,5,3
+1651,Cross River,Terrace duplex,1,1,4
+6082,Kano,Detached duplex,6,1,2
+3089,Osun,Townhouse,5,7,1
+7758,Bauchi,Terrace duplex,9,7,5
+3777,Rivers,Townhouse,7,7,5
+7962,Sokoto,Semi-detached duplex,5,6,2
+303,Cross River,Flat,2,2,4
+1689,Kano,Townhouse,5,2,1
+1027,Taraba,Terrace duplex,3,2,4
+2646,Ebonyi,Terrace duplex,2,1,1
+2162,Plateau,Detached duplex,7,5,4
+11461,Zamfara,Apartment,2,1,1
+2844,Ekiti,Flat,1,1,2
+12933,Delta,Apartment,8,6,3
+1837,Kwara,Detached duplex,2,1,1
+5775,Enugu,Mansion,2,2,4
+11861,Ondo,Semi-detached duplex,1,2,6
+5386,Rivers,Flat,3,6,2
+7916,Anambra,Mansion,4,5,3
+1895,Sokoto,Bungalow,9,1,1
+961,Anambra,Flat,4,2,2
+528,Rivers,Cottage,1,1,4
+8142,Jigawa,Detached duplex,4,6,5
+534,Kogi,Apartment,3,1,3
+1053,Lagos,Semi-detached duplex,2,7,6
+12866,Taraba,Bungalow,7,1,2
+4320,Sokoto,Townhouse,9,2,5
+8286,Gombe,Terrace duplex,5,1,1
+2664,Yobe,Townhouse,2,1,3
+1131,Benue,Cottage,3,1,1
+4134,Kano,Detached duplex,5,7,6
+4739,Bayelsa,Semi-detached duplex,1,4,5
+4970,Borno,Terrace duplex,7,4,4
+11447,Taraba,Townhouse,4,3,4
+94,Akwa Ibom,Mansion,4,2,2
+791,Kaduna,Townhouse,1,4,5
+11671,Ogun,Penthouse,7,6,5
+11048,Bauchi,Penthouse,2,2,2
+857,Niger,Terrace duplex,2,2,4
+7945,Rivers,Detached duplex,8,2,6
+12958,Kwara,Detached duplex,8,4,4
+8436,Bauchi,Flat,6,1,1
+6740,Adamawa,Apartment,9,4,5
+9078,Ondo,Bungalow,2,3,4
+274,Borno,Semi-detached duplex,8,3,5
+12499,Ebonyi,Detached duplex,6,7,4
+2948,Akwa Ibom,Penthouse,4,4,2
+1841,Ekiti,Flat,9,1,1
+8889,Zamfara,Apartment,3,1,2
+11591,Borno,Townhouse,1,5,4
+1433,Gombe,Bungalow,9,2,4
+3028,Nasarawa,Detached duplex,5,1,1
+8961,Gombe,Mansion,2,6,1
+12487,Oyo,Semi-detached duplex,2,5,5
+7691,Kaduna,Penthouse,2,1,5
+5612,Enugu,Townhouse,4,2,1
+11045,Lagos,Penthouse,2,7,1
+12317,Ogun,Townhouse,8,3,3
+4013,Gombe,Detached duplex,5,3,3
+300,Borno,Detached duplex,4,1,1
+2035,Yobe,Terrace duplex,9,3,5
+3373,Kogi,Mansion,2,1,3
+6713,Jigawa,Semi-detached duplex,3,4,5
+1875,Kogi,Bungalow,3,4,5
+1121,Zamfara,Terrace duplex,1,1,3
+12909,Edo,Flat,3,6,3
+9291,Ekiti,Townhouse,4,3,1
+7949,Akwa Ibom,Apartment,7,2,6
+2513,Cross River,Bungalow,5,2,2
+3785,Borno,Apartment,1,2,1
+5967,Nasarawa,Townhouse,1,6,1
+2138,Benue,Townhouse,7,3,6
+1035,Zamfara,Detached duplex,5,4,6
+8054,Taraba,Penthouse,9,7,3
+1973,Anambra,Mansion,4,2,3
+457,Edo,Detached duplex,3,1,6
+10658,Lagos,Townhouse,5,6,1
+2813,Taraba,Apartment,1,2,2
+1926,Bauchi,Terrace duplex,4,2,2
+10958,Adamawa,Bungalow,6,4,5
+8219,Katsina,Mansion,3,2,4
+2724,Bayelsa,Penthouse,6,4,4
+1067,Ogun,Mansion,1,7,3
+7002,Imo,Apartment,8,5,5
+1414,Katsina,Townhouse,1,1,3
+10357,Kwara,Semi-detached duplex,6,4,1
+3774,Lagos,Terrace duplex,5,1,4
+2617,Kogi,Penthouse,2,7,1
+3817,Borno,Detached duplex,2,2,4
+289,Akwa Ibom,Semi-detached duplex,6,1,6
+11459,Edo,Terrace duplex,5,7,2
+2956,Gombe,Townhouse,3,4,4
+722,Yobe,Detached duplex,5,1,3
+6914,Ogun,Bungalow,1,1,2
+458,Sokoto,Semi-detached duplex,3,3,1
+2968,Nasarawa,Bungalow,9,2,6
+3987,Kano,Detached duplex,4,1,1
+1602,Kano,Penthouse,1,2,4
+214,Adamawa,Bungalow,2,1,4
+756,Sokoto,Terrace duplex,3,2,3
+12279,Rivers,Terrace duplex,4,1,6
+2355,Bauchi,Townhouse,3,1,2
+11701,Kebbi,Flat,4,1,4
+658,Benue,Cottage,4,1,3
+6831,Zamfara,Apartment,5,4,6
+8177,Abia,Detached duplex,2,3,3
+3347,Ondo,Detached duplex,4,4,3
+6999,Edo,Mansion,8,7,4
+623,Bayelsa,Apartment,3,1,2
+1179,Enugu,Townhouse,5,1,4
+12118,Abia,Mansion,8,4,2
+5238,Imo,Detached duplex,8,5,2
+4862,Jigawa,Flat,3,6,1
+1117,Ebonyi,Semi-detached duplex,2,4,3
+456,Anambra,Detached duplex,5,2,3
+3514,Enugu,Detached duplex,1,2,3
+12209,Akwa Ibom,Penthouse,7,2,6
+2190,Niger,Apartment,4,1,1
+2322,Kebbi,Mansion,3,1,4
+4759,Delta,Flat,6,4,6
+4077,Sokoto,Townhouse,1,5,6
+1485,Benue,Terrace duplex,3,2,2
+4107,Delta,Apartment,1,6,5
+7975,Edo,Mansion,7,2,1
+6255,Bauchi,Penthouse,9,6,1
+298,Akwa Ibom,Flat,5,2,1
+3812,Kano,Penthouse,4,2,4
+12304,Ondo,Townhouse,2,1,5
+2901,Kogi,Semi-detached duplex,3,2,2
+192,Osun,Mansion,9,2,5
+8375,Kano,Bungalow,9,4,6
+2885,Bayelsa,Cottage,2,1,3
+5549,Ondo,Detached duplex,7,7,3
+10196,Cross River,Semi-detached duplex,9,6,4
+633,Ebonyi,Mansion,1,1,4
+5360,Katsina,Mansion,2,1,2
+984,Taraba,Mansion,8,4,4
+1099,Delta,Cottage,5,1,1
+8811,Cross River,Flat,7,3,2
+192,Taraba,Cottage,2,1,4
+603,Oyo,Apartment,9,3,2
+6803,Jigawa,Penthouse,5,6,1
+9065,Katsina,Townhouse,7,6,3
+1043,Taraba,Semi-detached duplex,3,1,3
+1371,Kebbi,Flat,2,1,2
+5628,Enugu,Bungalow,1,7,1
+3644,Oyo,Semi-detached duplex,7,1,3
+6073,Imo,Townhouse,2,4,3
+3793,Nasarawa,Apartment,9,1,5
+7919,Kogi,Mansion,1,1,2
+2121,Enugu,Flat,1,2,1
+1248,Akwa Ibom,Detached duplex,2,1,4
+922,Cross River,Apartment,3,2,4
+8195,Abia,Semi-detached duplex,2,2,1
+4539,Imo,Penthouse,2,2,4
+7801,Taraba,Detached duplex,5,5,4
+1789,Delta,Terrace duplex,7,3,2
+924,Edo,Apartment,1,2,3
+6817,Katsina,Flat,7,6,5
+12305,Katsina,Terrace duplex,6,6,4
+6653,Kaduna,Detached duplex,1,7,2
+10592,Kogi,Townhouse,9,7,5
+5511,Nasarawa,Terrace duplex,8,7,2
+2558,Rivers,Flat,2,5,5
+2657,Kogi,Bungalow,5,2,3
+314,Rivers,Penthouse,8,1,6
+2661,Taraba,Terrace duplex,9,1,3
+9527,Ekiti,Penthouse,1,6,5
+3420,Ogun,Bungalow,1,2,2
+1622,Ondo,Apartment,3,2,3
+9070,Niger,Terrace duplex,2,5,2
+2407,Adamawa,Flat,3,1,4
+3772,Osun,Mansion,8,1,6
+1858,Ekiti,Townhouse,4,2,2
+5639,Ondo,Penthouse,4,3,1
+10954,Bayelsa,Detached duplex,8,7,6
+2481,Benue,Flat,1,2,1
+5231,Kogi,Semi-detached duplex,4,6,2
+12798,Ogun,Bungalow,8,4,5
+3892,Taraba,Mansion,6,4,6
+8873,Adamawa,Detached duplex,8,2,3
+1249,Nasarawa,Semi-detached duplex,3,2,2
+344,Plateau,Apartment,7,4,6
+10811,Kogi,Flat,8,1,2
+9540,Nasarawa,Apartment,2,4,2
+253,Taraba,Penthouse,2,2,1
+8123,Kebbi,Bungalow,2,1,6
+9578,Imo,Detached duplex,2,7,1
+2594,Bayelsa,Mansion,5,6,3
+285,Akwa Ibom,Bungalow,5,1,4
+9157,Nasarawa,Mansion,5,3,5
+2099,Abia,Mansion,5,2,2
+12714,Zamfara,Semi-detached duplex,8,3,6
+919,Nasarawa,Detached duplex,5,4,3
+4275,Ogun,Townhouse,7,5,4
+2984,Sokoto,Detached duplex,3,1,3
+9547,Nasarawa,Terrace duplex,9,7,6
+799,Niger,Apartment,5,2,3
+7065,Ebonyi,Penthouse,8,4,6
+1685,Imo,Detached duplex,1,2,1
+1699,Gombe,Flat,5,2,1
+4161,Kebbi,Terrace duplex,6,3,2
+221,Rivers,Townhouse,5,2,2
+7243,Taraba,Semi-detached duplex,9,7,1
+1668,Bauchi,Penthouse,6,4,4
+11679,Plateau,Mansion,2,6,4
+964,Ondo,Mansion,1,1,1
+11977,Ogun,Penthouse,5,5,3
+12718,Anambra,Mansion,8,4,4
+2480,Kaduna,Terrace duplex,6,1,5
+7697,Gombe,Detached duplex,8,2,5
+2954,Osun,Detached duplex,6,5,3
+3934,Bauchi,Townhouse,4,2,3
+1291,Benue,Semi-detached duplex,5,2,1
+2055,Zamfara,Cottage,1,1,3
+1386,Bayelsa,Detached duplex,8,5,3
+1146,Bauchi,Flat,3,3,2
+7005,Gombe,Detached duplex,7,7,6
+284,Anambra,Apartment,1,1,4
+12255,Lagos,Bungalow,4,2,4
+998,Imo,Penthouse,3,2,3
+10518,Nasarawa,Flat,1,4,1
+1359,Bauchi,Flat,2,2,1
+990,Edo,Apartment,2,1,2
+163,Niger,Bungalow,4,1,4
+3363,Kano,Bungalow,4,2,4
+10,Abia,Detached duplex,2,2,3
+464,Kwara,Penthouse,4,4,3
+10299,Abia,Apartment,1,1,5
+950,Yobe,Apartment,3,1,4
+10419,Kogi,Flat,9,3,2
+9182,Enugu,Flat,9,7,4
+2432,Kwara,Semi-detached duplex,5,2,2
+12786,Ogun,Mansion,6,4,3
+10055,Katsina,Detached duplex,3,5,5
+4189,Delta,Townhouse,6,1,4
+6811,Oyo,Townhouse,3,3,4
+856,Ekiti,Terrace duplex,3,2,3
+3944,Zamfara,Semi-detached duplex,3,2,1
+2049,Osun,Townhouse,2,2,3
+1599,Kano,Flat,7,5,4
+3510,Niger,Apartment,2,1,6
+2932,Kaduna,Townhouse,2,2,2
+1973,Akwa Ibom,Mansion,4,2,3
+10079,Sokoto,Terrace duplex,2,2,6
+1312,Sokoto,Cottage,3,2,4
+2155,Ebonyi,Terrace duplex,1,1,1
+10804,Niger,Detached duplex,2,1,5
+1443,Edo,Penthouse,4,1,1
+9465,Osun,Semi-detached duplex,3,6,4
+3143,Niger,Semi-detached duplex,2,1,3
+3163,Bauchi,Apartment,4,1,1
+5769,Bayelsa,Flat,9,4,2
+12764,Yobe,Flat,8,7,5
+10167,Lagos,Townhouse,7,4,6
+3875,Jigawa,Apartment,4,6,1
+259,Abia,Flat,5,1,1
+4896,Ondo,Flat,6,5,5
+3137,Nasarawa,Detached duplex,1,2,2
+521,Yobe,Townhouse,1,1,2
+7036,Nasarawa,Mansion,3,1,3
+11881,Akwa Ibom,Mansion,8,1,6
+4405,Anambra,Bungalow,2,3,6
+8708,Nasarawa,Flat,2,3,6
+2921,Zamfara,Flat,1,2,1
+2189,Bauchi,Penthouse,3,1,3
+1399,Bauchi,Apartment,3,1,1
+2662,Nasarawa,Bungalow,3,1,3
+7405,Gombe,Mansion,7,5,4
+4850,Anambra,Flat,5,2,1
+8929,Bayelsa,Mansion,8,4,4
+2976,Bayelsa,Semi-detached duplex,4,6,4
+2619,Yobe,Apartment,5,1,1
+1186,Nasarawa,Apartment,1,1,4
+12450,Yobe,Penthouse,4,1,4
+7516,Yobe,Bungalow,5,2,1
+4866,Akwa Ibom,Mansion,6,5,1
+817,Akwa Ibom,Townhouse,2,1,1
+2819,Ondo,Detached duplex,2,6,3
+6627,Taraba,Penthouse,1,4,5
+3423,Gombe,Flat,2,7,5
+302,Niger,Cottage,4,2,4
+598,Rivers,Semi-detached duplex,1,6,2
+2486,Edo,Detached duplex,3,1,2
+4277,Enugu,Detached duplex,6,3,3
+2434,Anambra,Bungalow,1,2,2
+10911,Bayelsa,Penthouse,1,1,5
+76,Bauchi,Mansion,1,1,3
+10213,Kaduna,Townhouse,4,2,6
+3504,Oyo,Detached duplex,3,1,3
+2379,Cross River,Flat,3,7,4
+3299,Ekiti,Townhouse,5,1,2
+11604,Kebbi,Mansion,6,5,3
+11895,Katsina,Terrace duplex,4,7,5
+2353,Zamfara,Mansion,3,7,5
+5187,Cross River,Semi-detached duplex,9,5,1
+148,Anambra,Cottage,1,1,3
+2567,Ebonyi,Mansion,2,3,1
+8667,Niger,Flat,7,1,1
+1866,Niger,Penthouse,3,2,4
+8858,Zamfara,Bungalow,9,5,3
+2263,Adamawa,Mansion,5,3,1
+1788,Edo,Penthouse,2,1,1
+1433,Rivers,Bungalow,4,2,1
+7070,Adamawa,Bungalow,4,6,4
+3760,Borno,Flat,3,1,1
+332,Borno,Terrace duplex,9,3,2
+923,Niger,Bungalow,2,2,2
+1456,Niger,Mansion,2,4,3
+6725,Enugu,Penthouse,7,1,6
+9702,Akwa Ibom,Flat,4,1,4
+4543,Kwara,Detached duplex,8,2,2
+3147,Osun,Penthouse,3,6,2
+1827,Kwara,Cottage,2,1,3
+174,Niger,Flat,5,1,4
+5391,Delta,Terrace duplex,8,6,5
+9031,Lagos,Flat,1,4,4
+2901,Ogun,Detached duplex,6,2,4
+1790,Kaduna,Terrace duplex,3,3,4
+6513,Borno,Semi-detached duplex,7,4,6
+7148,Gombe,Flat,7,4,5
+4646,Katsina,Flat,7,4,4
+3578,Kaduna,Apartment,1,2,3
+1080,Adamawa,Terrace duplex,3,1,1
+5894,Bauchi,Penthouse,5,2,5
+6331,Kano,Apartment,4,4,2
+1636,Niger,Townhouse,5,2,4
+1040,Lagos,Penthouse,2,1,3
+3826,Kano,Detached duplex,3,1,3
+8879,Kogi,Mansion,3,2,2
+2688,Lagos,Terrace duplex,3,1,2
+2514,Sokoto,Detached duplex,1,2,2
+89,Ogun,Townhouse,4,1,1
+1535,Lagos,Cottage,2,2,2
+7341,Cross River,Penthouse,3,4,1
+2041,Abia,Apartment,2,1,1
+362,Kwara,Apartment,1,1,2
+8426,Kaduna,Penthouse,9,7,5
+3456,Imo,Townhouse,3,1,4
+1797,Kwara,Terrace duplex,6,1,5
+4962,Edo,Bungalow,2,4,5
+3040,Lagos,Detached duplex,5,7,3
+3183,Borno,Detached duplex,3,1,1
+1661,Ogun,Bungalow,8,3,2
+10124,Kebbi,Semi-detached duplex,9,1,4
+10435,Jigawa,Terrace duplex,7,4,4
+3721,Cross River,Semi-detached duplex,3,1,1
+1995,Abia,Apartment,5,1,2
+9816,Lagos,Townhouse,1,3,5
+2383,Ebonyi,Apartment,2,1,3
+12272,Nasarawa,Townhouse,4,3,2
+1820,Ekiti,Penthouse,4,1,3
+1699,Ogun,Cottage,2,2,1
+1023,Anambra,Flat,3,1,2
+1890,Gombe,Semi-detached duplex,4,6,5
+3822,Taraba,Cottage,4,1,2
+2957,Edo,Bungalow,3,4,1
+4429,Plateau,Detached duplex,1,3,3
+4022,Kaduna,Townhouse,9,5,2
+3702,Lagos,Mansion,2,5,5
+6401,Kaduna,Terrace duplex,4,5,1
+932,Nasarawa,Townhouse,5,2,3
+4351,Ogun,Detached duplex,4,2,5
+147,Abia,Townhouse,3,3,6
+726,Borno,Apartment,4,1,1
+5460,Bauchi,Terrace duplex,9,2,5
+8732,Osun,Mansion,1,4,3
+4292,Delta,Detached duplex,3,7,3
+9867,Taraba,Flat,5,6,6
+11816,Gombe,Semi-detached duplex,9,3,2
+2874,Kwara,Apartment,1,2,5
+3897,Cross River,Flat,4,1,1
+414,Delta,Penthouse,3,6,1
+1991,Taraba,Penthouse,5,1,3
+2372,Enugu,Flat,1,1,2
+755,Jigawa,Mansion,3,2,2
+12246,Benue,Flat,3,3,5
+6781,Benue,Townhouse,5,3,6
+9694,Oyo,Mansion,1,2,5
+3911,Kaduna,Apartment,3,2,4
+1725,Rivers,Detached duplex,3,1,1
+3912,Gombe,Apartment,1,2,4
+1087,Gombe,Bungalow,4,1,2
+9496,Enugu,Flat,1,7,3
+1226,Jigawa,Bungalow,3,2,3
+5383,Imo,Penthouse,8,1,3
+9834,Lagos,Bungalow,1,7,3
+418,Kwara,Townhouse,7,5,3
+9621,Kogi,Detached duplex,3,3,1
+879,Lagos,Mansion,4,2,3
+3317,Lagos,Mansion,5,4,3
+1612,Yobe,Semi-detached duplex,3,2,2
+3709,Enugu,Detached duplex,7,5,2
+4505,Bauchi,Flat,8,6,5
+11043,Ondo,Terrace duplex,8,3,4
+830,Delta,Detached duplex,4,1,3
+10141,Bauchi,Detached duplex,6,5,3
+1060,Imo,Apartment,4,1,4
+11130,Bauchi,Semi-detached duplex,8,2,2
+2802,Bayelsa,Detached duplex,2,5,4
+4999,Borno,Penthouse,4,7,6
+2946,Yobe,Terrace duplex,3,2,2
+1194,Katsina,Flat,2,2,4
+11177,Zamfara,Mansion,4,3,5
+4990,Delta,Mansion,4,3,1
+7302,Jigawa,Flat,8,1,4
+5996,Taraba,Penthouse,5,4,4
+5143,Abia,Penthouse,6,3,2
+2502,Niger,Semi-detached duplex,1,1,4
+1884,Adamawa,Mansion,4,2,1
+11305,Nasarawa,Flat,7,3,2
+1430,Abia,Terrace duplex,5,5,2
+4439,Zamfara,Semi-detached duplex,4,6,3
+10768,Lagos,Flat,9,5,6
+10560,Ondo,Flat,2,6,6
+539,Nasarawa,Apartment,5,2,1
+9739,Katsina,Detached duplex,7,3,4
+7493,Kebbi,Apartment,5,4,1
+2613,Lagos,Penthouse,5,1,2
+7420,Adamawa,Semi-detached duplex,8,3,4
+5294,Ebonyi,Penthouse,2,3,6
+477,Kwara,Semi-detached duplex,7,7,3
+3181,Kaduna,Bungalow,3,1,4
+5218,Kano,Flat,9,7,1
+18,Ogun,Apartment,1,2,1
+1960,Ebonyi,Penthouse,4,1,3
+7240,Benue,Penthouse,6,1,1
+2826,Kano,Townhouse,7,3,2
+1761,Nasarawa,Bungalow,3,3,6
+6276,Abia,Penthouse,6,3,4
+2485,Akwa Ibom,Semi-detached duplex,4,2,1
+1509,Kebbi,Mansion,2,1,2
+10473,Akwa Ibom,Bungalow,7,5,3
+1365,Rivers,Mansion,6,7,4
+3694,Yobe,Detached duplex,2,2,1
+3973,Ekiti,Flat,3,1,4
+2359,Osun,Apartment,4,6,6
+6690,Bauchi,Mansion,9,1,1
+7170,Plateau,Townhouse,7,1,1
+2441,Gombe,Townhouse,5,2,3
+2914,Taraba,Mansion,4,1,3
+2739,Ekiti,Cottage,2,2,1
+115,Yobe,Townhouse,3,2,2
+2265,Taraba,Terrace duplex,3,4,1
+3253,Osun,Penthouse,6,4,2
+990,Lagos,Semi-detached duplex,8,4,1
+2723,Ondo,Apartment,3,5,1
+2112,Niger,Bungalow,5,5,6
+1563,Niger,Semi-detached duplex,4,1,1
+12122,Lagos,Mansion,6,3,3
+2027,Cross River,Semi-detached duplex,6,5,1
+1476,Cross River,Bungalow,3,1,3
+4738,Edo,Terrace duplex,6,2,1
+796,Kaduna,Mansion,2,1,4
+6205,Plateau,Terrace duplex,4,5,4
+6320,Kaduna,Flat,2,2,2
+2199,Oyo,Flat,1,1,1
+2871,Sokoto,Townhouse,7,3,3
+3218,Kogi,Bungalow,4,2,2
+646,Kano,Semi-detached duplex,7,4,4
+2924,Lagos,Flat,5,1,4
+8782,Imo,Terrace duplex,8,3,6
+5336,Bauchi,Detached duplex,6,5,3
+1604,Bayelsa,Penthouse,3,1,2
+3447,Kano,Bungalow,2,2,6
+12206,Cross River,Bungalow,5,2,3
+2184,Enugu,Mansion,2,1,1
+492,Kogi,Penthouse,1,1,2
+3186,Ondo,Penthouse,9,7,2
+1450,Benue,Detached duplex,4,1,3
+11566,Taraba,Terrace duplex,1,5,3
+10609,Kwara,Mansion,6,6,1
+12270,Kogi,Townhouse,1,7,3
+8712,Edo,Penthouse,6,1,2
+8619,Oyo,Apartment,2,7,4
+647,Sokoto,Flat,4,2,1
+11338,Anambra,Bungalow,1,7,4
+6654,Taraba,Townhouse,5,1,1
+11038,Kano,Flat,4,2,4
+11813,Jigawa,Townhouse,4,1,1
+12858,Ogun,Flat,4,6,6
+12503,Benue,Terrace duplex,5,2,1
+2400,Benue,Bungalow,2,3,4
+1312,Ekiti,Townhouse,1,1,2
+6271,Borno,Terrace duplex,5,6,1
+10172,Lagos,Penthouse,5,4,3
+2631,Ogun,Townhouse,4,2,2
+871,Nasarawa,Cottage,1,2,3
+8482,Kwara,Flat,1,7,5
+675,Jigawa,Penthouse,1,2,4
+189,Rivers,Apartment,3,1,3
+6939,Bayelsa,Apartment,2,4,5
+3941,Delta,Cottage,1,1,2
+2246,Yobe,Bungalow,2,3,5
+1567,Kwara,Apartment,5,1,3
+9939,Abia,Terrace duplex,2,7,5
+1406,Kano,Semi-detached duplex,5,4,4
+2868,Oyo,Flat,2,2,2
+2621,Enugu,Apartment,2,2,3
+8186,Anambra,Apartment,2,6,3
+8608,Kogi,Townhouse,8,5,5
+8128,Jigawa,Detached duplex,5,6,3
+10328,Bauchi,Flat,1,5,2
+504,Ogun,Bungalow,8,7,1
+312,Oyo,Penthouse,1,1,2
+1992,Ebonyi,Penthouse,4,2,1
+1514,Nasarawa,Mansion,9,1,6
+12097,Rivers,Semi-detached duplex,7,3,5
+3166,Abia,Terrace duplex,1,1,1
+48,Rivers,Penthouse,2,4,1
+7670,Adamawa,Apartment,5,3,3
+2488,Niger,Apartment,2,2,4
+2953,Katsina,Bungalow,3,3,3
+6266,Jigawa,Apartment,5,5,3
+4578,Akwa Ibom,Flat,7,4,6
+12227,Kaduna,Apartment,3,5,5
+7597,Adamawa,Penthouse,6,4,6
+889,Cross River,Penthouse,3,2,3
+7352,Katsina,Penthouse,8,5,1
+10948,Katsina,Terrace duplex,1,7,4
+6754,Ekiti,Detached duplex,3,6,6
+3211,Ebonyi,Terrace duplex,5,1,1
+8817,Akwa Ibom,Flat,2,6,3
+434,Kwara,Semi-detached duplex,1,2,1
+3856,Cross River,Apartment,1,2,4
+47,Taraba,Flat,3,2,1
+3263,Jigawa,Terrace duplex,1,7,5
+865,Rivers,Penthouse,5,6,1
+4897,Kaduna,Terrace duplex,8,3,5
+4160,Nasarawa,Semi-detached duplex,7,2,4
+11299,Lagos,Flat,7,5,1
+10969,Plateau,Detached duplex,7,2,1
+2222,Rivers,Townhouse,3,1,6
+8510,Jigawa,Bungalow,4,3,1
+2849,Kaduna,Penthouse,3,2,2
+1517,Benue,Flat,4,1,2
+2581,Kwara,Mansion,3,1,1
+5455,Edo,Bungalow,2,2,1
+2515,Kebbi,Semi-detached duplex,9,5,6
+8354,Kogi,Penthouse,1,1,2
+3678,Ogun,Terrace duplex,3,4,4
+3533,Bauchi,Flat,5,2,4
+7560,Oyo,Penthouse,8,7,1
+2931,Plateau,Flat,5,2,4
+3009,Akwa Ibom,Detached duplex,9,6,6
+12164,Nasarawa,Terrace duplex,4,6,3
+11593,Kaduna,Bungalow,5,2,3
+90,Benue,Terrace duplex,9,5,5
+2829,Katsina,Semi-detached duplex,5,7,2
+7856,Delta,Terrace duplex,8,7,6
+1893,Oyo,Townhouse,2,5,1
+1978,Imo,Detached duplex,5,2,3
+4263,Osun,Flat,4,2,5
+211,Jigawa,Terrace duplex,6,6,2
+9634,Taraba,Townhouse,4,4,1
+884,Edo,Mansion,6,4,4
+9846,Delta,Penthouse,1,6,2
+2298,Kwara,Semi-detached duplex,5,1,2
+6445,Katsina,Bungalow,6,4,1
+1447,Taraba,Flat,7,2,3
+82,Benue,Apartment,9,7,5
+5296,Edo,Mansion,4,4,6
+11775,Kebbi,Apartment,2,6,6
+2771,Plateau,Cottage,1,2,4
+1524,Adamawa,Terrace duplex,3,1,2
+4181,Zamfara,Apartment,8,5,2
+681,Taraba,Penthouse,2,2,2
+1710,Gombe,Townhouse,2,1,1
+5179,Jigawa,Apartment,3,3,1
+5058,Edo,Bungalow,8,5,3
+6416,Edo,Semi-detached duplex,1,6,1
+111,Enugu,Bungalow,2,1,1
+3457,Rivers,Flat,9,3,5
+12425,Osun,Penthouse,1,4,4
+1420,Sokoto,Detached duplex,4,2,3
+9955,Abia,Detached duplex,7,7,4
+428,Kano,Bungalow,2,7,2
+12020,Cross River,Flat,2,2,1
+1886,Adamawa,Terrace duplex,6,7,2
+8240,Bayelsa,Apartment,2,4,2
+11949,Plateau,Terrace duplex,9,1,4
+2730,Enugu,Apartment,1,1,1
+3412,Imo,Mansion,2,7,3
+12204,Abia,Apartment,3,4,2
+2358,Oyo,Townhouse,1,5,2
+1042,Imo,Cottage,1,2,4
+9737,Cross River,Flat,9,1,2
+6424,Cross River,Semi-detached duplex,9,4,3
+5516,Kaduna,Semi-detached duplex,8,4,3
+2860,Nasarawa,Penthouse,1,2,2
+1814,Borno,Mansion,4,2,1
+620,Osun,Apartment,2,2,3
+10075,Katsina,Mansion,9,6,4
+1960,Gombe,Penthouse,6,7,1
+8350,Taraba,Apartment,7,1,1
+10630,Niger,Townhouse,6,1,4
+895,Zamfara,Apartment,2,7,2
+7789,Jigawa,Terrace duplex,1,6,1
+11556,Kebbi,Detached duplex,5,7,1
+3296,Abia,Semi-detached duplex,2,2,2
+1567,Lagos,Bungalow,5,1,4
+1131,Adamawa,Terrace duplex,1,1,1
+1136,Abia,Semi-detached duplex,3,1,5
+1911,Kebbi,Flat,2,6,4
+7792,Oyo,Flat,4,2,2
+534,Bayelsa,Apartment,3,1,4
+3032,Oyo,Bungalow,1,1,4
+377,Edo,Semi-detached duplex,2,2,1
+1372,Benue,Semi-detached duplex,5,2,1
+2005,Delta,Townhouse,4,2,1
+5501,Abia,Flat,8,5,2
+289,Osun,Townhouse,5,2,1
+9729,Gombe,Townhouse,5,1,6
+3790,Ondo,Mansion,5,4,5
+3526,Borno,Flat,4,1,4
+120,Kebbi,Apartment,3,4,2
+11435,Rivers,Bungalow,5,6,4
+5621,Ebonyi,Apartment,8,4,6
+10815,Kogi,Townhouse,5,2,4
+2656,Imo,Apartment,3,7,4
+5413,Bayelsa,Apartment,2,3,3
+3293,Kaduna,Flat,3,1,2
+7211,Sokoto,Bungalow,4,7,6
+3210,Niger,Penthouse,9,6,4
+6303,Edo,Terrace duplex,6,4,5
+8457,Yobe,Semi-detached duplex,8,2,2
+2335,Kaduna,Detached duplex,3,1,4
+2478,Abia,Penthouse,5,5,5
+12183,Kwara,Flat,4,4,4
+3683,Cross River,Mansion,3,1,1
+12734,Kwara,Apartment,7,6,4
+1180,Niger,Terrace duplex,8,7,1
+11953,Benue,Terrace duplex,2,7,5
+6423,Anambra,Mansion,9,7,3
+9000,Benue,Detached duplex,4,2,2
+8956,Nasarawa,Flat,1,2,3
+134,Kano,Mansion,6,2,6
+3376,Niger,Flat,3,7,2
+4155,Ebonyi,Townhouse,5,5,2
+206,Taraba,Mansion,2,2,4
+1767,Zamfara,Penthouse,1,2,2
+11092,Ondo,Apartment,4,1,3
+4788,Plateau,Terrace duplex,1,3,2
+778,Akwa Ibom,Cottage,2,1,1
+2881,Cross River,Penthouse,3,2,1
+4654,Kwara,Semi-detached duplex,9,6,3
+10192,Bayelsa,Mansion,5,3,2
+12613,Yobe,Semi-detached duplex,8,1,1
+7899,Bayelsa,Semi-detached duplex,2,6,4
+1831,Plateau,Townhouse,3,1,2
+1272,Oyo,Semi-detached duplex,2,2,3
+10052,Akwa Ibom,Semi-detached duplex,5,4,4
+9022,Edo,Mansion,6,2,1
+3519,Ogun,Bungalow,3,2,3
+7368,Sokoto,Apartment,3,2,1
+662,Katsina,Mansion,1,2,1
+1187,Jigawa,Penthouse,4,2,4
+312,Delta,Detached duplex,2,1,4
+8208,Osun,Apartment,5,1,5
+2176,Yobe,Flat,4,1,1
+2000,Borno,Bungalow,4,1,2
+6729,Osun,Terrace duplex,2,5,6
+12794,Ondo,Flat,6,5,1
+1199,Kwara,Cottage,2,2,4
+793,Plateau,Terrace duplex,5,1,4
+4644,Plateau,Flat,5,3,1
+6850,Borno,Terrace duplex,1,1,4
+1488,Ekiti,Cottage,3,1,2
+1377,Plateau,Flat,1,4,2
+3026,Cross River,Bungalow,4,4,6
+8585,Kwara,Detached duplex,4,3,5
+1879,Plateau,Flat,5,2,1
+2681,Ebonyi,Penthouse,2,2,6
+9542,Cross River,Detached duplex,8,3,1
+2734,Katsina,Penthouse,6,7,1
+3166,Kwara,Terrace duplex,2,3,1
+10719,Edo,Townhouse,5,1,6
+1968,Kaduna,Flat,1,7,3
+8085,Rivers,Semi-detached duplex,6,7,2
+5795,Kwara,Semi-detached duplex,1,1,3
+2140,Abia,Penthouse,4,2,1
+11562,Lagos,Mansion,4,2,4
+4913,Bauchi,Detached duplex,3,1,1
+4468,Kaduna,Mansion,3,2,1
+9427,Niger,Penthouse,3,3,2
+4548,Anambra,Flat,1,6,3
+2494,Jigawa,Townhouse,3,1,2
+3401,Edo,Terrace duplex,5,6,3
+1684,Bayelsa,Penthouse,2,1,4
+1354,Zamfara,Cottage,2,2,1
+10021,Katsina,Semi-detached duplex,4,6,4
+9423,Niger,Semi-detached duplex,4,1,5
+227,Osun,Flat,4,2,1
+12177,Enugu,Apartment,2,3,5
+2727,Ogun,Bungalow,3,1,2
+3824,Kano,Terrace duplex,1,2,4
+5642,Benue,Mansion,2,3,5
+6477,Rivers,Penthouse,7,7,1
+5953,Sokoto,Townhouse,4,3,3
+8791,Edo,Mansion,1,5,5
+7441,Lagos,Apartment,8,7,4
+11602,Gombe,Bungalow,1,7,4
+1048,Sokoto,Penthouse,3,1,1
+2050,Ogun,Penthouse,3,2,1
+603,Borno,Flat,2,2,4
+3285,Jigawa,Detached duplex,1,4,6
+1389,Ebonyi,Apartment,5,1,4
+1836,Zamfara,Townhouse,1,2,4
+3994,Edo,Apartment,1,1,1
+8185,Zamfara,Townhouse,7,7,4
+2632,Rivers,Terrace duplex,1,1,1
+3758,Lagos,Penthouse,3,4,4
+675,Cross River,Detached duplex,9,1,1
+1232,Zamfara,Flat,4,1,5
+6779,Enugu,Semi-detached duplex,5,1,6
+10030,Delta,Flat,9,4,2
+7908,Ogun,Bungalow,4,5,6
+3558,Jigawa,Flat,3,7,5
+3861,Adamawa,Townhouse,5,2,2
+6965,Adamawa,Flat,3,5,5
+10731,Taraba,Flat,9,2,4
+6774,Bayelsa,Detached duplex,5,2,4
+67,Kano,Detached duplex,5,6,2
+9551,Kwara,Mansion,2,2,5
+12496,Yobe,Penthouse,6,7,3
+1121,Ebonyi,Townhouse,5,4,6
+305,Edo,Apartment,4,2,3
+11044,Borno,Detached duplex,1,5,2
+1416,Anambra,Bungalow,5,2,2
+3877,Kebbi,Mansion,3,2,3
+693,Yobe,Cottage,2,1,2
+9259,Borno,Bungalow,7,3,4
+8780,Kwara,Semi-detached duplex,2,6,6
+8401,Anambra,Flat,8,5,3
+4584,Zamfara,Apartment,2,5,4
+1923,Edo,Semi-detached duplex,3,1,2
+242,Benue,Mansion,4,2,3
+8491,Borno,Mansion,9,3,5
+60,Gombe,Mansion,5,2,3
+1852,Ekiti,Detached duplex,5,2,4
+2939,Anambra,Apartment,2,2,2
+3287,Oyo,Apartment,4,2,2
+522,Delta,Cottage,3,2,1
+2971,Sokoto,Penthouse,1,2,4
+12293,Oyo,Detached duplex,8,6,1
+5282,Edo,Townhouse,4,6,6
+32,Anambra,Bungalow,1,1,3
+8797,Delta,Townhouse,2,7,6
+438,Kogi,Semi-detached duplex,7,3,1
+1449,Kebbi,Bungalow,3,1,5
+718,Ekiti,Mansion,4,2,1
+2850,Kebbi,Apartment,3,1,2
+1896,Katsina,Terrace duplex,4,1,4
+3976,Adamawa,Apartment,8,4,4
+1968,Rivers,Penthouse,2,2,3
+12836,Gombe,Flat,4,3,1
+12750,Gombe,Terrace duplex,8,4,6
+1937,Ebonyi,Semi-detached duplex,4,2,1
+11526,Kaduna,Detached duplex,9,5,6
+3372,Enugu,Townhouse,4,4,6
+1793,Kogi,Townhouse,5,2,3
+1635,Kogi,Flat,5,2,4
+10451,Abia,Penthouse,8,2,5
+8952,Borno,Penthouse,1,6,2
+4838,Adamawa,Flat,9,4,1
+1214,Lagos,Mansion,5,3,1
+10316,Jigawa,Townhouse,4,3,5
+8341,Nasarawa,Bungalow,1,3,4
+2537,Ogun,Detached duplex,2,1,3
+9976,Taraba,Detached duplex,9,2,1
+12124,Gombe,Townhouse,6,2,2
+5441,Ekiti,Penthouse,6,1,3
+7825,Osun,Terrace duplex,7,3,2
+3853,Jigawa,Bungalow,1,1,4
+1829,Rivers,Terrace duplex,4,2,2
+2079,Plateau,Flat,3,2,2
+2087,Sokoto,Penthouse,3,2,1
+9613,Edo,Townhouse,4,1,6
+10345,Nasarawa,Semi-detached duplex,8,5,5
+3191,Rivers,Apartment,3,1,4
+2384,Delta,Penthouse,3,2,4
+10389,Bauchi,Terrace duplex,3,3,1
+4753,Borno,Semi-detached duplex,6,1,5
+1612,Adamawa,Mansion,3,7,3
+12945,Borno,Semi-detached duplex,2,4,2
+6363,Ondo,Bungalow,7,5,1
+4169,Kaduna,Apartment,6,4,2
+12172,Enugu,Flat,7,6,1
+5583,Imo,Terrace duplex,5,5,2
+12950,Lagos,Mansion,8,3,6
+6448,Niger,Detached duplex,5,6,3
+2406,Plateau,Cottage,2,1,4
+1539,Oyo,Apartment,5,1,3
+2531,Bayelsa,Semi-detached duplex,7,3,6
+7730,Delta,Mansion,5,6,2
+8829,Sokoto,Bungalow,5,1,5
+4813,Taraba,Penthouse,3,4,2
+2570,Oyo,Penthouse,3,2,1
+8838,Adamawa,Detached duplex,3,7,1
+9158,Ekiti,Apartment,5,1,3
+910,Bauchi,Mansion,2,2,6
+1128,Kebbi,Mansion,4,1,3
+3565,Ondo,Mansion,5,3,5
+5234,Borno,Penthouse,6,6,2
+379,Zamfara,Flat,2,3,4
+1999,Enugu,Semi-detached duplex,9,7,2
+4780,Kaduna,Semi-detached duplex,7,4,5
+2499,Delta,Semi-detached duplex,4,2,4
+12320,Rivers,Detached duplex,7,6,1
+2772,Anambra,Bungalow,3,1,1
+2325,Plateau,Semi-detached duplex,3,1,3
+3133,Nasarawa,Semi-detached duplex,1,2,1
+3909,Akwa Ibom,Terrace duplex,8,5,3
+894,Akwa Ibom,Townhouse,2,2,2
+3639,Kaduna,Cottage,1,1,3
+3576,Niger,Mansion,4,1,1
+1783,Zamfara,Apartment,4,1,1
+5099,Niger,Flat,1,7,4
+943,Yobe,Bungalow,4,1,3
+7765,Kwara,Townhouse,1,1,4
+108,Plateau,Flat,1,2,3
+242,Ogun,Flat,5,2,1
+1321,Delta,Flat,1,7,6
+9492,Oyo,Townhouse,1,5,3
+2024,Nasarawa,Semi-detached duplex,2,1,4
+419,Rivers,Apartment,4,2,2
+3344,Edo,Detached duplex,1,1,1
+998,Gombe,Mansion,6,2,5
+9475,Kaduna,Detached duplex,9,7,5
+2770,Delta,Townhouse,3,2,2
+4070,Borno,Semi-detached duplex,6,7,2
+7752,Imo,Flat,6,3,6
+770,Ekiti,Detached duplex,2,1,3
+5409,Sokoto,Apartment,9,6,5
+9821,Yobe,Bungalow,8,2,3
+4051,Katsina,Detached duplex,5,6,3
+859,Ekiti,Apartment,4,2,4
+12296,Borno,Semi-detached duplex,4,2,6
+8114,Kogi,Terrace duplex,6,6,5
+11815,Anambra,Townhouse,4,5,6
+6438,Jigawa,Bungalow,6,1,3
+2342,Lagos,Townhouse,1,2,1
+10375,Kano,Mansion,7,2,2
+911,Ebonyi,Mansion,7,7,2
+11516,Katsina,Penthouse,8,1,3
+11829,Rivers,Apartment,3,5,3
+3702,Enugu,Townhouse,2,1,1
+3309,Kebbi,Townhouse,1,7,1
+1825,Kaduna,Bungalow,2,2,3
+9818,Zamfara,Flat,1,4,1
+9399,Imo,Detached duplex,2,6,3
+3391,Borno,Detached duplex,8,2,6
+860,Kaduna,Semi-detached duplex,2,1,2
+376,Ebonyi,Penthouse,5,2,4
+8854,Abia,Apartment,1,2,5
+3800,Jigawa,Apartment,2,2,2
+1566,Gombe,Townhouse,4,2,6
+1994,Oyo,Mansion,5,1,1
+2417,Yobe,Cottage,5,1,3
+5350,Taraba,Flat,6,1,6
+2541,Adamawa,Detached duplex,5,1,4
+4820,Taraba,Semi-detached duplex,9,7,4
+5153,Kogi,Flat,8,2,3
+1628,Kogi,Terrace duplex,9,2,4
+11416,Oyo,Terrace duplex,9,3,1
+12539,Abia,Apartment,6,7,1
+8245,Oyo,Detached duplex,6,3,4
+7746,Ondo,Flat,6,5,4
+7062,Katsina,Terrace duplex,5,4,2
+12092,Rivers,Townhouse,9,4,3
+3916,Plateau,Penthouse,2,2,4
+1569,Plateau,Apartment,2,2,2
+1208,Borno,Semi-detached duplex,4,1,3
+2696,Akwa Ibom,Semi-detached duplex,5,6,1
+8772,Abia,Terrace duplex,8,2,5
+8532,Akwa Ibom,Apartment,7,1,5
+1264,Benue,Terrace duplex,1,5,3
+804,Borno,Mansion,6,1,1
+2949,Ebonyi,Terrace duplex,5,2,1
+3645,Ekiti,Terrace duplex,3,2,1
+6156,Kano,Semi-detached duplex,5,7,3
+2227,Delta,Townhouse,1,2,4
+7993,Cross River,Detached duplex,4,1,2
+4145,Delta,Apartment,4,4,1
+2314,Kaduna,Semi-detached duplex,8,5,6
+2109,Bayelsa,Apartment,4,1,3
+1954,Taraba,Terrace duplex,8,1,2
+2331,Yobe,Semi-detached duplex,4,2,4
+6020,Plateau,Townhouse,1,6,1
+601,Cross River,Flat,2,7,1
+6493,Oyo,Bungalow,2,6,4
+2648,Enugu,Penthouse,4,1,4
+183,Delta,Bungalow,2,2,1
+4706,Adamawa,Bungalow,8,1,3
+7850,Ebonyi,Flat,4,5,5
+7404,Kaduna,Apartment,6,5,6
+547,Akwa Ibom,Penthouse,5,2,2
+8681,Rivers,Detached duplex,5,2,1
+3159,Plateau,Townhouse,4,1,2
+3020,Zamfara,Terrace duplex,9,4,2
+1852,Gombe,Mansion,2,1,4
+1966,Plateau,Mansion,2,2,4
+1124,Abia,Bungalow,3,2,3
+10944,Rivers,Penthouse,7,5,3
+11703,Plateau,Flat,2,2,6
+632,Kogi,Cottage,2,1,4
+5850,Kwara,Bungalow,6,7,5
+12875,Benue,Detached duplex,2,5,1
+8675,Bauchi,Mansion,2,6,2
+321,Anambra,Apartment,9,4,4
+10619,Kwara,Apartment,6,3,5
+4872,Imo,Detached duplex,9,7,4
+9788,Plateau,Flat,1,1,2
+10183,Osun,Terrace duplex,7,3,2
+807,Anambra,Flat,4,4,3
+2710,Osun,Semi-detached duplex,3,2,3
+9667,Edo,Terrace duplex,5,6,4
+598,Zamfara,Terrace duplex,1,1,2
+12577,Oyo,Detached duplex,3,2,2
+7973,Kogi,Mansion,9,2,3
+3345,Abia,Detached duplex,6,6,6
+1665,Ekiti,Terrace duplex,1,1,2
+9572,Jigawa,Terrace duplex,9,7,6
+3292,Oyo,Flat,5,3,6
+1589,Kano,Townhouse,4,1,3
+10867,Edo,Detached duplex,9,3,1
+5980,Zamfara,Mansion,3,3,6
+2356,Imo,Detached duplex,1,1,1
+3159,Benue,Cottage,5,1,1
+1637,Plateau,Bungalow,8,3,6
+11333,Benue,Apartment,2,7,4
+123,Anambra,Cottage,4,2,4
+2349,Delta,Terrace duplex,5,1,1
+2974,Ebonyi,Detached duplex,2,3,4
+3855,Delta,Flat,9,3,2
+10505,Kwara,Townhouse,7,4,6
+11365,Ekiti,Townhouse,1,2,1
+1131,Niger,Terrace duplex,2,3,6
+1289,Benue,Bungalow,4,6,4
+640,Plateau,Apartment,1,1,4
+7848,Kogi,Penthouse,6,4,1
+2854,Jigawa,Penthouse,3,1,3
+854,Lagos,Apartment,1,6,3
+2472,Katsina,Mansion,3,4,5
+8366,Oyo,Flat,9,5,2
+3820,Cross River,Bungalow,5,1,2
+2412,Rivers,Detached duplex,5,2,4
+3152,Kaduna,Flat,3,2,1
+727,Borno,Bungalow,1,2,3
+10255,Delta,Townhouse,8,3,1
+4927,Borno,Semi-detached duplex,2,1,4
+9698,Adamawa,Townhouse,2,7,3
+1990,Osun,Cottage,4,1,3
+10650,Enugu,Townhouse,1,3,2
+8433,Sokoto,Mansion,4,4,2
+454,Sokoto,Terrace duplex,5,1,4
+1292,Gombe,Penthouse,4,4,6
+2381,Yobe,Townhouse,6,3,6
+11259,Ebonyi,Apartment,1,5,4
+551,Zamfara,Detached duplex,6,7,4
+6500,Kano,Semi-detached duplex,8,1,5
+5041,Jigawa,Semi-detached duplex,6,4,3
+6421,Kogi,Apartment,3,1,6
+1452,Benue,Bungalow,2,2,5
+3298,Anambra,Townhouse,3,4,6
+8826,Abia,Terrace duplex,7,2,1
+1974,Anambra,Flat,1,7,1
+11312,Katsina,Detached duplex,3,5,5
+1594,Ekiti,Flat,4,5,2
+2416,Adamawa,Terrace duplex,5,7,1
+10195,Oyo,Townhouse,4,1,4
+9455,Bauchi,Flat,3,7,5
+11736,Sokoto,Mansion,6,1,6
