@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label=<title_rank &le; 9.5<br/>mse = 1152030019932.996<br/>samples = 8424<br/>value = 2131946.679>, fillcolor="#fdf4ee"] ;
+1 [label=<bedroom &le; 5.5<br/>mse = 616206572631.16<br/>samples = 7514<br/>value = 1940477.875>, fillcolor="#fef8f4"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<loc_encoded &le; 0.245<br/>mse = 422682926181.57<br/>samples = 5682<br/>value = 1696009.945>, fillcolor="#fefcfb"] ;
+1 -> 2 ;
+3 [label=<mse = 240634576260.286<br/>samples = 4644<br/>value = 1547134.594>, fillcolor="#ffffff"] ;
+2 -> 3 ;
+4 [label=<mse = 694359523068.774<br/>samples = 1038<br/>value = 2362076.546>, fillcolor="#fcf0e7"] ;
+2 -> 4 ;
+5 [label=<loc_encoded &le; 0.225<br/>mse = 456160174417.984<br/>samples = 1832<br/>value = 2698702.1>, fillcolor="#fbeade"] ;
+1 -> 5 ;
+6 [label=<mse = 198095164974.345<br/>samples = 1237<br/>value = 2425113.849>, fillcolor="#fcefe6"] ;
+5 -> 6 ;
+7 [label=<mse = 513542118740.99<br/>samples = 595<br/>value = 3267489.773>, fillcolor="#f8dfcd"] ;
+5 -> 7 ;
+8 [label=<loc_encoded &le; 0.245<br/>mse = 2774176993781.748<br/>samples = 910<br/>value = 3712931.948>, fillcolor="#f7d7c0"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label=<bedroom &le; 5.5<br/>mse = 1264159003377.184<br/>samples = 711<br/>value = 3293924.302>, fillcolor="#f8dfcc"] ;
+8 -> 9 ;
+10 [label=<mse = 1080044980522.09<br/>samples = 551<br/>value = 2980489.777>, fillcolor="#fae5d5"] ;
+9 -> 10 ;
+11 [label=<mse = 394800442234.375<br/>samples = 160<br/>value = 4373314.449>, fillcolor="#f4cbad"] ;
+9 -> 11 ;
+12 [label=<loc_encoded &le; 0.365<br/>mse = 5300806809551.621<br/>samples = 199<br/>value = 5209989.415>, fillcolor="#f1bb95"] ;
+8 -> 12 ;
+13 [label=<mse = 2424643315348.68<br/>samples = 174<br/>value = 4755705.96>, fillcolor="#f3c4a2"] ;
+12 -> 13 ;
+14 [label=<mse = 13885484986669.797<br/>samples = 25<br/>value = 8371802.262>, fillcolor="#e58139"] ;
+12 -> 14 ;
+}
